@@ -1,0 +1,23 @@
+Package: AzorPkg2
+Type: Package
+Title: Functionality for Azor Diagnostics
+Version: 0.2.0
+Authors@R: as.person("Dan Reznik <dreznik@gmail.com> [aut,cre]")
+Description: Functionality for Azor Diagnostics
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.4.1)
+Suggests:
+    purrr,
+    magrittr,
+    dplyr,
+    assertthat,
+    stringr,
+    tidyr,
+    tibble,
+    lubridate
+Exports:
+    validate_exam_result
+RoxygenNote: 6.0.1
+    

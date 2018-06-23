@@ -116,7 +116,7 @@ invalid_exams <- function(sex,birth_ymd,exam_ymd,
 
 #' @export
 chave_to_id <- function(chave) df_ref_dict %>%
-  filter(descr_valor==chave %>% str_trim %>% str_to_lower) %>%
+  filter(descr_valor==(chave %>% str_trim %>% str_to_lower)) %>%
   pull(id_valor)
 
 #' @export

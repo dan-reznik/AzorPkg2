@@ -96,8 +96,7 @@ validate_exams <- function(sex,
 
   map2_dfr(exam_id_vec,exam_value_vec,
           ~c(list(id_valor=.x),
-              validate_exam_result(sex,age_in_days_at_exam,
-                                   .x,.y)))
+             validate_exam_result(sex,age_in_days_at_exam,.x,.y)))
 }
 
 #' @export

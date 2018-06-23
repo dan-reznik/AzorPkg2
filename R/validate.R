@@ -1,6 +1,7 @@
 # (C) 2018 Azor Diagnostics
 
-#' @importFrom purrr transpose discard prepend map map2 map2_lgl map2_df
+#' @importFrom purrr transpose discard prepend
+#' @importFrom purrr map map2 map2_lgl map2_dfr
 #' @importFrom magrittr %>%
 #' @importFrom dplyr filter between select pull mutate
 #' @importFrom assertthat assert_that
@@ -11,9 +12,6 @@
 #' @importFrom rlang enquo
 
 # git remote set-url origin https://github.com/dan-reznik/AzorPkg.git
-
-
-# Unexported
 
 validate_sex <- function(sex,
                          # can be vectorized
@@ -41,24 +39,16 @@ validate_sex <- function(sex,
          valid=between(value,val_min,val_max))
 }
 
-# this won't work with openCPU because it expects a list of lists and fromJSON will produce a datafram
-lol_to_df <- function(lol) lol %>%
-  transpose() %>%
-  as_tibble() %>%
-  unnest()
-
 validate_age <- function(df_key_matched,sex,age_days,
-                         # can vectorize
                          value) {
-  if(nrow(df_key_matched)==1) # age_min_days e age_max_days == NA
+  if(nrow(df_key_matched)==1)
     df_age_matched <- df_key_matched
   else {
     if(is.na(age_days)) return(list(value=value,min=NA,max=NA,valid=NA))
     df_age_matched <- df_key_matched %>%
       filter(map2_lgl(age_min_days,age_max_days,
                       ~between(age_days,.x,.y)))
-    #print(sprintf("age=%d; nrow(df_age_matched) = %d",age_days,nrow(df_age_matched)))
-  }
+    }
   assert_that(nrow(df_age_matched)==1)
   # there should be only one line here
   validate_sex(sex,
@@ -104,10 +94,10 @@ validate_exams <- function(sex,
   exam_value_vec <- exam_value_vec[!na_vec]
   exam_id_vec <- exam_id_vec[!na_vec]
 
-  map2_df(exam_id_vec,exam_value_vec,
+  map2_dfr(exam_id_vec,exam_value_vec,
           ~c(list(id_valor=.x),
               validate_exam_result(sex,age_in_days_at_exam,
-                                   .x,.y))) # %>% lol_to_df
+                                   .x,.y)))
 }
 
 #' @export

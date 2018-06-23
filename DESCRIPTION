@@ -8,4 +8,14 @@ License: MIT
 Encoding: UTF-8
 LazyData: true
 Depends: R (>= 3.4.1)
+Imports:
+    purrr,
+    magrittr,
+    dplyr,
+    assertthat,
+    stringr,
+    tidyr,
+    tibble,
+    lubridate,
+    rlang
 RoxygenNote: 6.0.1

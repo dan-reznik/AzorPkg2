@@ -1,7 +1,7 @@
 # (C) 2018 Azor Diagnostics
 
 #' @importFrom purrr transpose discard prepend
-#' @importFrom purrr map map2 map2_lgl map2_dfr
+#' @importFrom purrr map map2 map2_lgl map2_dfr map_chr
 #' @importFrom magrittr %>%
 #' @importFrom dplyr filter between select pull mutate
 #' @importFrom assertthat assert_that

@@ -1,3 +1,8 @@
+# retrieve url for id=1
+curl https://dan-reznik.ocpu.io/AzorPkg2/R/id_to_snippet \
+-H "Content-Type: application/json" -d \
+'{"id":[1,2,3,4]}'
+
 # validate 4 exams, notice "null" has to be sent as [null] to be converted into "NA" for R
 curl \
 https://dan-reznik.ocpu.io/AzorPkg2/R/validate_exams/json \

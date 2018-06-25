@@ -5,7 +5,7 @@
 #' @importFrom magrittr %>%
 #' @importFrom dplyr filter between select pull mutate
 #' @importFrom assertthat assert_that
-#' @importFrom stringr str_to_upper str_to_lower str_trim
+#' @importFrom stringr str_to_upper str_to_lower str_trim str_c
 #' @importFrom tidyr unnest spread
 #' @importFrom tibble as_tibble data_frame
 #' @importFrom lubridate ymd

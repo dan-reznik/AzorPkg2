@@ -133,5 +133,6 @@ id_to_snippet <- function(id) {
   names%>%map_chr(~str_c("https://dan-reznik.ocpu.io/AzorPkg2/",.x,collapse=""))
 }
 
+
 #' @export
 test_df <- function() data_frame(x=c(1,2),y=c(3,NA),z=c(4,NA),w=c(5,NA))

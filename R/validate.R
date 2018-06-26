@@ -3,7 +3,7 @@
 #' @importFrom purrr transpose discard prepend
 #' @importFrom purrr map map2 map2_lgl map2_dfr map_chr
 #' @importFrom magrittr %>%
-#' @importFrom dplyr filter between select pull mutate
+#' @importFrom dplyr filter between select pull mutate bind_cols everything
 #' @importFrom assertthat assert_that
 #' @importFrom stringr str_to_upper str_to_lower str_trim str_c
 #' @importFrom tidyr unnest spread
@@ -79,9 +79,26 @@ validate_exam_result <- function(sex,
 }
 
 #' @export
+chave_to_id <- function(chave) df_ref_dict %>%
+  filter(descr_valor%in%(chave %>% str_trim %>% str_to_lower)) %>%
+  pull(id_valor)
+
+#' @export
+id_to_chave <- function(id) df_ref_dict %>%
+  filter(id_valor%in%id) %>%
+  pull(descr_valor)
+
+#' @export
+id_to_snippet <- function(id) df_ref_dict %>%
+  filter(id_valor%in%id) %>%
+  pull(imagem_referencia) %>%
+  str_c("https://dan-reznik.ocpu.io/AzorPkg2/",.)
+
+#' @export
 validate_exams <- function(sex,
                            birth_ymd,exam_ymd,
-                           exam_id_vec,exam_value_vec) {
+                           exam_id_vec,exam_value_vec,
+                           pngs=F) {
   #to do:
   dl <- length(exam_id_vec)-length(exam_value_vec)
   if(dl>0) exam_id_vec <- exam_id_vec[1:length(exam_value_vec)]
@@ -95,9 +112,14 @@ validate_exams <- function(sex,
   exam_value_vec <- exam_value_vec[!na_vec]
   exam_id_vec <- exam_id_vec[!na_vec]
 
-  map2_dfr(exam_id_vec,exam_value_vec,
-          ~c(list(id_valor=.x),
-             validate_exam_result(sex,age_in_days_at_exam,.x,.y)))
+  df <- data_frame(id_valor=exam_id_vec) %>%
+    bind_cols(
+      map2_dfr(exam_id_vec,exam_value_vec,
+               ~validate_exam_result(sex,age_in_days_at_exam,.x,.y)))
+  if (pngs)
+    df %>% bind_cols(pngs=id_to_snippet(exam_id_vec))
+  else
+    df
 }
 
 #' @export
@@ -114,24 +136,6 @@ invalid_exams <- function(sex,birth_ymd,exam_ymd,
 # exame_ale_20180104$valor_numerico) %>%
 # pull(id_valor) %>%
 # map_chr(id_to_chave)
-
-#' @export
-chave_to_id <- function(chave) df_ref_dict %>%
-  filter(descr_valor==(chave %>% str_trim %>% str_to_lower)) %>%
-  pull(id_valor)
-
-#' @export
-id_to_chave <- function(id) df_ref_dict %>%
-  filter(id_valor==id) %>%
-  pull(descr_valor)
-
-#' @export
-id_to_snippet <- function(id) {
-  df_ref_dict %>%
-    filter(id_valor%in%id) %>%
-    pull(imagem_referencia) %>%
-    str_c("https://dan-reznik.ocpu.io/AzorPkg2/",.)
-}
 
 #' @export
 test_df <- function() data_frame(x=c(1,2),y=c(3,NA),z=c(4,NA),w=c(5,NA))

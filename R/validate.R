@@ -98,7 +98,7 @@ id_to_snippet <- function(id) df_ref_dict %>%
 validate_exams <- function(sex,
                            birth_ymd,exam_ymd,
                            exam_id_vec,exam_value_vec,
-                           pngs=F) {
+                           png=F) {
   #to do:
   dl <- length(exam_id_vec)-length(exam_value_vec)
   if(dl>0) exam_id_vec <- exam_id_vec[1:length(exam_value_vec)]
@@ -116,8 +116,8 @@ validate_exams <- function(sex,
     bind_cols(
       map2_dfr(exam_id_vec,exam_value_vec,
                ~validate_exam_result(sex,age_in_days_at_exam,.x,.y)))
-  if (pngs)
-    df %>% bind_cols(pngs=id_to_snippet(exam_id_vec))
+  if (png)
+    df %>% bind_cols(png=id_to_snippet(exam_id_vec))
   else
     df
 }

@@ -3,7 +3,7 @@
 #' @importFrom purrr transpose discard prepend
 #' @importFrom purrr map map2 map2_lgl map2_dfr map_chr
 #' @importFrom magrittr %>%
-#' @importFrom dplyr filter between select pull mutate bind_cols everything last
+#' @importFrom dplyr filter between select pull mutate bind_cols everything first last
 #' @importFrom assertthat assert_that
 #' @importFrom stringr str_to_upper str_to_lower str_trim str_c fixed str_split
 #' @importFrom tidyr unnest spread
@@ -47,8 +47,8 @@ validate_age <- function(df_key_matched,sex,age_days,
   else {
     if(is.na(age_days)) return(list(value=value,min=NA,max=NA,valid=NA))
     df_age_matched <- df_key_matched %>%
-      filter(map2_lgl(age_min_days,age_max_days,
-                      ~between(age_days,.x,.y)))
+      dplyr::filter(map2_lgl(age_min_days,age_max_days,
+                             ~between(age_days,.x,.y)))
     }
   assert_that(nrow(df_age_matched)==1)
   # there should be only one line here
@@ -69,7 +69,7 @@ validate_exam_result <- function(sex,
   else {
     # exam_key <- exam_key %>% str_trim %>% str_to_lower
     df_chave <- df_ref_rules %>% # global
-      filter(id_valor==exam_id_valor)
+      dplyr::filter(id_valor==exam_id_valor)
     if(nrow(df_chave)==0)
       list(value=exam_value,min=NA,max=NA,valid=NA)
     # '{"min":null,"max":null,"valid":null}'
@@ -80,18 +80,23 @@ validate_exam_result <- function(sex,
 
 #' @export
 chave_to_id <- function(chave) df_ref_dict %>%
-  filter(descr_valor%in%(chave %>% str_trim %>% str_to_lower)) %>%
+  dplyr::filter(descr_valor%in%(chave %>% str_trim %>% str_to_lower)) %>%
   pull(id_valor)
 
 #' @export
 id_to_chave <- function(id) df_ref_dict %>%
-  filter(id_valor%in%id) %>%
+  dplyr::filter(id_valor%in%id) %>%
   pull(descr_valor)
 
 #' @export
 id_to_snippet <- function(id) df_ref_dict %>%
-  filter(id_valor%in%id) %>%
+  dplyr::filter(id_valor%in%id) %>%
   pull(imagem_referencia) %>%
+  # todo: coluna imagem_regra contem condicao para o caso de mais de uma imagem
+  # {"var":"age","cond":"<","value":16,"units":"ano"}
+  # workaround, pega sempre o primeiro
+  str_split(fixed(";")) %>%
+  map_chr(first) %>%
   str_c("https://dan-reznik.ocpu.io/AzorPkg2/",.)
 
 #' @export
@@ -117,11 +122,7 @@ validate_exams <- function(sex,
       map2_dfr(exam_id_vec,exam_value_vec,
                ~validate_exam_result(sex,age_in_days_at_exam,.x,.y)))
   if (ref_png)
-    df %>% bind_cols(ref_png=id_to_snippet(exam_id_vec)) %>%
-    # todo: coluna imagem_regra contem condicao para o caso de mais de uma imagem
-    # {"var":"age","cond":"<","value":16,"units":"ano"}
-    # workaround, pega sempre o last
-    mutate(ref_png=ref_png%>%str_split(fixed(";"))%>%map_chr(last))
+    df %>% bind_cols(ref_png=id_to_snippet(exam_id_vec))
   else
     df
 }
@@ -132,7 +133,7 @@ invalid_exams <- function(sex,birth_ymd,exam_ymd,
   validate_exams(sex,
                  birth_ymd,exam_ymd,
                  exam_id_vec,exam_value_vec) %>%
-  filter(!valid) %>% select(-valid)
+  dplyr::filter(!valid) %>% select(-valid)
 
 #teste
 # AzorPkg::invalid_exams("M","19660720","20180104",

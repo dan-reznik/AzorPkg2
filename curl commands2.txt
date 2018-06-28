@@ -1,3 +1,7 @@
+# teste no reference
+
+curl https://dan-reznik.ocpu.io/AzorPkg2/R/validate_exams/json -H "Content-Type: application/json" -d '{"sex":"M","birth_ymd":"19670522","exam_ymd":"20180101","exam_id_vec":[18,19,38],"exam_value_vec":[10,2,3]}'
+
 # retrieve url for id=1
 curl https://dan-reznik.ocpu.io/AzorPkg2/R/id_to_snippet/json \
 -H "Content-Type: application/json" -d \

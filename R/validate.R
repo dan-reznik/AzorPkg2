@@ -3,9 +3,9 @@
 #' @importFrom purrr transpose discard prepend
 #' @importFrom purrr map map2 map2_lgl map2_dfr map_chr
 #' @importFrom magrittr %>%
-#' @importFrom dplyr filter between select pull mutate bind_cols everything
+#' @importFrom dplyr filter between select pull mutate bind_cols everything last
 #' @importFrom assertthat assert_that
-#' @importFrom stringr str_to_upper str_to_lower str_trim str_c
+#' @importFrom stringr str_to_upper str_to_lower str_trim str_c fixed str_split
 #' @importFrom tidyr unnest spread
 #' @importFrom tibble as_tibble data_frame
 #' @importFrom lubridate ymd
@@ -117,7 +117,11 @@ validate_exams <- function(sex,
       map2_dfr(exam_id_vec,exam_value_vec,
                ~validate_exam_result(sex,age_in_days_at_exam,.x,.y)))
   if (ref_png)
-    df %>% bind_cols(ref_png=id_to_snippet(exam_id_vec))
+    df %>% bind_cols(ref_png=id_to_snippet(exam_id_vec)) %>%
+    # todo: coluna imagem_regra contem condicao para o caso de mais de uma imagem
+    # {"var":"age","cond":"<","value":16,"units":"ano"}
+    # workaround, pega sempre o last
+    mutate(ref_png=ref_png%>%str_split(fixed(";"))%>%map_chr(last))
   else
     df
 }

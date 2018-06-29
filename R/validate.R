@@ -12,7 +12,8 @@
 #' @importFrom rlang enquo
 
 # git remote set-url origin https://github.com/dan-reznik/AzorPkg.git
-# 
+# place all whites in the current dir and sepia them via (overwrites)
+# mogrify -path . -sepia-tone 80% *.png -verbose
 
 validate_sex <- function(sex,
                          # can be vectorized

@@ -94,7 +94,7 @@ id_to_snippet <- function(id) df_ref_dict %>%
   pull(imagem_referencia) %>%
   # todo: coluna imagem_regra contem condicao para o caso de mais de uma imagem
   # {"var":"age","cond":"<","value":16,"units":"ano"}
-  # workaround, pega sempre o primeiro. nota: esta logica belongs in validate_exams
+  # workaround: pega o primeiro. nota: esta logica belongs in validate_exams
   str_split(fixed(";")) %>%
   map_chr(first) %>%
   str_c("https://dan-reznik.ocpu.io/AzorPkg2/",.)

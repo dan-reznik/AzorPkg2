@@ -108,7 +108,7 @@ id_to_snippet <- function(id) df_ref_dict %>%
   # workaround: pega o primeiro. nota: esta logica belongs in validate_exams
   str_split(fixed(";")) %>%
   map_chr(first) %>%
-  str_c("https://dan-reznik.ocpu.io/AzorPkg2/",.)
+  str_c("https://dan-reznik.ocpu.io/AzorPkg2/unmarked/",.)
 
 #' @export
 validate_exams <- function(sex,

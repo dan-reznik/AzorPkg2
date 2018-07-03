@@ -114,7 +114,7 @@ id_to_snippet <- function(id) df_ref_dict %>%
 validate_exams <- function(sex,
                            birth_ymd,exam_ymd,
                            exam_id_vec,exam_value_vec
-                           #,ref_png=F
+                           ,ref_png=F # unused
                            ) {
   #to do:
   dl <- length(exam_id_vec)-length(exam_value_vec)

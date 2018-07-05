@@ -1,0 +1,605 @@
+[
+  {
+    "id_valor": 1,
+    "descr_valor": "sangue|hemograma|hemacias",
+    "descr_metodo": "automatizado e microscopia optica",
+    "min": 4.4,
+    "max": 5.9,
+    "value": 5.78,
+    "valid": true
+  },
+  {
+    "id_valor": 2,
+    "descr_valor": "sangue|hemograma|hemoglobina",
+    "descr_metodo": "automatizado e microscopia optica",
+    "min": 13,
+    "max": 18,
+    "value": 15.7,
+    "valid": true
+  },
+  {
+    "id_valor": 3,
+    "descr_valor": "sangue|hemograma|hematocrito",
+    "descr_metodo": "automatizado e microscopia optica",
+    "min": 40,
+    "max": 54,
+    "value": 49.4,
+    "valid": true
+  },
+  {
+    "id_valor": 4,
+    "descr_valor": "sangue|hemograma|vgm",
+    "descr_metodo": "automatizado e microscopia optica",
+    "min": 80,
+    "max": 96,
+    "value": 85.4,
+    "valid": true
+  },
+  {
+    "id_valor": 5,
+    "descr_valor": "sangue|hemograma|hgm",
+    "descr_metodo": "automatizado e microscopia optica",
+    "min": 27,
+    "max": 33,
+    "value": 27.1,
+    "valid": true
+  },
+  {
+    "id_valor": 6,
+    "descr_valor": "sangue|hemograma|chgm",
+    "descr_metodo": "automatizado e microscopia optica",
+    "min": 32,
+    "max": 36,
+    "value": 31.7,
+    "valid": false
+  },
+  {
+    "id_valor": 7,
+    "descr_valor": "sangue|hemograma|rdw",
+    "descr_metodo": "automatizado e microscopia optica",
+    "min": 11.5,
+    "max": 14.5,
+    "value": 14.2,
+    "valid": true
+  },
+  {
+    "id_valor": 8,
+    "descr_valor": "sangue|hemograma|leucocitos",
+    "descr_metodo": "automatizado e microscopia optica",
+    "min": 4,
+    "max": 11,
+    "value": 6.7,
+    "valid": true
+  },
+  {
+    "id_valor": 9,
+    "descr_valor": "sangue|hemograma|basofilos",
+    "descr_metodo": "automatizado e microscopia optica",
+    "min": 0,
+    "max": 1,
+    "value": 0,
+    "valid": true
+  },
+  {
+    "id_valor": 10,
+    "descr_valor": "sangue|hemograma|eosinofilos",
+    "descr_metodo": "automatizado e microscopia optica",
+    "min": 1,
+    "max": 5,
+    "value": 4,
+    "valid": true
+  },
+  {
+    "id_valor": 11,
+    "descr_valor": "sangue|hemograma|mielocitos",
+    "descr_metodo": "automatizado e microscopia optica",
+    "min": null,
+    "max": null,
+    "value": 0,
+    "valid": null
+  },
+  {
+    "id_valor": 12,
+    "descr_valor": "sangue|hemograma|metamielocitos",
+    "descr_metodo": "automatizado e microscopia optica",
+    "min": null,
+    "max": null,
+    "value": 0,
+    "valid": null
+  },
+  {
+    "id_valor": 13,
+    "descr_valor": "sangue|hemograma|bastoes",
+    "descr_metodo": "automatizado e microscopia optica",
+    "min": 1,
+    "max": 7,
+    "value": 1,
+    "valid": true
+  },
+  {
+    "id_valor": 14,
+    "descr_valor": "sangue|hemograma|segmentados",
+    "descr_metodo": "automatizado e microscopia optica",
+    "min": 40,
+    "max": 65,
+    "value": 54,
+    "valid": true
+  },
+  {
+    "id_valor": 15,
+    "descr_valor": "sangue|hemograma|linfocitos",
+    "descr_metodo": "automatizado e microscopia optica",
+    "min": 22,
+    "max": 45,
+    "value": 31,
+    "valid": true
+  },
+  {
+    "id_valor": 16,
+    "descr_valor": "sangue|hemograma|monocitos",
+    "descr_metodo": "automatizado e microscopia optica",
+    "min": 2,
+    "max": 10,
+    "value": 10,
+    "valid": true
+  },
+  {
+    "id_valor": 17,
+    "descr_valor": "sangue|hemograma|plaquetas",
+    "descr_metodo": "automatizado e microscopia optica",
+    "min": 150,
+    "max": 550,
+    "value": 307,
+    "valid": true
+  },
+  {
+    "id_valor": 18,
+    "descr_valor": "sangue|hemoglobina glicada|hglicada",
+    "descr_metodo": "turbidimetria, national glycohemoglobin standardization program (ngsp)",
+    "min": 0,
+    "max": 5.7,
+    "value": 5.2,
+    "valid": true
+  },
+  {
+    "id_valor": 19,
+    "descr_valor": "sangue|hemoglobina glicada|glicemia",
+    "descr_metodo": "calculo matematico, american diabetes association  (ada)",
+    "min": 0,
+    "max": 113,
+    "value": 103,
+    "valid": true
+  },
+  {
+    "id_valor": 20,
+    "descr_valor": "sangue|glicose|glicose",
+    "descr_metodo": "enzimatico",
+    "min": 70,
+    "max": 99,
+    "value": 84,
+    "valid": true
+  },
+  {
+    "id_valor": 21,
+    "descr_valor": "sangue|ureia|ureia",
+    "descr_metodo": "cinetico uv",
+    "min": 13,
+    "max": 43,
+    "value": 27,
+    "valid": true
+  },
+  {
+    "id_valor": 22,
+    "descr_valor": "sangue|creatinina|creatinina",
+    "descr_metodo": "colorimetrico",
+    "min": 0.7,
+    "max": 1.3,
+    "value": 1,
+    "valid": true
+  },
+  {
+    "id_valor": 23,
+    "descr_valor": "sangue|ferro|ferro",
+    "descr_metodo": "colorimetrico",
+    "min": 59,
+    "max": 160,
+    "value": 110,
+    "valid": true
+  },
+  {
+    "id_valor": 24,
+    "descr_valor": "sangue|capacidade de combinacao do ferro|ccferro",
+    "descr_metodo": "calculo",
+    "min": 250,
+    "max": 400,
+    "value": 315,
+    "valid": true
+  },
+  {
+    "id_valor": 25,
+    "descr_valor": "sangue|indice de saturacao da transferrina|istransferrina",
+    "descr_metodo": "calculo",
+    "min": 20,
+    "max": 50,
+    "value": 34.9,
+    "valid": true
+  },
+  {
+    "id_valor": 26,
+    "descr_valor": "sangue|amilase|amilase",
+    "descr_metodo": "enzimatico colorimetrico",
+    "min": 25,
+    "max": 110,
+    "value": 56,
+    "valid": true
+  },
+  {
+    "id_valor": 27,
+    "descr_valor": "sangue|lipase|lipase",
+    "descr_metodo": "enzimatico colorimetrico",
+    "min": 13,
+    "max": 60,
+    "value": 35,
+    "valid": true
+  },
+  {
+    "id_valor": 28,
+    "descr_valor": "sangue|calcio|calcio",
+    "descr_metodo": "colorimetrico",
+    "min": 8.4,
+    "max": 10.2,
+    "value": 8.7,
+    "valid": true
+  },
+  {
+    "id_valor": 29,
+    "descr_valor": "sangue|fosforo inorganico|fosforo",
+    "descr_metodo": "colorimetrico",
+    "min": 2.5,
+    "max": 4.5,
+    "value": 3.2,
+    "valid": true
+  },
+  {
+    "id_valor": 30,
+    "descr_valor": "sangue|sodio|sodio",
+    "descr_metodo": "eletrodo seletivo",
+    "min": 136,
+    "max": 145,
+    "value": 142,
+    "valid": true
+  },
+  {
+    "id_valor": 31,
+    "descr_valor": "sangue|potassio|potassio",
+    "descr_metodo": "eletrodo seletivo",
+    "min": 3.5,
+    "max": 5.3,
+    "value": 4.4,
+    "valid": true
+  },
+  {
+    "id_valor": 32,
+    "descr_valor": "sangue|magnesio|magnesio",
+    "descr_metodo": "colorimetrico",
+    "min": 1.6,
+    "max": 2.6,
+    "value": 2.1,
+    "valid": true
+  },
+  {
+    "id_valor": 33,
+    "descr_valor": "sangue|desidrogenase latica|dltotal",
+    "descr_metodo": "cinetico uv",
+    "min": 240,
+    "max": 480,
+    "value": 359,
+    "valid": true
+  },
+  {
+    "id_valor": 34,
+    "descr_valor": "sangue|hepatograma|proteinas",
+    "descr_metodo": "colorimetrico",
+    "min": 6.4,
+    "max": 8.2,
+    "value": 6.9,
+    "valid": true
+  },
+  {
+    "id_valor": 35,
+    "descr_valor": "sangue|hepatograma|tpiruvica",
+    "descr_metodo": "cinetico uv",
+    "min": 0,
+    "max": 41,
+    "value": 21,
+    "valid": true
+  },
+  {
+    "id_valor": 36,
+    "descr_valor": "sangue|hepatograma|toxalacetica",
+    "descr_metodo": "cinetico uv",
+    "min": 0,
+    "max": 40,
+    "value": 18,
+    "valid": true
+  },
+  {
+    "id_valor": 37,
+    "descr_valor": "sangue|hepatograma|fosfatase",
+    "descr_metodo": "enzimatico colorimetrico",
+    "min": 40,
+    "max": 129,
+    "value": 59,
+    "valid": true
+  },
+  {
+    "id_valor": 38,
+    "descr_valor": "sangue|hepatograma|transpeptidase",
+    "descr_metodo": "enzimatico colorimetrico",
+    "min": 0,
+    "max": 60,
+    "value": 31,
+    "valid": true
+  },
+  {
+    "id_valor": 39,
+    "descr_valor": "sangue|hepatograma|bilidir",
+    "descr_metodo": "colorimetrico",
+    "min": 0,
+    "max": 0.4,
+    "value": 0.3,
+    "valid": true
+  },
+  {
+    "id_valor": 40,
+    "descr_valor": "sangue|hepatograma|biliind",
+    "descr_metodo": "colorimetrico",
+    "min": 0,
+    "max": 0.8,
+    "value": 0.8,
+    "valid": true
+  },
+  {
+    "id_valor": 41,
+    "descr_valor": "sangue|hepatograma|bilitot",
+    "descr_metodo": "colorimetrico",
+    "min": 0,
+    "max": 1.2,
+    "value": 1.1,
+    "valid": true
+  },
+  {
+    "id_valor": 42,
+    "descr_valor": "sangue|perfil lipidico|colesterol",
+    "descr_metodo": "enzimatico colorimetrico",
+    "min": 0,
+    "max": 190,
+    "value": 177,
+    "valid": true
+  },
+  {
+    "id_valor": 43,
+    "descr_valor": "sangue|perfil lipidico|hdlc",
+    "descr_metodo": "enzimatico colorimetrico",
+    "min": 40,
+    "max": 100,
+    "value": 52,
+    "valid": true
+  },
+  {
+    "id_valor": 44,
+    "descr_valor": "sangue|perfil lipidico|triglicerideos",
+    "descr_metodo": "enzimatico colorimetrico",
+    "min": 0,
+    "max": 150,
+    "value": 123,
+    "valid": true
+  },
+  {
+    "id_valor": 45,
+    "descr_valor": "sangue|perfil lipidico|ldlc",
+    "descr_metodo": "enzimatico colorimetrico",
+    "min": 130,
+    "max": 200,
+    "value": 100,
+    "valid": false
+  },
+  {
+    "id_valor": 46,
+    "descr_valor": "sangue|perfil lipidico|vldl",
+    "descr_metodo": "enzimatico colorimetrico",
+    "min": null,
+    "max": null,
+    "value": 25,
+    "valid": null
+  },
+  {
+    "id_valor": 47,
+    "descr_valor": "sangue|perfil lipidico|nhdlc",
+    "descr_metodo": "enzimatico colorimetrico",
+    "min": 160,
+    "max": 200,
+    "value": 125,
+    "valid": false
+  },
+  {
+    "id_valor": 48,
+    "descr_valor": "sangue|perfil lipidico|soro",
+    "descr_metodo": "enzimatico colorimetrico",
+    "min": null,
+    "max": null,
+    "value": null,
+    "valid": null
+  },
+  {
+    "id_valor": 49,
+    "descr_valor": "sangue|creatino quinase|quinase",
+    "descr_metodo": "cinetico uv",
+    "min": 0,
+    "max": 190,
+    "value": 84,
+    "valid": true
+  },
+  {
+    "id_valor": 50,
+    "descr_valor": "sangue|albumina|albumina",
+    "descr_metodo": "colorimetrico",
+    "min": 3.5,
+    "max": 5,
+    "value": 4.6,
+    "valid": true
+  },
+  {
+    "id_valor": 51,
+    "descr_valor": "sangue|t4 livre|tiroxina",
+    "descr_metodo": "eletroquimioluminescencia",
+    "min": 0.7,
+    "max": 1.9,
+    "value": 1.7,
+    "valid": true
+  },
+  {
+    "id_valor": 52,
+    "descr_valor": "sangue|tsh|hetir",
+    "descr_metodo": "eletroquimioluminescencia",
+    "min": 0.4,
+    "max": 4.3,
+    "value": 0.32,
+    "valid": false
+  },
+  {
+    "id_valor": 53,
+    "descr_valor": "sangue|homa-beta|homabeta",
+    "descr_metodo": "calculo",
+    "min": 132.5,
+    "max": 254.9,
+    "value": 191,
+    "valid": true
+  },
+  {
+    "id_valor": 54,
+    "descr_valor": "sangue|homa-ir|homair",
+    "descr_metodo": "calculo",
+    "min": 1.54,
+    "max": 2.66,
+    "value": 2.3,
+    "valid": true
+  },
+  {
+    "id_valor": 55,
+    "descr_valor": "sangue|insulina|insulina",
+    "descr_metodo": "eletroquimioluminescencia",
+    "min": 2,
+    "max": 13,
+    "value": 11.1,
+    "valid": true
+  },
+  {
+    "id_valor": 56,
+    "descr_valor": "sangue|anti-tireoglobulina|antitireo",
+    "descr_metodo": "eletroquimioluminescencia",
+    "min": 0,
+    "max": 115,
+    "value": 10,
+    "valid": true
+  },
+  {
+    "id_valor": 57,
+    "descr_valor": "sangue|tpo - antiperoxidase tiroideana|antiperoxi",
+    "descr_metodo": "eletroquimioluminescencia",
+    "min": 0,
+    "max": 34,
+    "value": 7.8,
+    "valid": true
+  },
+  {
+    "id_valor": 58,
+    "descr_valor": "sangue|proteina c reativa ultra-sensivel|prusd",
+    "descr_metodo": "imunoturbidimetrico",
+    "min": 0,
+    "max": 0.3,
+    "value": 0.08,
+    "valid": true
+  },
+  {
+    "id_valor": 59,
+    "descr_valor": "sangue|vitamina b12|b12",
+    "descr_metodo": "ensaio imunoenzimatico",
+    "min": 180,
+    "max": 914,
+    "value": 238,
+    "valid": true
+  },
+  {
+    "id_valor": 60,
+    "descr_valor": "sangue|acido folico|folico",
+    "descr_metodo": "ensaio imunoenzimatico",
+    "min": 2.3,
+    "max": 10,
+    "value": 8.44,
+    "valid": true
+  },
+  {
+    "id_valor": 61,
+    "descr_valor": "sangue|ferritina|ferritina",
+    "descr_metodo": "ensaio imunoenzimatico",
+    "min": 24,
+    "max": 336,
+    "value": 59.9,
+    "valid": true
+  },
+  {
+    "id_valor": 62,
+    "descr_valor": "sangue|vitamina d, 25-hidroxi|vitaminad",
+    "descr_metodo": "imunoensaio por quimioluminescencia",
+    "min": 20,
+    "max": 60,
+    "value": 25.1,
+    "valid": true
+  },
+  {
+    "id_valor": 63,
+    "descr_valor": "sangue|pth - paratormonio (molecula inteira)|patatormonio",
+    "descr_metodo": "ensaio imunoenzimatico por quimioluminescencia",
+    "min": 12,
+    "max": 65,
+    "value": 41.5,
+    "valid": true
+  },
+  {
+    "id_valor": 64,
+    "descr_valor": "sangue|psa total e livre|psatotal",
+    "descr_metodo": "ensaio imunoenzimatico por quimioluminescencia",
+    "min": 0,
+    "max": 4,
+    "value": 2.65,
+    "valid": true
+  },
+  {
+    "id_valor": 65,
+    "descr_valor": "sangue|psa total e livre|psalivre",
+    "descr_metodo": "ensaio imunoenzimatico por quimioluminescencia",
+    "min": null,
+    "max": null,
+    "value": 0.62,
+    "valid": null
+  },
+  {
+    "id_valor": 66,
+    "descr_valor": "sangue|psa total e livre|psarel",
+    "descr_metodo": "ensaio imunoenzimatico por quimioluminescencia",
+    "min": 0,
+    "max": 0.15,
+    "value": 0.23,
+    "valid": false
+  },
+  {
+    "id_valor": 67,
+    "descr_valor": "sangue|tireoglobulina|tireoglobulina",
+    "descr_metodo": "quimioluminescencia",
+    "min": 1.6,
+    "max": 50,
+    "value": 0.1,
+    "valid": false
+  }
+]

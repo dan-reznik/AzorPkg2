@@ -1,0 +1,4 @@
+cd /var/www
+sudo mv html html_6.x
+sudo unzip ~/Dropbox/Azor\ Diagnostics/Sites\ Marcelo\ BH/PROJETO6.x.zip
+sudo sudo mv PROJETO6 html

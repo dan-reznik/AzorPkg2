@@ -1,0 +1,1926 @@
+{
+    "name": "João da Silva",
+    "name_to_print": "ilva",
+    "children": [
+        {
+            "name": "20180104_Exam_Date",
+            "name_to_print": "Exam_Date",
+            "children": [
+                {
+                    "name": "20180104__Sangue",
+                    "name_to_print": "Sangue",
+                    "children": [
+                        {
+                            "name": "20180104__Hemograma Completo",
+                            "name_to_print": "Hemograma Completo",
+                            "children": [
+                                {
+                                    "name": "20180104__Série Vermelha",
+                                    "name_to_print": "Série Vermelha",
+                                    "children": [
+                                        {
+                                            "name": "20180104_Contagem de Hemacias",
+                                            "name_to_print": "Contagem de Hemacias",
+                                            "id": "1",
+                                            "valor": "5.78"
+                                        },
+                                        {
+                                            "name": "20180104_Dosagem da Hemoglobina",
+                                            "name_to_print": "Dosagem da Hemoglobina",
+                                            "id": "2",
+                                            "valor": "15.7"
+                                        },
+                                        {
+                                            "name": "20180104_Avaliacao do Hematocrito",
+                                            "name_to_print": "Avaliacao do Hematocrito",
+                                            "id": "3",
+                                            "valor": "49.4"
+                                        },
+                                        {
+                                            "name": "20180104_Volume Globular Medio",
+                                            "name_to_print": "Volume Globular Medio",
+                                            "id": "4",
+                                            "valor": "85.4"
+                                        },
+                                        {
+                                            "name": "20180104_Hemoglobina Globular Media",
+                                            "name_to_print": "Hemoglobina Globular Media",
+                                            "id": "5",
+                                            "valor": "27.1"
+                                        },
+                                        {
+                                            "name": "20180104_Concentracao da Hemoglobina Glob Media",
+                                            "name_to_print": "Concentracao da Hemoglobina Glob Media",
+                                            "id": "6",
+                                            "valor": "31.7"
+                                        },
+                                        {
+                                            "name": "20180104_Indice de Anisocitose (Rdw)",
+                                            "name_to_print": "Indice de Anisocitose (Rdw)",
+                                            "id": "7",
+                                            "valor": "14.2"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "20180104__Série Branca",
+                                    "name_to_print": "Série Branca",
+                                    "children": [
+                                        {
+                                            "name": "20180104_Contagem de Leucocitos",
+                                            "name_to_print": "Contagem de Leucocitos",
+                                            "id": "8",
+                                            "valor": "6.7"
+                                        },
+                                        {
+                                            "name": "20180104_Basofilos",
+                                            "name_to_print": "Basofilos",
+                                            "id": "9",
+                                            "valor": "0"
+                                        },
+                                        {
+                                            "name": "20180104_Eosinofilos",
+                                            "name_to_print": "Eosinofilos",
+                                            "id": "10",
+                                            "valor": "4"
+                                        },
+                                        {
+                                            "name": "20180104_Neutrofilos Mielocitos",
+                                            "name_to_print": "Neutrofilos Mielocitos",
+                                            "id": "11",
+                                            "valor": "0"
+                                        },
+                                        {
+                                            "name": "20180104_Neutrofilos Metamielocitos",
+                                            "name_to_print": "Neutrofilos Metamielocitos",
+                                            "id": "12",
+                                            "valor": "0"
+                                        },
+                                        {
+                                            "name": "20180104_Bastoes",
+                                            "name_to_print": "Bastoes",
+                                            "id": "13",
+                                            "valor": "1"
+                                        },
+                                        {
+                                            "name": "20180104_Segmentados",
+                                            "name_to_print": "Segmentados",
+                                            "id": "14",
+                                            "valor": "54"
+                                        },
+                                        {
+                                            "name": "20180104_Linfocitos",
+                                            "name_to_print": "Linfocitos",
+                                            "id": "15",
+                                            "valor": "31"
+                                        },
+                                        {
+                                            "name": "20180104_Monocitos",
+                                            "name_to_print": "Monocitos",
+                                            "id": "16",
+                                            "valor": "10"
+                                        },
+                                        {
+                                            "name": "20180104_Contagem de Plaquetas",
+                                            "name_to_print": "Contagem de Plaquetas",
+                                            "id": "17",
+                                            "valor": "307"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20180104__Hemoglobina Glicada",
+                            "name_to_print": "Hemoglobina Glicada",
+                            "children": [
+                                {
+                                    "name": "20180104_Hemoglobina Glicada (Hba1c)",
+                                    "name_to_print": "Hemoglobina Glicada (Hba1c)",
+                                    "id": "18",
+                                    "valor": "5.2"
+                                },
+                                {
+                                    "name": "20180104_Glicemia Media Estimada",
+                                    "name_to_print": "Glicemia Media Estimada",
+                                    "id": "19",
+                                    "valor": "103"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20180104__Glicose",
+                            "name_to_print": "Glicose",
+                            "children": [
+                                {
+                                    "name": "20180104_Glicose",
+                                    "name_to_print": "Glicose",
+                                    "id": "20",
+                                    "valor": "84"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20180104__Bioquímica",
+                            "name_to_print": "Bioquímica",
+                            "children": [
+                                {
+                                    "name": "20180104__Orgânica",
+                                    "name_to_print": "Orgânica",
+                                    "children": [
+                                        {
+                                            "name": "20180104_Ureia",
+                                            "name_to_print": "Ureia",
+                                            "id": "21",
+                                            "valor": "27"
+                                        },
+                                        {
+                                            "name": "20180104_Creatinina",
+                                            "name_to_print": "Creatinina",
+                                            "id": "22",
+                                            "valor": "1"
+                                        },
+                                        {
+                                            "name": "20180104_Indice de Saturacao da Transferrina",
+                                            "name_to_print": "Indice de Saturacao da Transferrina",
+                                            "id": "25",
+                                            "valor": "34.9"
+                                        },
+                                        {
+                                            "name": "20180104_Amilase",
+                                            "name_to_print": "Amilase",
+                                            "id": "26",
+                                            "valor": "56"
+                                        },
+                                        {
+                                            "name": "20180104_Lipase",
+                                            "name_to_print": "Lipase",
+                                            "id": "27",
+                                            "valor": "35"
+                                        },
+                                        {
+                                            "name": "20180104_Creatino Quinase Total",
+                                            "name_to_print": "Creatino Quinase Total",
+                                            "id": "49",
+                                            "valor": "84"
+                                        },
+                                        {
+                                            "name": "20180104_Albumina",
+                                            "name_to_print": "Albumina",
+                                            "id": "50",
+                                            "valor": "4.6"
+                                        },
+                                        {
+                                            "name": "20180104_Proteina C Reativa Ultra-Sensivel",
+                                            "name_to_print": "Proteina C Reativa Ultra-Sensivel",
+                                            "id": "58",
+                                            "valor": "0.08"
+                                        },
+                                        {
+                                            "name": "20180104_Ferritina",
+                                            "name_to_print": "Ferritina",
+                                            "id": "61",
+                                            "valor": "59.9"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "20180104__Inorgânica",
+                                    "name_to_print": "Inorgânica",
+                                    "children": [
+                                        {
+                                            "name": "20180104_Ferro",
+                                            "name_to_print": "Ferro",
+                                            "id": "23",
+                                            "valor": "110"
+                                        },
+                                        {
+                                            "name": "20180104_Capacidade Total de Combinacao do Ferro",
+                                            "name_to_print": "Capacidade Total de Combinacao do Ferro",
+                                            "id": "24",
+                                            "valor": "315"
+                                        },
+                                        {
+                                            "name": "20180104_Calcio",
+                                            "name_to_print": "Calcio",
+                                            "id": "28",
+                                            "valor": "8.7"
+                                        },
+                                        {
+                                            "name": "20180104_Fosforo Inorganico",
+                                            "name_to_print": "Fosforo Inorganico",
+                                            "id": "29",
+                                            "valor": "3.2"
+                                        },
+                                        {
+                                            "name": "20180104_Sodio",
+                                            "name_to_print": "Sodio",
+                                            "id": "30",
+                                            "valor": "142"
+                                        },
+                                        {
+                                            "name": "20180104_Potassio",
+                                            "name_to_print": "Potassio",
+                                            "id": "31",
+                                            "valor": "4.4"
+                                        },
+                                        {
+                                            "name": "20180104_Magnesio",
+                                            "name_to_print": "Magnesio",
+                                            "id": "32",
+                                            "valor": "2.1"
+                                        },
+                                        {
+                                            "name": "20180104_Acido Folico",
+                                            "name_to_print": "Acido Folico",
+                                            "id": "60",
+                                            "valor": "8.44"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "20180104__Vitaminas",
+                                    "name_to_print": "Vitaminas",
+                                    "children": [
+                                        {
+                                            "name": "20180104_Dosagem de Vitamina B12 (Cobalamina)",
+                                            "name_to_print": "Dosagem de Vitamina B12 (Cobalamina)",
+                                            "id": "59",
+                                            "valor": "238"
+                                        },
+                                        {
+                                            "name": "20180104_25-Hidroxi Vitamina D",
+                                            "name_to_print": "25-Hidroxi Vitamina D",
+                                            "id": "62",
+                                            "valor": "25.1"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20180104__Desidrogenase Lática",
+                            "name_to_print": "Desidrogenase Lática",
+                            "children": [
+                                {
+                                    "name": "20180104_Desidrogenase Latica Total",
+                                    "name_to_print": "Desidrogenase Latica Total",
+                                    "id": "33",
+                                    "valor": "359"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20180104__Hepatograma",
+                            "name_to_print": "Hepatograma",
+                            "children": [
+                                {
+                                    "name": "20180104_Proteinas Totais",
+                                    "name_to_print": "Proteinas Totais",
+                                    "id": "34",
+                                    "valor": "6.9"
+                                },
+                                {
+                                    "name": "20180104_Transaminase Piruvica (Alt)",
+                                    "name_to_print": "Transaminase Piruvica (Alt)",
+                                    "id": "35",
+                                    "valor": "21"
+                                },
+                                {
+                                    "name": "20180104_Transaminase Oxalacetica (Ast)",
+                                    "name_to_print": "Transaminase Oxalacetica (Ast)",
+                                    "id": "36",
+                                    "valor": "18"
+                                },
+                                {
+                                    "name": "20180104_Fosfatase Alcalina",
+                                    "name_to_print": "Fosfatase Alcalina",
+                                    "id": "37",
+                                    "valor": "59"
+                                },
+                                {
+                                    "name": "20180104_Gama Glutamil Transpeptidase",
+                                    "name_to_print": "Gama Glutamil Transpeptidase",
+                                    "id": "38",
+                                    "valor": "31"
+                                },
+                                {
+                                    "name": "20180104_Bilirrubina Direta",
+                                    "name_to_print": "Bilirrubina Direta",
+                                    "id": "39",
+                                    "valor": "0.3"
+                                },
+                                {
+                                    "name": "20180104_Bilirrubina Indireta",
+                                    "name_to_print": "Bilirrubina Indireta",
+                                    "id": "40",
+                                    "valor": "0.8"
+                                },
+                                {
+                                    "name": "20180104_Bilirrubina Total",
+                                    "name_to_print": "Bilirrubina Total",
+                                    "id": "41",
+                                    "valor": "1.1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20180104__Perfil Lipídico",
+                            "name_to_print": "Perfil Lipídico",
+                            "children": [
+                                {
+                                    "name": "20180104_Colesterol",
+                                    "name_to_print": "Colesterol",
+                                    "id": "42",
+                                    "valor": "177"
+                                },
+                                {
+                                    "name": "20180104_Colesterol - Hdl",
+                                    "name_to_print": "Colesterol - Hdl",
+                                    "id": "43",
+                                    "valor": "52"
+                                },
+                                {
+                                    "name": "20180104_Triglicerideos",
+                                    "name_to_print": "Triglicerideos",
+                                    "id": "44",
+                                    "valor": "123"
+                                },
+                                {
+                                    "name": "20180104_Colesterol - Ldl",
+                                    "name_to_print": "Colesterol - Ldl",
+                                    "id": "45",
+                                    "valor": "100"
+                                },
+                                {
+                                    "name": "20180104_Colesterol - Vldl",
+                                    "name_to_print": "Colesterol - Vldl",
+                                    "id": "46",
+                                    "valor": "25"
+                                },
+                                {
+                                    "name": "20180104_Colesterol - Nao Hdl",
+                                    "name_to_print": "Colesterol - Nao Hdl",
+                                    "id": "47",
+                                    "valor": "125"
+                                },
+                                {
+                                    "name": "20180104_Aspecto do Soro",
+                                    "name_to_print": "Aspecto do Soro",
+                                    "id": "48",
+                                    "valor": "Limpido"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20180104__T4 Livre",
+                            "name_to_print": "T4 Livre",
+                            "children": [
+                                {
+                                    "name": "20180104_Tiroxina Livre",
+                                    "name_to_print": "Tiroxina Livre",
+                                    "id": "51",
+                                    "valor": "1.7"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20180104__TSH",
+                            "name_to_print": "TSH",
+                            "children": [
+                                {
+                                    "name": "20180104_Hormonio Estimulante da Tireoide",
+                                    "name_to_print": "Hormonio Estimulante da Tireoide",
+                                    "id": "52",
+                                    "valor": "0.32"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20180104__Homa-Beta",
+                            "name_to_print": "Homa-Beta",
+                            "children": [
+                                {
+                                    "name": "20180104_Homa-Beta (Homeostatic Model Assessment)",
+                                    "name_to_print": "Homa-Beta (Homeostatic Model Assessment)",
+                                    "id": "53",
+                                    "valor": "191"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20180104__Homa-Ir",
+                            "name_to_print": "Homa-Ir",
+                            "children": [
+                                {
+                                    "name": "20180104_Homa-Ir (Homeostatic Model Assessment)",
+                                    "name_to_print": "Homa-Ir (Homeostatic Model Assessment)",
+                                    "id": "54",
+                                    "valor": "2.3"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20180104__Insulina",
+                            "name_to_print": "Insulina",
+                            "children": [
+                                {
+                                    "name": "20180104_Insulina",
+                                    "name_to_print": "Insulina",
+                                    "id": "55",
+                                    "valor": "11.1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20180104__Anti-Tireoglobulina",
+                            "name_to_print": "Anti-Tireoglobulina",
+                            "children": [
+                                {
+                                    "name": "20180104_Pesq. de Anticorpos Anti-Tireoglobulina",
+                                    "name_to_print": "Pesq. de Anticorpos Anti-Tireoglobulina",
+                                    "id": "56",
+                                    "valor": "10"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20180104__TPO - Antiperoxidase Tiroideana",
+                            "name_to_print": "TPO - Antiperoxidase Tiroideana",
+                            "children": [
+                                {
+                                    "name": "20180104_Anticorpo Antiperoxidase Tiroideana",
+                                    "name_to_print": "Anticorpo Antiperoxidase Tiroideana",
+                                    "id": "57",
+                                    "valor": "7.8"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20180104__PTH - Paratormonio (Molecula Inteira)",
+                            "name_to_print": "PTH - Paratormonio (Molecula Inteira)",
+                            "children": [
+                                {
+                                    "name": "20180104_Paratormonio (Molecula Inteira)",
+                                    "name_to_print": "Paratormonio (Molecula Inteira)",
+                                    "id": "63",
+                                    "valor": "41.5"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20180104__PSA Total e Livre",
+                            "name_to_print": "PSA Total e Livre",
+                            "children": [
+                                {
+                                    "name": "20180104_Antigeno Prostatico Especifico Total",
+                                    "name_to_print": "Antigeno Prostatico Especifico Total",
+                                    "id": "64",
+                                    "valor": "2.65"
+                                },
+                                {
+                                    "name": "20180104_Ag. Prostatico Especifico, Fracao Livre",
+                                    "name_to_print": "Ag. Prostatico Especifico, Fracao Livre",
+                                    "id": "65",
+                                    "valor": "0.62"
+                                },
+                                {
+                                    "name": "20180104_Relacao Psa Livre/Psa Total",
+                                    "name_to_print": "Relacao Psa Livre/Psa Total",
+                                    "id": "66",
+                                    "valor": "0.23"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20180104__Tireoglobulina",
+                            "name_to_print": "Tireoglobulina",
+                            "children": [
+                                {
+                                    "name": "20180104_Tireoglobulina",
+                                    "name_to_print": "Tireoglobulina",
+                                    "id": "67",
+                                    "valor": "0.1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "20170729_Exam_Date",
+            "name_to_print": "Exam_Date",
+            "children": [
+                {
+                    "name": "20170729__Sangue",
+                    "name_to_print": "Sangue",
+                    "children": [
+                        {
+                            "name": "20170729__Hemograma Completo",
+                            "name_to_print": "Hemograma Completo",
+                            "children": [
+                                {
+                                    "name": "20170729__Série Vermelha",
+                                    "name_to_print": "Série Vermelha",
+                                    "children": [
+                                        {
+                                            "name": "20170729_Contagem de Hemacias",
+                                            "name_to_print": "Contagem de Hemacias",
+                                            "id": "1",
+                                            "valor": "5.37"
+                                        },
+                                        {
+                                            "name": "20170729_Dosagem da Hemoglobina",
+                                            "name_to_print": "Dosagem da Hemoglobina",
+                                            "id": "2",
+                                            "valor": "15.3"
+                                        },
+                                        {
+                                            "name": "20170729_Avaliacao do Hematocrito",
+                                            "name_to_print": "Avaliacao do Hematocrito",
+                                            "id": "3",
+                                            "valor": "45.1"
+                                        },
+                                        {
+                                            "name": "20170729_Volume Globular Medio",
+                                            "name_to_print": "Volume Globular Medio",
+                                            "id": "4",
+                                            "valor": "84"
+                                        },
+                                        {
+                                            "name": "20170729_Hemoglobina Globular Media",
+                                            "name_to_print": "Hemoglobina Globular Media",
+                                            "id": "5",
+                                            "valor": "28.5"
+                                        },
+                                        {
+                                            "name": "20170729_Concentracao da Hemoglobina Glob Media",
+                                            "name_to_print": "Concentracao da Hemoglobina Glob Media",
+                                            "id": "6",
+                                            "valor": "33.9"
+                                        },
+                                        {
+                                            "name": "20170729_Indice de Anisocitose (Rdw)",
+                                            "name_to_print": "Indice de Anisocitose (Rdw)",
+                                            "id": "7",
+                                            "valor": "16.2"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "20170729__Série Branca",
+                                    "name_to_print": "Série Branca",
+                                    "children": [
+                                        {
+                                            "name": "20170729_Contagem de Leucocitos",
+                                            "name_to_print": "Contagem de Leucocitos",
+                                            "id": "8",
+                                            "valor": "7.2"
+                                        },
+                                        {
+                                            "name": "20170729_Basofilos",
+                                            "name_to_print": "Basofilos",
+                                            "id": "9",
+                                            "valor": "0"
+                                        },
+                                        {
+                                            "name": "20170729_Eosinofilos",
+                                            "name_to_print": "Eosinofilos",
+                                            "id": "10",
+                                            "valor": "3"
+                                        },
+                                        {
+                                            "name": "20170729_Neutrofilos Mielocitos",
+                                            "name_to_print": "Neutrofilos Mielocitos",
+                                            "id": "11",
+                                            "valor": "0"
+                                        },
+                                        {
+                                            "name": "20170729_Neutrofilos Metamielocitos",
+                                            "name_to_print": "Neutrofilos Metamielocitos",
+                                            "id": "12",
+                                            "valor": "0"
+                                        },
+                                        {
+                                            "name": "20170729_Bastoes",
+                                            "name_to_print": "Bastoes",
+                                            "id": "13",
+                                            "valor": "3"
+                                        },
+                                        {
+                                            "name": "20170729_Segmentados",
+                                            "name_to_print": "Segmentados",
+                                            "id": "14",
+                                            "valor": "55"
+                                        },
+                                        {
+                                            "name": "20170729_Linfocitos",
+                                            "name_to_print": "Linfocitos",
+                                            "id": "15",
+                                            "valor": "31"
+                                        },
+                                        {
+                                            "name": "20170729_Monocitos",
+                                            "name_to_print": "Monocitos",
+                                            "id": "16",
+                                            "valor": "8"
+                                        },
+                                        {
+                                            "name": "20170729_Contagem de Plaquetas",
+                                            "name_to_print": "Contagem de Plaquetas",
+                                            "id": "17",
+                                            "valor": "309"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170729__Hemoglobina Glicada",
+                            "name_to_print": "Hemoglobina Glicada",
+                            "children": [
+                                {
+                                    "name": "20170729_Hemoglobina Glicada (Hba1c)",
+                                    "name_to_print": "Hemoglobina Glicada (Hba1c)",
+                                    "id": "18",
+                                    "valor": "5.2"
+                                },
+                                {
+                                    "name": "20170729_Glicemia Media Estimada",
+                                    "name_to_print": "Glicemia Media Estimada",
+                                    "id": "19",
+                                    "valor": "103"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170729__Glicose",
+                            "name_to_print": "Glicose",
+                            "children": [
+                                {
+                                    "name": "20170729_Glicose",
+                                    "name_to_print": "Glicose",
+                                    "id": "20",
+                                    "valor": "84"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170729__Bioquímica",
+                            "name_to_print": "Bioquímica",
+                            "children": [
+                                {
+                                    "name": "20170729__Orgânica",
+                                    "name_to_print": "Orgânica",
+                                    "children": [
+                                        {
+                                            "name": "20170729_Ureia",
+                                            "name_to_print": "Ureia",
+                                            "id": "21",
+                                            "valor": "33"
+                                        },
+                                        {
+                                            "name": "20170729_Creatinina",
+                                            "name_to_print": "Creatinina",
+                                            "id": "22",
+                                            "valor": "1.09"
+                                        },
+                                        {
+                                            "name": "20170729_Indice de Saturacao da Transferrina",
+                                            "name_to_print": "Indice de Saturacao da Transferrina",
+                                            "id": "25",
+                                            "valor": "40.6"
+                                        },
+                                        {
+                                            "name": "20170729_Amilase",
+                                            "name_to_print": "Amilase",
+                                            "id": "26",
+                                            "valor": "56"
+                                        },
+                                        {
+                                            "name": "20170729_Lipase",
+                                            "name_to_print": "Lipase",
+                                            "id": "27",
+                                            "valor": "32"
+                                        },
+                                        {
+                                            "name": "20170729_Creatino Quinase Total",
+                                            "name_to_print": "Creatino Quinase Total",
+                                            "id": "49",
+                                            "valor": "85"
+                                        },
+                                        {
+                                            "name": "20170729_Albumina",
+                                            "name_to_print": "Albumina",
+                                            "id": "50",
+                                            "valor": "4.5"
+                                        },
+                                        {
+                                            "name": "20170729_Ferritina",
+                                            "name_to_print": "Ferritina",
+                                            "id": "61",
+                                            "valor": "77.8"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "20170729__Inorgânica",
+                                    "name_to_print": "Inorgânica",
+                                    "children": [
+                                        {
+                                            "name": "20170729_Ferro",
+                                            "name_to_print": "Ferro",
+                                            "id": "23",
+                                            "valor": "125"
+                                        },
+                                        {
+                                            "name": "20170729_Capacidade Total de Combinacao do Ferro",
+                                            "name_to_print": "Capacidade Total de Combinacao do Ferro",
+                                            "id": "24",
+                                            "valor": "308"
+                                        },
+                                        {
+                                            "name": "20170729_Calcio",
+                                            "name_to_print": "Calcio",
+                                            "id": "28",
+                                            "valor": "9.4"
+                                        },
+                                        {
+                                            "name": "20170729_Fosforo Inorganico",
+                                            "name_to_print": "Fosforo Inorganico",
+                                            "id": "29",
+                                            "valor": "3.2"
+                                        },
+                                        {
+                                            "name": "20170729_Sodio",
+                                            "name_to_print": "Sodio",
+                                            "id": "30",
+                                            "valor": "140"
+                                        },
+                                        {
+                                            "name": "20170729_Potassio",
+                                            "name_to_print": "Potassio",
+                                            "id": "31",
+                                            "valor": "4.2"
+                                        },
+                                        {
+                                            "name": "20170729_Magnesio",
+                                            "name_to_print": "Magnesio",
+                                            "id": "32",
+                                            "valor": "2.1"
+                                        },
+                                        {
+                                            "name": "20170729_Acido Folico",
+                                            "name_to_print": "Acido Folico",
+                                            "id": "60",
+                                            "valor": "8.94"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "20170729__Vitaminas",
+                                    "name_to_print": "Vitaminas",
+                                    "children": [
+                                        {
+                                            "name": "20170729_Dosagem de Vitamina B12 (Cobalamina)",
+                                            "name_to_print": "Dosagem de Vitamina B12 (Cobalamina)",
+                                            "id": "59",
+                                            "valor": "245"
+                                        },
+                                        {
+                                            "name": "20170729_25-Hidroxi Vitamina D",
+                                            "name_to_print": "25-Hidroxi Vitamina D",
+                                            "id": "62",
+                                            "valor": "22.5"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170729__Desidrogenase Lática",
+                            "name_to_print": "Desidrogenase Lática",
+                            "children": [
+                                {
+                                    "name": "20170729_Desidrogenase Latica Total",
+                                    "name_to_print": "Desidrogenase Latica Total",
+                                    "id": "33",
+                                    "valor": "293"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170729__Hepatograma",
+                            "name_to_print": "Hepatograma",
+                            "children": [
+                                {
+                                    "name": "20170729_Proteinas Totais",
+                                    "name_to_print": "Proteinas Totais",
+                                    "id": "34",
+                                    "valor": "6.7"
+                                },
+                                {
+                                    "name": "20170729_Transaminase Piruvica (Alt)",
+                                    "name_to_print": "Transaminase Piruvica (Alt)",
+                                    "id": "35",
+                                    "valor": "17"
+                                },
+                                {
+                                    "name": "20170729_Transaminase Oxalacetica (Ast)",
+                                    "name_to_print": "Transaminase Oxalacetica (Ast)",
+                                    "id": "36",
+                                    "valor": "14"
+                                },
+                                {
+                                    "name": "20170729_Fosfatase Alcalina",
+                                    "name_to_print": "Fosfatase Alcalina",
+                                    "id": "37",
+                                    "valor": "57"
+                                },
+                                {
+                                    "name": "20170729_Gama Glutamil Transpeptidase",
+                                    "name_to_print": "Gama Glutamil Transpeptidase",
+                                    "id": "38",
+                                    "valor": "27"
+                                },
+                                {
+                                    "name": "20170729_Bilirrubina Direta",
+                                    "name_to_print": "Bilirrubina Direta",
+                                    "id": "39",
+                                    "valor": "0.4"
+                                },
+                                {
+                                    "name": "20170729_Bilirrubina Indireta",
+                                    "name_to_print": "Bilirrubina Indireta",
+                                    "id": "40",
+                                    "valor": "0.8"
+                                },
+                                {
+                                    "name": "20170729_Bilirrubina Total",
+                                    "name_to_print": "Bilirrubina Total",
+                                    "id": "41",
+                                    "valor": "1.2"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170729__Perfil Lipídico",
+                            "name_to_print": "Perfil Lipídico",
+                            "children": [
+                                {
+                                    "name": "20170729_Colesterol",
+                                    "name_to_print": "Colesterol",
+                                    "id": "42",
+                                    "valor": "162"
+                                },
+                                {
+                                    "name": "20170729_Colesterol - Hdl",
+                                    "name_to_print": "Colesterol - Hdl",
+                                    "id": "43",
+                                    "valor": "51"
+                                },
+                                {
+                                    "name": "20170729_Triglicerideos",
+                                    "name_to_print": "Triglicerideos",
+                                    "id": "44",
+                                    "valor": "88"
+                                },
+                                {
+                                    "name": "20170729_Colesterol - Ldl",
+                                    "name_to_print": "Colesterol - Ldl",
+                                    "id": "45",
+                                    "valor": "93"
+                                },
+                                {
+                                    "name": "20170729_Colesterol - Vldl",
+                                    "name_to_print": "Colesterol - Vldl",
+                                    "id": "46",
+                                    "valor": "18"
+                                },
+                                {
+                                    "name": "20170729_Colesterol - Nao Hdl",
+                                    "name_to_print": "Colesterol - Nao Hdl",
+                                    "id": "47",
+                                    "valor": "111"
+                                },
+                                {
+                                    "name": "20170729_Aspecto do Soro",
+                                    "name_to_print": "Aspecto do Soro",
+                                    "id": "48",
+                                    "valor": "Limpido"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170729__T4 Livre",
+                            "name_to_print": "T4 Livre",
+                            "children": [
+                                {
+                                    "name": "20170729_Tiroxina Livre",
+                                    "name_to_print": "Tiroxina Livre",
+                                    "id": "51",
+                                    "valor": "1.7"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170729__TSH",
+                            "name_to_print": "TSH",
+                            "children": [
+                                {
+                                    "name": "20170729_Hormonio Estimulante da Tireoide",
+                                    "name_to_print": "Hormonio Estimulante da Tireoide",
+                                    "id": "52",
+                                    "valor": "0.14"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170729__Anti-Tireoglobulina",
+                            "name_to_print": "Anti-Tireoglobulina",
+                            "children": [
+                                {
+                                    "name": "20170729_Pesq. de Anticorpos Anti-Tireoglobulina",
+                                    "name_to_print": "Pesq. de Anticorpos Anti-Tireoglobulina",
+                                    "id": "56",
+                                    "valor": "10.9"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170729__TPO - Antiperoxidase Tiroideana",
+                            "name_to_print": "TPO - Antiperoxidase Tiroideana",
+                            "children": [
+                                {
+                                    "name": "20170729_Anticorpo Antiperoxidase Tiroideana",
+                                    "name_to_print": "Anticorpo Antiperoxidase Tiroideana",
+                                    "id": "57",
+                                    "valor": "11.9"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170729__PTH - Paratormonio (Molecula Inteira)",
+                            "name_to_print": "PTH - Paratormonio (Molecula Inteira)",
+                            "children": [
+                                {
+                                    "name": "20170729_Paratormonio (Molecula Inteira)",
+                                    "name_to_print": "Paratormonio (Molecula Inteira)",
+                                    "id": "63",
+                                    "valor": "43.7"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170729__Tireoglobulina",
+                            "name_to_print": "Tireoglobulina",
+                            "children": [
+                                {
+                                    "name": "20170729_Tireoglobulina",
+                                    "name_to_print": "Tireoglobulina",
+                                    "id": "67",
+                                    "valor": "0.1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "20170224_Exam_Date",
+            "name_to_print": "Exam_Date",
+            "children": [
+                {
+                    "name": "20170224__Sangue",
+                    "name_to_print": "Sangue",
+                    "children": [
+                        {
+                            "name": "20170224__T4 Livre",
+                            "name_to_print": "T4 Livre",
+                            "children": [
+                                {
+                                    "name": "20170224_Tiroxina Livre",
+                                    "name_to_print": "Tiroxina Livre",
+                                    "id": "51",
+                                    "valor": "2.2"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170224__TSH",
+                            "name_to_print": "TSH",
+                            "children": [
+                                {
+                                    "name": "20170224_Hormonio Estimulante da Tireoide",
+                                    "name_to_print": "Hormonio Estimulante da Tireoide",
+                                    "id": "52",
+                                    "valor": "27.94"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170224__Anti-Tireoglobulina",
+                            "name_to_print": "Anti-Tireoglobulina",
+                            "children": [
+                                {
+                                    "name": "20170224_Pesq. de Anticorpos Anti-Tireoglobulina",
+                                    "name_to_print": "Pesq. de Anticorpos Anti-Tireoglobulina",
+                                    "id": "56",
+                                    "valor": "10"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170224__Tireoglobulina",
+                            "name_to_print": "Tireoglobulina",
+                            "children": [
+                                {
+                                    "name": "20170224_Tireoglobulina",
+                                    "name_to_print": "Tireoglobulina",
+                                    "id": "67",
+                                    "valor": "0.33"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "20170119_Exam_Date",
+            "name_to_print": "Exam_Date",
+            "children": [
+                {
+                    "name": "20170119__Sangue",
+                    "name_to_print": "Sangue",
+                    "children": [
+                        {
+                            "name": "20170119__Hemograma Completo",
+                            "name_to_print": "Hemograma Completo",
+                            "children": [
+                                {
+                                    "name": "20170119__Série Vermelha",
+                                    "name_to_print": "Série Vermelha",
+                                    "children": [
+                                        {
+                                            "name": "20170119_Contagem de Hemacias",
+                                            "name_to_print": "Contagem de Hemacias",
+                                            "id": "1",
+                                            "valor": "5.23"
+                                        },
+                                        {
+                                            "name": "20170119_Dosagem da Hemoglobina",
+                                            "name_to_print": "Dosagem da Hemoglobina",
+                                            "id": "2",
+                                            "valor": "14.9"
+                                        },
+                                        {
+                                            "name": "20170119_Avaliacao do Hematocrito",
+                                            "name_to_print": "Avaliacao do Hematocrito",
+                                            "id": "3",
+                                            "valor": "43.5"
+                                        },
+                                        {
+                                            "name": "20170119_Volume Globular Medio",
+                                            "name_to_print": "Volume Globular Medio",
+                                            "id": "4",
+                                            "valor": "83"
+                                        },
+                                        {
+                                            "name": "20170119_Hemoglobina Globular Media",
+                                            "name_to_print": "Hemoglobina Globular Media",
+                                            "id": "5",
+                                            "valor": "28.5"
+                                        },
+                                        {
+                                            "name": "20170119_Concentracao da Hemoglobina Glob Media",
+                                            "name_to_print": "Concentracao da Hemoglobina Glob Media",
+                                            "id": "6",
+                                            "valor": "34.2"
+                                        },
+                                        {
+                                            "name": "20170119_Indice de Anisocitose (Rdw)",
+                                            "name_to_print": "Indice de Anisocitose (Rdw)",
+                                            "id": "7",
+                                            "valor": "13.5"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "20170119__Série Branca",
+                                    "name_to_print": "Série Branca",
+                                    "children": [
+                                        {
+                                            "name": "20170119_Contagem de Leucocitos",
+                                            "name_to_print": "Contagem de Leucocitos",
+                                            "id": "8",
+                                            "valor": "6.1"
+                                        },
+                                        {
+                                            "name": "20170119_Basofilos",
+                                            "name_to_print": "Basofilos",
+                                            "id": "9",
+                                            "valor": "0"
+                                        },
+                                        {
+                                            "name": "20170119_Eosinofilos",
+                                            "name_to_print": "Eosinofilos",
+                                            "id": "10",
+                                            "valor": "4"
+                                        },
+                                        {
+                                            "name": "20170119_Neutrofilos Mielocitos",
+                                            "name_to_print": "Neutrofilos Mielocitos",
+                                            "id": "11",
+                                            "valor": "0"
+                                        },
+                                        {
+                                            "name": "20170119_Neutrofilos Metamielocitos",
+                                            "name_to_print": "Neutrofilos Metamielocitos",
+                                            "id": "12",
+                                            "valor": "0"
+                                        },
+                                        {
+                                            "name": "20170119_Bastoes",
+                                            "name_to_print": "Bastoes",
+                                            "id": "13",
+                                            "valor": "2"
+                                        },
+                                        {
+                                            "name": "20170119_Segmentados",
+                                            "name_to_print": "Segmentados",
+                                            "id": "14",
+                                            "valor": "51"
+                                        },
+                                        {
+                                            "name": "20170119_Linfocitos",
+                                            "name_to_print": "Linfocitos",
+                                            "id": "15",
+                                            "valor": "36"
+                                        },
+                                        {
+                                            "name": "20170119_Monocitos",
+                                            "name_to_print": "Monocitos",
+                                            "id": "16",
+                                            "valor": "7"
+                                        },
+                                        {
+                                            "name": "20170119_Contagem de Plaquetas",
+                                            "name_to_print": "Contagem de Plaquetas",
+                                            "id": "17",
+                                            "valor": "313"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170119__Hemoglobina Glicada",
+                            "name_to_print": "Hemoglobina Glicada",
+                            "children": [
+                                {
+                                    "name": "20170119_Hemoglobina Glicada (Hba1c)",
+                                    "name_to_print": "Hemoglobina Glicada (Hba1c)",
+                                    "id": "18",
+                                    "valor": "5"
+                                },
+                                {
+                                    "name": "20170119_Glicemia Media Estimada",
+                                    "name_to_print": "Glicemia Media Estimada",
+                                    "id": "19",
+                                    "valor": "97"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170119__Glicose",
+                            "name_to_print": "Glicose",
+                            "children": [
+                                {
+                                    "name": "20170119_Glicose",
+                                    "name_to_print": "Glicose",
+                                    "id": "20",
+                                    "valor": "81"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170119__Bioquímica",
+                            "name_to_print": "Bioquímica",
+                            "children": [
+                                {
+                                    "name": "20170119__Orgânica",
+                                    "name_to_print": "Orgânica",
+                                    "children": [
+                                        {
+                                            "name": "20170119_Ureia",
+                                            "name_to_print": "Ureia",
+                                            "id": "21",
+                                            "valor": "33"
+                                        },
+                                        {
+                                            "name": "20170119_Creatinina",
+                                            "name_to_print": "Creatinina",
+                                            "id": "22",
+                                            "valor": "1.09"
+                                        },
+                                        {
+                                            "name": "20170119_Indice de Saturacao da Transferrina",
+                                            "name_to_print": "Indice de Saturacao da Transferrina",
+                                            "id": "25",
+                                            "valor": "35.3"
+                                        },
+                                        {
+                                            "name": "20170119_Amilase",
+                                            "name_to_print": "Amilase",
+                                            "id": "26",
+                                            "valor": "55"
+                                        },
+                                        {
+                                            "name": "20170119_Lipase",
+                                            "name_to_print": "Lipase",
+                                            "id": "27",
+                                            "valor": "34"
+                                        },
+                                        {
+                                            "name": "20170119_Creatino Quinase Total",
+                                            "name_to_print": "Creatino Quinase Total",
+                                            "id": "49",
+                                            "valor": "103"
+                                        },
+                                        {
+                                            "name": "20170119_Albumina",
+                                            "name_to_print": "Albumina",
+                                            "id": "50",
+                                            "valor": "4.7"
+                                        },
+                                        {
+                                            "name": "20170119_Ferritina",
+                                            "name_to_print": "Ferritina",
+                                            "id": "61",
+                                            "valor": "75.9"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "20170119__Inorgânica",
+                                    "name_to_print": "Inorgânica",
+                                    "children": [
+                                        {
+                                            "name": "20170119_Ferro",
+                                            "name_to_print": "Ferro",
+                                            "id": "23",
+                                            "valor": "104"
+                                        },
+                                        {
+                                            "name": "20170119_Capacidade Total de Combinacao do Ferro",
+                                            "name_to_print": "Capacidade Total de Combinacao do Ferro",
+                                            "id": "24",
+                                            "valor": "295"
+                                        },
+                                        {
+                                            "name": "20170119_Calcio",
+                                            "name_to_print": "Calcio",
+                                            "id": "28",
+                                            "valor": "9.4"
+                                        },
+                                        {
+                                            "name": "20170119_Fosforo Inorganico",
+                                            "name_to_print": "Fosforo Inorganico",
+                                            "id": "29",
+                                            "valor": "3.2"
+                                        },
+                                        {
+                                            "name": "20170119_Sodio",
+                                            "name_to_print": "Sodio",
+                                            "id": "30",
+                                            "valor": "143"
+                                        },
+                                        {
+                                            "name": "20170119_Potassio",
+                                            "name_to_print": "Potassio",
+                                            "id": "31",
+                                            "valor": "4.9"
+                                        },
+                                        {
+                                            "name": "20170119_Magnesio",
+                                            "name_to_print": "Magnesio",
+                                            "id": "32",
+                                            "valor": "2.1"
+                                        },
+                                        {
+                                            "name": "20170119_Acido Folico",
+                                            "name_to_print": "Acido Folico",
+                                            "id": "60",
+                                            "valor": "12.23"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "20170119__Vitaminas",
+                                    "name_to_print": "Vitaminas",
+                                    "children": [
+                                        {
+                                            "name": "20170119_Dosagem de Vitamina B12 (Cobalamina)",
+                                            "name_to_print": "Dosagem de Vitamina B12 (Cobalamina)",
+                                            "id": "59",
+                                            "valor": "249"
+                                        },
+                                        {
+                                            "name": "20170119_25-Hidroxi Vitamina D",
+                                            "name_to_print": "25-Hidroxi Vitamina D",
+                                            "id": "62",
+                                            "valor": "25.2"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170119__Desidrogenase Lática",
+                            "name_to_print": "Desidrogenase Lática",
+                            "children": [
+                                {
+                                    "name": "20170119_Desidrogenase Latica Total",
+                                    "name_to_print": "Desidrogenase Latica Total",
+                                    "id": "33",
+                                    "valor": "320"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170119__Hepatograma",
+                            "name_to_print": "Hepatograma",
+                            "children": [
+                                {
+                                    "name": "20170119_Proteinas Totais",
+                                    "name_to_print": "Proteinas Totais",
+                                    "id": "34",
+                                    "valor": "6.8"
+                                },
+                                {
+                                    "name": "20170119_Transaminase Piruvica (Alt)",
+                                    "name_to_print": "Transaminase Piruvica (Alt)",
+                                    "id": "35",
+                                    "valor": "17"
+                                },
+                                {
+                                    "name": "20170119_Transaminase Oxalacetica (Ast)",
+                                    "name_to_print": "Transaminase Oxalacetica (Ast)",
+                                    "id": "36",
+                                    "valor": "19"
+                                },
+                                {
+                                    "name": "20170119_Fosfatase Alcalina",
+                                    "name_to_print": "Fosfatase Alcalina",
+                                    "id": "37",
+                                    "valor": "57"
+                                },
+                                {
+                                    "name": "20170119_Gama Glutamil Transpeptidase",
+                                    "name_to_print": "Gama Glutamil Transpeptidase",
+                                    "id": "38",
+                                    "valor": "23"
+                                },
+                                {
+                                    "name": "20170119_Bilirrubina Direta",
+                                    "name_to_print": "Bilirrubina Direta",
+                                    "id": "39",
+                                    "valor": "0.4"
+                                },
+                                {
+                                    "name": "20170119_Bilirrubina Indireta",
+                                    "name_to_print": "Bilirrubina Indireta",
+                                    "id": "40",
+                                    "valor": "0.7"
+                                },
+                                {
+                                    "name": "20170119_Bilirrubina Total",
+                                    "name_to_print": "Bilirrubina Total",
+                                    "id": "41",
+                                    "valor": "1.1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170119__Perfil Lipídico",
+                            "name_to_print": "Perfil Lipídico",
+                            "children": [
+                                {
+                                    "name": "20170119_Colesterol",
+                                    "name_to_print": "Colesterol",
+                                    "id": "42",
+                                    "valor": "156"
+                                },
+                                {
+                                    "name": "20170119_Colesterol - Hdl",
+                                    "name_to_print": "Colesterol - Hdl",
+                                    "id": "43",
+                                    "valor": "43"
+                                },
+                                {
+                                    "name": "20170119_Triglicerideos",
+                                    "name_to_print": "Triglicerideos",
+                                    "id": "44",
+                                    "valor": "109"
+                                },
+                                {
+                                    "name": "20170119_Colesterol - Ldl",
+                                    "name_to_print": "Colesterol - Ldl",
+                                    "id": "45",
+                                    "valor": "91"
+                                },
+                                {
+                                    "name": "20170119_Colesterol - Vldl",
+                                    "name_to_print": "Colesterol - Vldl",
+                                    "id": "46",
+                                    "valor": "22"
+                                },
+                                {
+                                    "name": "20170119_Colesterol - Nao Hdl",
+                                    "name_to_print": "Colesterol - Nao Hdl",
+                                    "id": "47",
+                                    "valor": "113"
+                                },
+                                {
+                                    "name": "20170119_Aspecto do Soro",
+                                    "name_to_print": "Aspecto do Soro",
+                                    "id": "48",
+                                    "valor": "Limpido"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170119__T4 Livre",
+                            "name_to_print": "T4 Livre",
+                            "children": [
+                                {
+                                    "name": "20170119_Tiroxina Livre",
+                                    "name_to_print": "Tiroxina Livre",
+                                    "id": "51",
+                                    "valor": "1.7"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170119__TSH",
+                            "name_to_print": "TSH",
+                            "children": [
+                                {
+                                    "name": "20170119_Hormonio Estimulante da Tireoide",
+                                    "name_to_print": "Hormonio Estimulante da Tireoide",
+                                    "id": "52",
+                                    "valor": "0.07"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170119__Anti-Tireoglobulina",
+                            "name_to_print": "Anti-Tireoglobulina",
+                            "children": [
+                                {
+                                    "name": "20170119_Pesq. de Anticorpos Anti-Tireoglobulina",
+                                    "name_to_print": "Pesq. de Anticorpos Anti-Tireoglobulina",
+                                    "id": "56",
+                                    "valor": "10"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170119__TPO - Antiperoxidase Tiroideana",
+                            "name_to_print": "TPO - Antiperoxidase Tiroideana",
+                            "children": [
+                                {
+                                    "name": "20170119_Anticorpo Antiperoxidase Tiroideana",
+                                    "name_to_print": "Anticorpo Antiperoxidase Tiroideana",
+                                    "id": "57",
+                                    "valor": "6.1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170119__PTH - Paratormonio (Molecula Inteira)",
+                            "name_to_print": "PTH - Paratormonio (Molecula Inteira)",
+                            "children": [
+                                {
+                                    "name": "20170119_Paratormonio (Molecula Inteira)",
+                                    "name_to_print": "Paratormonio (Molecula Inteira)",
+                                    "id": "63",
+                                    "valor": "38.7"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170119__Tireoglobulina",
+                            "name_to_print": "Tireoglobulina",
+                            "children": [
+                                {
+                                    "name": "20170119_Tireoglobulina",
+                                    "name_to_print": "Tireoglobulina",
+                                    "id": "67",
+                                    "valor": "0.08"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "20170509_Exam_Date",
+            "name_to_print": "Exam_Date",
+            "children": [
+                {
+                    "name": "20170509__Sangue",
+                    "name_to_print": "Sangue",
+                    "children": [
+                        {
+                            "name": "20170509__Hemograma Completo",
+                            "name_to_print": "Hemograma Completo",
+                            "children": [
+                                {
+                                    "name": "20170509__Série Vermelha",
+                                    "name_to_print": "Série Vermelha",
+                                    "children": [
+                                        {
+                                            "name": "20170509_Contagem de Hemacias",
+                                            "name_to_print": "Contagem de Hemacias",
+                                            "id": "1",
+                                            "valor": "5.53"
+                                        },
+                                        {
+                                            "name": "20170509_Dosagem da Hemoglobina",
+                                            "name_to_print": "Dosagem da Hemoglobina",
+                                            "id": "2",
+                                            "valor": "16"
+                                        },
+                                        {
+                                            "name": "20170509_Avaliacao do Hematocrito",
+                                            "name_to_print": "Avaliacao do Hematocrito",
+                                            "id": "3",
+                                            "valor": "46.4"
+                                        },
+                                        {
+                                            "name": "20170509_Volume Globular Medio",
+                                            "name_to_print": "Volume Globular Medio",
+                                            "id": "4",
+                                            "valor": "83.9"
+                                        },
+                                        {
+                                            "name": "20170509_Hemoglobina Globular Media",
+                                            "name_to_print": "Hemoglobina Globular Media",
+                                            "id": "5",
+                                            "valor": "28.9"
+                                        },
+                                        {
+                                            "name": "20170509_Concentracao da Hemoglobina Glob Media",
+                                            "name_to_print": "Concentracao da Hemoglobina Glob Media",
+                                            "id": "6",
+                                            "valor": "34.5"
+                                        },
+                                        {
+                                            "name": "20170509_Indice de Anisocitose (Rdw)",
+                                            "name_to_print": "Indice de Anisocitose (Rdw)",
+                                            "id": "7",
+                                            "valor": "12.7"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "20170509__Série Branca",
+                                    "name_to_print": "Série Branca",
+                                    "children": [
+                                        {
+                                            "name": "20170509_Contagem de Leucocitos",
+                                            "name_to_print": "Contagem de Leucocitos",
+                                            "id": "8",
+                                            "valor": "7.9"
+                                        },
+                                        {
+                                            "name": "20170509_Basofilos",
+                                            "name_to_print": "Basofilos",
+                                            "id": "9",
+                                            "valor": "0"
+                                        },
+                                        {
+                                            "name": "20170509_Eosinofilos",
+                                            "name_to_print": "Eosinofilos",
+                                            "id": "10",
+                                            "valor": "4"
+                                        },
+                                        {
+                                            "name": "20170509_Neutrofilos Mielocitos",
+                                            "name_to_print": "Neutrofilos Mielocitos",
+                                            "id": "11",
+                                            "valor": "0"
+                                        },
+                                        {
+                                            "name": "20170509_Neutrofilos Metamielocitos",
+                                            "name_to_print": "Neutrofilos Metamielocitos",
+                                            "id": "12",
+                                            "valor": "0"
+                                        },
+                                        {
+                                            "name": "20170509_Bastoes",
+                                            "name_to_print": "Bastoes",
+                                            "id": "13",
+                                            "valor": "1"
+                                        },
+                                        {
+                                            "name": "20170509_Segmentados",
+                                            "name_to_print": "Segmentados",
+                                            "id": "14",
+                                            "valor": "62"
+                                        },
+                                        {
+                                            "name": "20170509_Linfocitos",
+                                            "name_to_print": "Linfocitos",
+                                            "id": "15",
+                                            "valor": "24"
+                                        },
+                                        {
+                                            "name": "20170509_Monocitos",
+                                            "name_to_print": "Monocitos",
+                                            "id": "16",
+                                            "valor": "9"
+                                        },
+                                        {
+                                            "name": "20170509_Contagem de Plaquetas",
+                                            "name_to_print": "Contagem de Plaquetas",
+                                            "id": "17",
+                                            "valor": "306"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170509__Hemoglobina Glicada",
+                            "name_to_print": "Hemoglobina Glicada",
+                            "children": [
+                                {
+                                    "name": "20170509_Hemoglobina Glicada (Hba1c)",
+                                    "name_to_print": "Hemoglobina Glicada (Hba1c)",
+                                    "id": "18",
+                                    "valor": "5.4"
+                                },
+                                {
+                                    "name": "20170509_Glicemia Media Estimada",
+                                    "name_to_print": "Glicemia Media Estimada",
+                                    "id": "19",
+                                    "valor": "108"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170509__Glicose",
+                            "name_to_print": "Glicose",
+                            "children": [
+                                {
+                                    "name": "20170509_Glicose",
+                                    "name_to_print": "Glicose",
+                                    "id": "20",
+                                    "valor": "88"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170509__Bioquímica",
+                            "name_to_print": "Bioquímica",
+                            "children": [
+                                {
+                                    "name": "20170509__Orgânica",
+                                    "name_to_print": "Orgânica",
+                                    "children": [
+                                        {
+                                            "name": "20170509_Ureia",
+                                            "name_to_print": "Ureia",
+                                            "id": "21",
+                                            "valor": "35"
+                                        },
+                                        {
+                                            "name": "20170509_Creatinina",
+                                            "name_to_print": "Creatinina",
+                                            "id": "22",
+                                            "valor": "1.16"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "20170509__Inorgânica",
+                                    "name_to_print": "Inorgânica",
+                                    "children": [
+                                        {
+                                            "name": "20170509_Sodio",
+                                            "name_to_print": "Sodio",
+                                            "id": "30",
+                                            "valor": "141"
+                                        },
+                                        {
+                                            "name": "20170509_Potassio",
+                                            "name_to_print": "Potassio",
+                                            "id": "31",
+                                            "valor": "4.9"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170509__Hepatograma",
+                            "name_to_print": "Hepatograma",
+                            "children": [
+                                {
+                                    "name": "20170509_Proteinas Totais",
+                                    "name_to_print": "Proteinas Totais",
+                                    "id": "34",
+                                    "valor": "7.4"
+                                },
+                                {
+                                    "name": "20170509_Transaminase Piruvica (Alt)",
+                                    "name_to_print": "Transaminase Piruvica (Alt)",
+                                    "id": "35",
+                                    "valor": "23"
+                                },
+                                {
+                                    "name": "20170509_Transaminase Oxalacetica (Ast)",
+                                    "name_to_print": "Transaminase Oxalacetica (Ast)",
+                                    "id": "36",
+                                    "valor": "22"
+                                },
+                                {
+                                    "name": "20170509_Fosfatase Alcalina",
+                                    "name_to_print": "Fosfatase Alcalina",
+                                    "id": "37",
+                                    "valor": "66"
+                                },
+                                {
+                                    "name": "20170509_Gama Glutamil Transpeptidase",
+                                    "name_to_print": "Gama Glutamil Transpeptidase",
+                                    "id": "38",
+                                    "valor": "31"
+                                },
+                                {
+                                    "name": "20170509_Bilirrubina Direta",
+                                    "name_to_print": "Bilirrubina Direta",
+                                    "id": "39",
+                                    "valor": "0.3"
+                                },
+                                {
+                                    "name": "20170509_Bilirrubina Indireta",
+                                    "name_to_print": "Bilirrubina Indireta",
+                                    "id": "40",
+                                    "valor": "0.7"
+                                },
+                                {
+                                    "name": "20170509_Bilirrubina Total",
+                                    "name_to_print": "Bilirrubina Total",
+                                    "id": "41",
+                                    "valor": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170509__Perfil Lipídico",
+                            "name_to_print": "Perfil Lipídico",
+                            "children": [
+                                {
+                                    "name": "20170509_Colesterol",
+                                    "name_to_print": "Colesterol",
+                                    "id": "42",
+                                    "valor": "190"
+                                },
+                                {
+                                    "name": "20170509_Colesterol - Hdl",
+                                    "name_to_print": "Colesterol - Hdl",
+                                    "id": "43",
+                                    "valor": "62"
+                                },
+                                {
+                                    "name": "20170509_Triglicerideos",
+                                    "name_to_print": "Triglicerideos",
+                                    "id": "44",
+                                    "valor": "99"
+                                },
+                                {
+                                    "name": "20170509_Colesterol - Ldl",
+                                    "name_to_print": "Colesterol - Ldl",
+                                    "id": "45",
+                                    "valor": "108"
+                                },
+                                {
+                                    "name": "20170509_Colesterol - Vldl",
+                                    "name_to_print": "Colesterol - Vldl",
+                                    "id": "46",
+                                    "valor": "20"
+                                },
+                                {
+                                    "name": "20170509_Colesterol - Nao Hdl",
+                                    "name_to_print": "Colesterol - Nao Hdl",
+                                    "id": "47",
+                                    "valor": "128"
+                                },
+                                {
+                                    "name": "20170509_Aspecto do Soro",
+                                    "name_to_print": "Aspecto do Soro",
+                                    "id": "48",
+                                    "valor": "Limpido"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170509__T4 Livre",
+                            "name_to_print": "T4 Livre",
+                            "children": [
+                                {
+                                    "name": "20170509_Tiroxina Livre",
+                                    "name_to_print": "Tiroxina Livre",
+                                    "id": "51",
+                                    "valor": "1.5"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170509__TSH",
+                            "name_to_print": "TSH",
+                            "children": [
+                                {
+                                    "name": "20170509_Hormonio Estimulante da Tireoide",
+                                    "name_to_print": "Hormonio Estimulante da Tireoide",
+                                    "id": "52",
+                                    "valor": "0.19"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170509__PSA Total e Livre",
+                            "name_to_print": "PSA Total e Livre",
+                            "children": [
+                                {
+                                    "name": "20170509_Antigeno Prostatico Especifico Total",
+                                    "name_to_print": "Antigeno Prostatico Especifico Total",
+                                    "id": "64",
+                                    "valor": "2.22"
+                                },
+                                {
+                                    "name": "20170509_Ag. Prostatico Especifico, Fracao Livre",
+                                    "name_to_print": "Ag. Prostatico Especifico, Fracao Livre",
+                                    "id": "65",
+                                    "valor": "0.54"
+                                },
+                                {
+                                    "name": "20170509_Relacao Psa Livre/Psa Total",
+                                    "name_to_print": "Relacao Psa Livre/Psa Total",
+                                    "id": "66",
+                                    "valor": "0.24"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

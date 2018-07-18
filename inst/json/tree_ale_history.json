@@ -4,7 +4,7 @@
     "children": [
         {
             "name": "20180104_Exam_Date",
-            "name_to_print": "Exam_20180104",
+            "name_to_print": "Exame 20180104",
             "children": [
                 {
                     "name": "20180104__Sangue",
@@ -550,7 +550,7 @@
         },
         {
             "name": "20170729_Exam_Date",
-            "name_to_print": "Exam_20170729",
+            "name_to_print": "Exame 20170729",
             "children": [
                 {
                     "name": "20170729__Sangue",
@@ -1030,7 +1030,7 @@
         },
         {
             "name": "20170224_Exam_Date",
-            "name_to_print": "Exam_20170224",
+            "name_to_print": "Exame 20170224",
             "children": [
                 {
                     "name": "20170224__Sangue",
@@ -1090,7 +1090,7 @@
         },
         {
             "name": "20170119_Exam_Date",
-            "name_to_print": "Exam_20170119",
+            "name_to_print": "Exame 20170119",
             "children": [
                 {
                     "name": "20170119__Sangue",
@@ -1570,7 +1570,7 @@
         },
         {
             "name": "20170509_Exam_Date",
-            "name_to_print": "Exam_20170509",
+            "name_to_print": "Exame 20170509",
             "children": [
                 {
                     "name": "20170509__Sangue",

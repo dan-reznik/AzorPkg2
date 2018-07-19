@@ -24,7 +24,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0001_Contagem de Hemacias",
-                                                    "name_to_print": "20180104_Contagem de Hemacias: 5.78 milhoes/mm3",
+                                                    "name_to_print": "20180104: 5.78 milhoes/mm3",
                                                     "id_valor": 1,
                                                     "valor": "5.78",
                                                     "unidade": "milhoes/mm3",
@@ -33,7 +33,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0001_Contagem de Hemacias",
-                                                    "name_to_print": "20170729_Contagem de Hemacias: 5.37 milhoes/mm3",
+                                                    "name_to_print": "20170729: 5.37 milhoes/mm3",
                                                     "id_valor": 1,
                                                     "valor": "5.37",
                                                     "unidade": "milhoes/mm3",
@@ -42,7 +42,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0001_Contagem de Hemacias",
-                                                    "name_to_print": "20170119_Contagem de Hemacias: 5.23 milhoes/mm3",
+                                                    "name_to_print": "20170119: 5.23 milhoes/mm3",
                                                     "id_valor": 1,
                                                     "valor": "5.23",
                                                     "unidade": "milhoes/mm3",
@@ -51,7 +51,7 @@
                                                 },
                                                 {
                                                     "name": "20170509_0001_Contagem de Hemacias",
-                                                    "name_to_print": "20170509_Contagem de Hemacias: 5.53 milhoes/mm3",
+                                                    "name_to_print": "20170509: 5.53 milhoes/mm3",
                                                     "id_valor": 1,
                                                     "valor": "5.53",
                                                     "unidade": "milhoes/mm3",
@@ -66,7 +66,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0002_Dosagem da Hemoglobina",
-                                                    "name_to_print": "20180104_Dosagem da Hemoglobina: 15.7 g/dL",
+                                                    "name_to_print": "20180104: 15.7 g/dL",
                                                     "id_valor": 2,
                                                     "valor": "15.7",
                                                     "unidade": "g/dL",
@@ -75,7 +75,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0002_Dosagem da Hemoglobina",
-                                                    "name_to_print": "20170729_Dosagem da Hemoglobina: 15.3 g/dL",
+                                                    "name_to_print": "20170729: 15.3 g/dL",
                                                     "id_valor": 2,
                                                     "valor": "15.3",
                                                     "unidade": "g/dL",
@@ -84,7 +84,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0002_Dosagem da Hemoglobina",
-                                                    "name_to_print": "20170119_Dosagem da Hemoglobina: 14.9 g/dL",
+                                                    "name_to_print": "20170119: 14.9 g/dL",
                                                     "id_valor": 2,
                                                     "valor": "14.9",
                                                     "unidade": "g/dL",
@@ -93,7 +93,7 @@
                                                 },
                                                 {
                                                     "name": "20170509_0002_Dosagem da Hemoglobina",
-                                                    "name_to_print": "20170509_Dosagem da Hemoglobina: 16 g/dL",
+                                                    "name_to_print": "20170509: 16 g/dL",
                                                     "id_valor": 2,
                                                     "valor": "16",
                                                     "unidade": "g/dL",
@@ -108,7 +108,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0003_Avaliacao do Hematocrito",
-                                                    "name_to_print": "20180104_Avaliacao do Hematocrito: 49.4%",
+                                                    "name_to_print": "20180104: 49.4%",
                                                     "id_valor": 3,
                                                     "valor": "49.4",
                                                     "unidade": "[Φ]",
@@ -117,7 +117,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0003_Avaliacao do Hematocrito",
-                                                    "name_to_print": "20170729_Avaliacao do Hematocrito: 45.1%",
+                                                    "name_to_print": "20170729: 45.1%",
                                                     "id_valor": 3,
                                                     "valor": "45.1",
                                                     "unidade": "[Φ]",
@@ -126,7 +126,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0003_Avaliacao do Hematocrito",
-                                                    "name_to_print": "20170119_Avaliacao do Hematocrito: 43.5%",
+                                                    "name_to_print": "20170119: 43.5%",
                                                     "id_valor": 3,
                                                     "valor": "43.5",
                                                     "unidade": "[Φ]",
@@ -135,7 +135,7 @@
                                                 },
                                                 {
                                                     "name": "20170509_0003_Avaliacao do Hematocrito",
-                                                    "name_to_print": "20170509_Avaliacao do Hematocrito: 46.4%",
+                                                    "name_to_print": "20170509: 46.4%",
                                                     "id_valor": 3,
                                                     "valor": "46.4",
                                                     "unidade": "[Φ]",
@@ -150,7 +150,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0004_Volume Globular Medio",
-                                                    "name_to_print": "20180104_Volume Globular Medio: 85.4 fL",
+                                                    "name_to_print": "20180104: 85.4 fL",
                                                     "id_valor": 4,
                                                     "valor": "85.4",
                                                     "unidade": "fL",
@@ -159,7 +159,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0004_Volume Globular Medio",
-                                                    "name_to_print": "20170729_Volume Globular Medio: 84 fL",
+                                                    "name_to_print": "20170729: 84 fL",
                                                     "id_valor": 4,
                                                     "valor": "84",
                                                     "unidade": "fL",
@@ -168,7 +168,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0004_Volume Globular Medio",
-                                                    "name_to_print": "20170119_Volume Globular Medio: 83 fL",
+                                                    "name_to_print": "20170119: 83 fL",
                                                     "id_valor": 4,
                                                     "valor": "83",
                                                     "unidade": "fL",
@@ -177,7 +177,7 @@
                                                 },
                                                 {
                                                     "name": "20170509_0004_Volume Globular Medio",
-                                                    "name_to_print": "20170509_Volume Globular Medio: 83.9 fL",
+                                                    "name_to_print": "20170509: 83.9 fL",
                                                     "id_valor": 4,
                                                     "valor": "83.9",
                                                     "unidade": "fL",
@@ -192,7 +192,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0005_Hemoglobina Globular Media",
-                                                    "name_to_print": "20180104_Hemoglobina Globular Media: 27.1 pg",
+                                                    "name_to_print": "20180104: 27.1 pg",
                                                     "id_valor": 5,
                                                     "valor": "27.1",
                                                     "unidade": "pg",
@@ -201,7 +201,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0005_Hemoglobina Globular Media",
-                                                    "name_to_print": "20170729_Hemoglobina Globular Media: 28.5 pg",
+                                                    "name_to_print": "20170729: 28.5 pg",
                                                     "id_valor": 5,
                                                     "valor": "28.5",
                                                     "unidade": "pg",
@@ -210,7 +210,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0005_Hemoglobina Globular Media",
-                                                    "name_to_print": "20170119_Hemoglobina Globular Media: 28.5 pg",
+                                                    "name_to_print": "20170119: 28.5 pg",
                                                     "id_valor": 5,
                                                     "valor": "28.5",
                                                     "unidade": "pg",
@@ -219,7 +219,7 @@
                                                 },
                                                 {
                                                     "name": "20170509_0005_Hemoglobina Globular Media",
-                                                    "name_to_print": "20170509_Hemoglobina Globular Media: 28.9 pg",
+                                                    "name_to_print": "20170509: 28.9 pg",
                                                     "id_valor": 5,
                                                     "valor": "28.9",
                                                     "unidade": "pg",
@@ -234,7 +234,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0006_Concentracao da Hemoglobina Glob Media",
-                                                    "name_to_print": "20180104_Concentracao da Hemoglobina Glob Media: 31.7 g/dL",
+                                                    "name_to_print": "20180104: 31.7 g/dL",
                                                     "id_valor": 6,
                                                     "valor": "31.7",
                                                     "unidade": "g/dL",
@@ -243,7 +243,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0006_Concentracao da Hemoglobina Glob Media",
-                                                    "name_to_print": "20170729_Concentracao da Hemoglobina Glob Media: 33.9 g/dL",
+                                                    "name_to_print": "20170729: 33.9 g/dL",
                                                     "id_valor": 6,
                                                     "valor": "33.9",
                                                     "unidade": "g/dL",
@@ -252,7 +252,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0006_Concentracao da Hemoglobina Glob Media",
-                                                    "name_to_print": "20170119_Concentracao da Hemoglobina Glob Media: 34.2 g/dL",
+                                                    "name_to_print": "20170119: 34.2 g/dL",
                                                     "id_valor": 6,
                                                     "valor": "34.2",
                                                     "unidade": "g/dL",
@@ -261,7 +261,7 @@
                                                 },
                                                 {
                                                     "name": "20170509_0006_Concentracao da Hemoglobina Glob Media",
-                                                    "name_to_print": "20170509_Concentracao da Hemoglobina Glob Media: 34.5 g/dL",
+                                                    "name_to_print": "20170509: 34.5 g/dL",
                                                     "id_valor": 6,
                                                     "valor": "34.5",
                                                     "unidade": "g/dL",
@@ -276,7 +276,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0007_Indice de Anisocitose (Rdw)",
-                                                    "name_to_print": "20180104_Indice de Anisocitose (Rdw): 14.2%",
+                                                    "name_to_print": "20180104: 14.2%",
                                                     "id_valor": 7,
                                                     "valor": "14.2",
                                                     "unidade": "[Φ]",
@@ -285,7 +285,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0007_Indice de Anisocitose (Rdw)",
-                                                    "name_to_print": "20170729_Indice de Anisocitose (Rdw): 16.2%",
+                                                    "name_to_print": "20170729: 16.2%",
                                                     "id_valor": 7,
                                                     "valor": "16.2",
                                                     "unidade": "[Φ]",
@@ -294,7 +294,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0007_Indice de Anisocitose (Rdw)",
-                                                    "name_to_print": "20170119_Indice de Anisocitose (Rdw): 13.5%",
+                                                    "name_to_print": "20170119: 13.5%",
                                                     "id_valor": 7,
                                                     "valor": "13.5",
                                                     "unidade": "[Φ]",
@@ -303,7 +303,7 @@
                                                 },
                                                 {
                                                     "name": "20170509_0007_Indice de Anisocitose (Rdw)",
-                                                    "name_to_print": "20170509_Indice de Anisocitose (Rdw): 12.7%",
+                                                    "name_to_print": "20170509: 12.7%",
                                                     "id_valor": 7,
                                                     "valor": "12.7",
                                                     "unidade": "[Φ]",
@@ -324,7 +324,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0008_Contagem de Leucocitos",
-                                                    "name_to_print": "20180104_Contagem de Leucocitos: 6.7 mil/mm3",
+                                                    "name_to_print": "20180104: 6.7 mil/mm3",
                                                     "id_valor": 8,
                                                     "valor": "6.7",
                                                     "unidade": "mil/mm3",
@@ -333,7 +333,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0008_Contagem de Leucocitos",
-                                                    "name_to_print": "20170729_Contagem de Leucocitos: 7.2 mil/mm3",
+                                                    "name_to_print": "20170729: 7.2 mil/mm3",
                                                     "id_valor": 8,
                                                     "valor": "7.2",
                                                     "unidade": "mil/mm3",
@@ -342,7 +342,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0008_Contagem de Leucocitos",
-                                                    "name_to_print": "20170119_Contagem de Leucocitos: 6.1 mil/mm3",
+                                                    "name_to_print": "20170119: 6.1 mil/mm3",
                                                     "id_valor": 8,
                                                     "valor": "6.1",
                                                     "unidade": "mil/mm3",
@@ -351,7 +351,7 @@
                                                 },
                                                 {
                                                     "name": "20170509_0008_Contagem de Leucocitos",
-                                                    "name_to_print": "20170509_Contagem de Leucocitos: 7.9 mil/mm3",
+                                                    "name_to_print": "20170509: 7.9 mil/mm3",
                                                     "id_valor": 8,
                                                     "valor": "7.9",
                                                     "unidade": "mil/mm3",
@@ -366,7 +366,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0009_Basofilos",
-                                                    "name_to_print": "20180104_Basofilos: 0%",
+                                                    "name_to_print": "20180104: 0%",
                                                     "id_valor": 9,
                                                     "valor": "0",
                                                     "unidade": "0/mm3",
@@ -375,7 +375,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0009_Basofilos",
-                                                    "name_to_print": "20170729_Basofilos: 0%",
+                                                    "name_to_print": "20170729: 0%",
                                                     "id_valor": 9,
                                                     "valor": "0",
                                                     "unidade": "0/mm3",
@@ -384,7 +384,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0009_Basofilos",
-                                                    "name_to_print": "20170119_Basofilos: 0%",
+                                                    "name_to_print": "20170119: 0%",
                                                     "id_valor": 9,
                                                     "valor": "0",
                                                     "unidade": "0/mm3",
@@ -393,7 +393,7 @@
                                                 },
                                                 {
                                                     "name": "20170509_0009_Basofilos",
-                                                    "name_to_print": "20170509_Basofilos: 0%",
+                                                    "name_to_print": "20170509: 0%",
                                                     "id_valor": 9,
                                                     "valor": "0",
                                                     "unidade": "0/mm3",
@@ -408,7 +408,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0010_Eosinofilos",
-                                                    "name_to_print": "20180104_Eosinofilos: 4%",
+                                                    "name_to_print": "20180104: 4%",
                                                     "id_valor": 10,
                                                     "valor": "4",
                                                     "unidade": "268/mm3",
@@ -417,7 +417,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0010_Eosinofilos",
-                                                    "name_to_print": "20170729_Eosinofilos: 3%",
+                                                    "name_to_print": "20170729: 3%",
                                                     "id_valor": 10,
                                                     "valor": "3",
                                                     "unidade": "268/mm3",
@@ -426,7 +426,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0010_Eosinofilos",
-                                                    "name_to_print": "20170119_Eosinofilos: 4%",
+                                                    "name_to_print": "20170119: 4%",
                                                     "id_valor": 10,
                                                     "valor": "4",
                                                     "unidade": "268/mm3",
@@ -435,7 +435,7 @@
                                                 },
                                                 {
                                                     "name": "20170509_0010_Eosinofilos",
-                                                    "name_to_print": "20170509_Eosinofilos: 4%",
+                                                    "name_to_print": "20170509: 4%",
                                                     "id_valor": 10,
                                                     "valor": "4",
                                                     "unidade": "268/mm3",
@@ -450,7 +450,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0011_Neutrofilos Mielocitos",
-                                                    "name_to_print": "20180104_Neutrofilos Mielocitos: 0%",
+                                                    "name_to_print": "20180104: 0%",
                                                     "id_valor": 11,
                                                     "valor": "0",
                                                     "unidade": "0/mm3",
@@ -459,7 +459,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0011_Neutrofilos Mielocitos",
-                                                    "name_to_print": "20170729_Neutrofilos Mielocitos: 0%",
+                                                    "name_to_print": "20170729: 0%",
                                                     "id_valor": 11,
                                                     "valor": "0",
                                                     "unidade": "0/mm3",
@@ -468,7 +468,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0011_Neutrofilos Mielocitos",
-                                                    "name_to_print": "20170119_Neutrofilos Mielocitos: 0%",
+                                                    "name_to_print": "20170119: 0%",
                                                     "id_valor": 11,
                                                     "valor": "0",
                                                     "unidade": "0/mm3",
@@ -477,7 +477,7 @@
                                                 },
                                                 {
                                                     "name": "20170509_0011_Neutrofilos Mielocitos",
-                                                    "name_to_print": "20170509_Neutrofilos Mielocitos: 0%",
+                                                    "name_to_print": "20170509: 0%",
                                                     "id_valor": 11,
                                                     "valor": "0",
                                                     "unidade": "0/mm3",
@@ -492,7 +492,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0012_Neutrofilos Metamielocitos",
-                                                    "name_to_print": "20180104_Neutrofilos Metamielocitos: 0%",
+                                                    "name_to_print": "20180104: 0%",
                                                     "id_valor": 12,
                                                     "valor": "0",
                                                     "unidade": "0/mm3",
@@ -501,7 +501,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0012_Neutrofilos Metamielocitos",
-                                                    "name_to_print": "20170729_Neutrofilos Metamielocitos: 0%",
+                                                    "name_to_print": "20170729: 0%",
                                                     "id_valor": 12,
                                                     "valor": "0",
                                                     "unidade": "0/mm3",
@@ -510,7 +510,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0012_Neutrofilos Metamielocitos",
-                                                    "name_to_print": "20170119_Neutrofilos Metamielocitos: 0%",
+                                                    "name_to_print": "20170119: 0%",
                                                     "id_valor": 12,
                                                     "valor": "0",
                                                     "unidade": "0/mm3",
@@ -519,7 +519,7 @@
                                                 },
                                                 {
                                                     "name": "20170509_0012_Neutrofilos Metamielocitos",
-                                                    "name_to_print": "20170509_Neutrofilos Metamielocitos: 0%",
+                                                    "name_to_print": "20170509: 0%",
                                                     "id_valor": 12,
                                                     "valor": "0",
                                                     "unidade": "0/mm3",
@@ -534,7 +534,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0013_Bastoes",
-                                                    "name_to_print": "20180104_Bastoes: 1%",
+                                                    "name_to_print": "20180104: 1%",
                                                     "id_valor": 13,
                                                     "valor": "1",
                                                     "unidade": "67/mm3",
@@ -543,7 +543,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0013_Bastoes",
-                                                    "name_to_print": "20170729_Bastoes: 3%",
+                                                    "name_to_print": "20170729: 3%",
                                                     "id_valor": 13,
                                                     "valor": "3",
                                                     "unidade": "67/mm3",
@@ -552,7 +552,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0013_Bastoes",
-                                                    "name_to_print": "20170119_Bastoes: 2%",
+                                                    "name_to_print": "20170119: 2%",
                                                     "id_valor": 13,
                                                     "valor": "2",
                                                     "unidade": "67/mm3",
@@ -561,7 +561,7 @@
                                                 },
                                                 {
                                                     "name": "20170509_0013_Bastoes",
-                                                    "name_to_print": "20170509_Bastoes: 1%",
+                                                    "name_to_print": "20170509: 1%",
                                                     "id_valor": 13,
                                                     "valor": "1",
                                                     "unidade": "67/mm3",
@@ -576,7 +576,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0014_Segmentados",
-                                                    "name_to_print": "20180104_Segmentados: 54%",
+                                                    "name_to_print": "20180104: 54%",
                                                     "id_valor": 14,
                                                     "valor": "54",
                                                     "unidade": "3.618/mm3",
@@ -585,7 +585,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0014_Segmentados",
-                                                    "name_to_print": "20170729_Segmentados: 55%",
+                                                    "name_to_print": "20170729: 55%",
                                                     "id_valor": 14,
                                                     "valor": "55",
                                                     "unidade": "3.618/mm3",
@@ -594,7 +594,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0014_Segmentados",
-                                                    "name_to_print": "20170119_Segmentados: 51%",
+                                                    "name_to_print": "20170119: 51%",
                                                     "id_valor": 14,
                                                     "valor": "51",
                                                     "unidade": "3.618/mm3",
@@ -603,7 +603,7 @@
                                                 },
                                                 {
                                                     "name": "20170509_0014_Segmentados",
-                                                    "name_to_print": "20170509_Segmentados: 62%",
+                                                    "name_to_print": "20170509: 62%",
                                                     "id_valor": 14,
                                                     "valor": "62",
                                                     "unidade": "3.618/mm3",
@@ -618,7 +618,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0015_Linfocitos",
-                                                    "name_to_print": "20180104_Linfocitos: 31%",
+                                                    "name_to_print": "20180104: 31%",
                                                     "id_valor": 15,
                                                     "valor": "31",
                                                     "unidade": "2.077/mm3",
@@ -627,7 +627,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0015_Linfocitos",
-                                                    "name_to_print": "20170729_Linfocitos: 31%",
+                                                    "name_to_print": "20170729: 31%",
                                                     "id_valor": 15,
                                                     "valor": "31",
                                                     "unidade": "2.077/mm3",
@@ -636,7 +636,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0015_Linfocitos",
-                                                    "name_to_print": "20170119_Linfocitos: 36%",
+                                                    "name_to_print": "20170119: 36%",
                                                     "id_valor": 15,
                                                     "valor": "36",
                                                     "unidade": "2.077/mm3",
@@ -645,7 +645,7 @@
                                                 },
                                                 {
                                                     "name": "20170509_0015_Linfocitos",
-                                                    "name_to_print": "20170509_Linfocitos: 24%",
+                                                    "name_to_print": "20170509: 24%",
                                                     "id_valor": 15,
                                                     "valor": "24",
                                                     "unidade": "2.077/mm3",
@@ -660,7 +660,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0016_Monocitos",
-                                                    "name_to_print": "20180104_Monocitos: 10%",
+                                                    "name_to_print": "20180104: 10%",
                                                     "id_valor": 16,
                                                     "valor": "10",
                                                     "unidade": "670/mm3",
@@ -669,7 +669,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0016_Monocitos",
-                                                    "name_to_print": "20170729_Monocitos: 8%",
+                                                    "name_to_print": "20170729: 8%",
                                                     "id_valor": 16,
                                                     "valor": "8",
                                                     "unidade": "670/mm3",
@@ -678,7 +678,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0016_Monocitos",
-                                                    "name_to_print": "20170119_Monocitos: 7%",
+                                                    "name_to_print": "20170119: 7%",
                                                     "id_valor": 16,
                                                     "valor": "7",
                                                     "unidade": "670/mm3",
@@ -687,7 +687,7 @@
                                                 },
                                                 {
                                                     "name": "20170509_0016_Monocitos",
-                                                    "name_to_print": "20170509_Monocitos: 9%",
+                                                    "name_to_print": "20170509: 9%",
                                                     "id_valor": 16,
                                                     "valor": "9",
                                                     "unidade": "670/mm3",
@@ -702,7 +702,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0017_Contagem de Plaquetas",
-                                                    "name_to_print": "20180104_Contagem de Plaquetas: 307 mil/mm3",
+                                                    "name_to_print": "20180104: 307 mil/mm3",
                                                     "id_valor": 17,
                                                     "valor": "307",
                                                     "unidade": "mil/mm3",
@@ -711,7 +711,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0017_Contagem de Plaquetas",
-                                                    "name_to_print": "20170729_Contagem de Plaquetas: 309 mil/mm3",
+                                                    "name_to_print": "20170729: 309 mil/mm3",
                                                     "id_valor": 17,
                                                     "valor": "309",
                                                     "unidade": "mil/mm3",
@@ -720,7 +720,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0017_Contagem de Plaquetas",
-                                                    "name_to_print": "20170119_Contagem de Plaquetas: 313 mil/mm3",
+                                                    "name_to_print": "20170119: 313 mil/mm3",
                                                     "id_valor": 17,
                                                     "valor": "313",
                                                     "unidade": "mil/mm3",
@@ -729,7 +729,7 @@
                                                 },
                                                 {
                                                     "name": "20170509_0017_Contagem de Plaquetas",
-                                                    "name_to_print": "20170509_Contagem de Plaquetas: 306 mil/mm3",
+                                                    "name_to_print": "20170509: 306 mil/mm3",
                                                     "id_valor": 17,
                                                     "valor": "306",
                                                     "unidade": "mil/mm3",
@@ -752,7 +752,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0018_Hemoglobina Glicada (Hba1c)",
-                                            "name_to_print": "20180104_Hemoglobina Glicada (Hba1c): 5.2%",
+                                            "name_to_print": "20180104: 5.2%",
                                             "id_valor": 18,
                                             "valor": "5.2",
                                             "unidade": "Hb",
@@ -761,7 +761,7 @@
                                         },
                                         {
                                             "name": "20170729_0018_Hemoglobina Glicada (Hba1c)",
-                                            "name_to_print": "20170729_Hemoglobina Glicada (Hba1c): 5.2%",
+                                            "name_to_print": "20170729: 5.2%",
                                             "id_valor": 18,
                                             "valor": "5.2",
                                             "unidade": "Hb",
@@ -770,7 +770,7 @@
                                         },
                                         {
                                             "name": "20170119_0018_Hemoglobina Glicada (Hba1c)",
-                                            "name_to_print": "20170119_Hemoglobina Glicada (Hba1c): 5%",
+                                            "name_to_print": "20170119: 5%",
                                             "id_valor": 18,
                                             "valor": "5",
                                             "unidade": "Hb",
@@ -779,7 +779,7 @@
                                         },
                                         {
                                             "name": "20170509_0018_Hemoglobina Glicada (Hba1c)",
-                                            "name_to_print": "20170509_Hemoglobina Glicada (Hba1c): 5.4%",
+                                            "name_to_print": "20170509: 5.4%",
                                             "id_valor": 18,
                                             "valor": "5.4",
                                             "unidade": "Hb",
@@ -794,7 +794,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0019_Glicemia Media Estimada",
-                                            "name_to_print": "20180104_Glicemia Media Estimada: 103 mg/dL",
+                                            "name_to_print": "20180104: 103 mg/dL",
                                             "id_valor": 19,
                                             "valor": "103",
                                             "unidade": "mg/dL",
@@ -803,7 +803,7 @@
                                         },
                                         {
                                             "name": "20170729_0019_Glicemia Media Estimada",
-                                            "name_to_print": "20170729_Glicemia Media Estimada: 103 mg/dL",
+                                            "name_to_print": "20170729: 103 mg/dL",
                                             "id_valor": 19,
                                             "valor": "103",
                                             "unidade": "mg/dL",
@@ -812,7 +812,7 @@
                                         },
                                         {
                                             "name": "20170119_0019_Glicemia Media Estimada",
-                                            "name_to_print": "20170119_Glicemia Media Estimada: 97 mg/dL",
+                                            "name_to_print": "20170119: 97 mg/dL",
                                             "id_valor": 19,
                                             "valor": "97",
                                             "unidade": "mg/dL",
@@ -821,7 +821,7 @@
                                         },
                                         {
                                             "name": "20170509_0019_Glicemia Media Estimada",
-                                            "name_to_print": "20170509_Glicemia Media Estimada: 108 mg/dL",
+                                            "name_to_print": "20170509: 108 mg/dL",
                                             "id_valor": 19,
                                             "valor": "108",
                                             "unidade": "mg/dL",
@@ -842,7 +842,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0020_Glicose",
-                                            "name_to_print": "20180104_Glicose: 84 mg/dL",
+                                            "name_to_print": "20180104: 84 mg/dL",
                                             "id_valor": 20,
                                             "valor": "84",
                                             "unidade": "mg/dL",
@@ -851,7 +851,7 @@
                                         },
                                         {
                                             "name": "20170729_0020_Glicose",
-                                            "name_to_print": "20170729_Glicose: 84 mg/dL",
+                                            "name_to_print": "20170729: 84 mg/dL",
                                             "id_valor": 20,
                                             "valor": "84",
                                             "unidade": "mg/dL",
@@ -860,7 +860,7 @@
                                         },
                                         {
                                             "name": "20170119_0020_Glicose",
-                                            "name_to_print": "20170119_Glicose: 81 mg/dL",
+                                            "name_to_print": "20170119: 81 mg/dL",
                                             "id_valor": 20,
                                             "valor": "81",
                                             "unidade": "mg/dL",
@@ -869,7 +869,7 @@
                                         },
                                         {
                                             "name": "20170509_0020_Glicose",
-                                            "name_to_print": "20170509_Glicose: 88 mg/dL",
+                                            "name_to_print": "20170509: 88 mg/dL",
                                             "id_valor": 20,
                                             "valor": "88",
                                             "unidade": "mg/dL",
@@ -894,7 +894,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0021_Ureia",
-                                                    "name_to_print": "20180104_Ureia: 27 mg/dL",
+                                                    "name_to_print": "20180104: 27 mg/dL",
                                                     "id_valor": 21,
                                                     "valor": "27",
                                                     "unidade": "mg/dL",
@@ -903,7 +903,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0021_Ureia",
-                                                    "name_to_print": "20170729_Ureia: 33 mg/dL",
+                                                    "name_to_print": "20170729: 33 mg/dL",
                                                     "id_valor": 21,
                                                     "valor": "33",
                                                     "unidade": "mg/dL",
@@ -912,7 +912,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0021_Ureia",
-                                                    "name_to_print": "20170119_Ureia: 33 mg/dL",
+                                                    "name_to_print": "20170119: 33 mg/dL",
                                                     "id_valor": 21,
                                                     "valor": "33",
                                                     "unidade": "mg/dL",
@@ -921,7 +921,7 @@
                                                 },
                                                 {
                                                     "name": "20170509_0021_Ureia",
-                                                    "name_to_print": "20170509_Ureia: 35 mg/dL",
+                                                    "name_to_print": "20170509: 35 mg/dL",
                                                     "id_valor": 21,
                                                     "valor": "35",
                                                     "unidade": "mg/dL",
@@ -936,7 +936,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0022_Creatinina",
-                                                    "name_to_print": "20180104_Creatinina: 1 mg/dL",
+                                                    "name_to_print": "20180104: 1 mg/dL",
                                                     "id_valor": 22,
                                                     "valor": "1",
                                                     "unidade": "mg/dL",
@@ -945,7 +945,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0022_Creatinina",
-                                                    "name_to_print": "20170729_Creatinina: 1.09 mg/dL",
+                                                    "name_to_print": "20170729: 1.09 mg/dL",
                                                     "id_valor": 22,
                                                     "valor": "1.09",
                                                     "unidade": "mg/dL",
@@ -954,7 +954,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0022_Creatinina",
-                                                    "name_to_print": "20170119_Creatinina: 1.09 mg/dL",
+                                                    "name_to_print": "20170119: 1.09 mg/dL",
                                                     "id_valor": 22,
                                                     "valor": "1.09",
                                                     "unidade": "mg/dL",
@@ -963,7 +963,7 @@
                                                 },
                                                 {
                                                     "name": "20170509_0022_Creatinina",
-                                                    "name_to_print": "20170509_Creatinina: 1.16 mg/dL",
+                                                    "name_to_print": "20170509: 1.16 mg/dL",
                                                     "id_valor": 22,
                                                     "valor": "1.16",
                                                     "unidade": "mg/dL",
@@ -978,7 +978,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0025_Indice de Saturacao da Transferrina",
-                                                    "name_to_print": "20180104_Indice de Saturacao da Transferrina: 34.9%",
+                                                    "name_to_print": "20180104: 34.9%",
                                                     "id_valor": 25,
                                                     "valor": "34.9",
                                                     "unidade": "[Φ]",
@@ -987,7 +987,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0025_Indice de Saturacao da Transferrina",
-                                                    "name_to_print": "20170729_Indice de Saturacao da Transferrina: 40.6%",
+                                                    "name_to_print": "20170729: 40.6%",
                                                     "id_valor": 25,
                                                     "valor": "40.6",
                                                     "unidade": "[Φ]",
@@ -996,7 +996,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0025_Indice de Saturacao da Transferrina",
-                                                    "name_to_print": "20170119_Indice de Saturacao da Transferrina: 35.3%",
+                                                    "name_to_print": "20170119: 35.3%",
                                                     "id_valor": 25,
                                                     "valor": "35.3",
                                                     "unidade": "[Φ]",
@@ -1011,7 +1011,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0026_Amilase",
-                                                    "name_to_print": "20180104_Amilase: 56 U/L",
+                                                    "name_to_print": "20180104: 56 U/L",
                                                     "id_valor": 26,
                                                     "valor": "56",
                                                     "unidade": "U/L",
@@ -1020,7 +1020,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0026_Amilase",
-                                                    "name_to_print": "20170729_Amilase: 56 U/L",
+                                                    "name_to_print": "20170729: 56 U/L",
                                                     "id_valor": 26,
                                                     "valor": "56",
                                                     "unidade": "U/L",
@@ -1029,7 +1029,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0026_Amilase",
-                                                    "name_to_print": "20170119_Amilase: 55 U/L",
+                                                    "name_to_print": "20170119: 55 U/L",
                                                     "id_valor": 26,
                                                     "valor": "55",
                                                     "unidade": "U/L",
@@ -1044,7 +1044,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0027_Lipase",
-                                                    "name_to_print": "20180104_Lipase: 35 U/L",
+                                                    "name_to_print": "20180104: 35 U/L",
                                                     "id_valor": 27,
                                                     "valor": "35",
                                                     "unidade": "U/L",
@@ -1053,7 +1053,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0027_Lipase",
-                                                    "name_to_print": "20170729_Lipase: 32 U/L",
+                                                    "name_to_print": "20170729: 32 U/L",
                                                     "id_valor": 27,
                                                     "valor": "32",
                                                     "unidade": "U/L",
@@ -1062,7 +1062,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0027_Lipase",
-                                                    "name_to_print": "20170119_Lipase: 34 U/L",
+                                                    "name_to_print": "20170119: 34 U/L",
                                                     "id_valor": 27,
                                                     "valor": "34",
                                                     "unidade": "U/L",
@@ -1077,7 +1077,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0049_Creatino Quinase Total",
-                                                    "name_to_print": "20180104_Creatino Quinase Total: 84 U/L",
+                                                    "name_to_print": "20180104: 84 U/L",
                                                     "id_valor": 49,
                                                     "valor": "84",
                                                     "unidade": "U/L",
@@ -1086,7 +1086,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0049_Creatino Quinase Total",
-                                                    "name_to_print": "20170729_Creatino Quinase Total: 85 U/L",
+                                                    "name_to_print": "20170729: 85 U/L",
                                                     "id_valor": 49,
                                                     "valor": "85",
                                                     "unidade": "U/L",
@@ -1095,7 +1095,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0049_Creatino Quinase Total",
-                                                    "name_to_print": "20170119_Creatino Quinase Total: 103 U/L",
+                                                    "name_to_print": "20170119: 103 U/L",
                                                     "id_valor": 49,
                                                     "valor": "103",
                                                     "unidade": "U/L",
@@ -1110,7 +1110,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0050_Albumina",
-                                                    "name_to_print": "20180104_Albumina: 4.6 g/dL",
+                                                    "name_to_print": "20180104: 4.6 g/dL",
                                                     "id_valor": 50,
                                                     "valor": "4.6",
                                                     "unidade": "g/dL",
@@ -1119,7 +1119,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0050_Albumina",
-                                                    "name_to_print": "20170729_Albumina: 4.5 g/dL",
+                                                    "name_to_print": "20170729: 4.5 g/dL",
                                                     "id_valor": 50,
                                                     "valor": "4.5",
                                                     "unidade": "g/dL",
@@ -1128,7 +1128,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0050_Albumina",
-                                                    "name_to_print": "20170119_Albumina: 4.7 g/dL",
+                                                    "name_to_print": "20170119: 4.7 g/dL",
                                                     "id_valor": 50,
                                                     "valor": "4.7",
                                                     "unidade": "g/dL",
@@ -1143,7 +1143,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0058_Proteina C Reativa Ultra-Sensivel",
-                                                    "name_to_print": "20180104_Proteina C Reativa Ultra-Sensivel: 0.08 mg/dL",
+                                                    "name_to_print": "20180104: 0.08 mg/dL",
                                                     "id_valor": 58,
                                                     "valor": "0.08",
                                                     "unidade": "mg/dL",
@@ -1158,7 +1158,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0061_Ferritina",
-                                                    "name_to_print": "20180104_Ferritina: 59.9 ng/mL",
+                                                    "name_to_print": "20180104: 59.9 ng/mL",
                                                     "id_valor": 61,
                                                     "valor": "59.9",
                                                     "unidade": "ng/mL",
@@ -1167,7 +1167,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0061_Ferritina",
-                                                    "name_to_print": "20170729_Ferritina: 77.8 ng/mL",
+                                                    "name_to_print": "20170729: 77.8 ng/mL",
                                                     "id_valor": 61,
                                                     "valor": "77.8",
                                                     "unidade": "ng/mL",
@@ -1176,7 +1176,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0061_Ferritina",
-                                                    "name_to_print": "20170119_Ferritina: 75.9 ng/mL",
+                                                    "name_to_print": "20170119: 75.9 ng/mL",
                                                     "id_valor": 61,
                                                     "valor": "75.9",
                                                     "unidade": "ng/mL",
@@ -1197,7 +1197,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0023_Ferro",
-                                                    "name_to_print": "20180104_Ferro: 110 mcg/dL",
+                                                    "name_to_print": "20180104: 110 mcg/dL",
                                                     "id_valor": 23,
                                                     "valor": "110",
                                                     "unidade": "mcg/dL",
@@ -1206,7 +1206,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0023_Ferro",
-                                                    "name_to_print": "20170729_Ferro: 125 mcg/dL",
+                                                    "name_to_print": "20170729: 125 mcg/dL",
                                                     "id_valor": 23,
                                                     "valor": "125",
                                                     "unidade": "mcg/dL",
@@ -1215,7 +1215,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0023_Ferro",
-                                                    "name_to_print": "20170119_Ferro: 104 mcg/dL",
+                                                    "name_to_print": "20170119: 104 mcg/dL",
                                                     "id_valor": 23,
                                                     "valor": "104",
                                                     "unidade": "mcg/dL",
@@ -1230,7 +1230,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0024_Capacidade Total de Combinacao do Ferro",
-                                                    "name_to_print": "20180104_Capacidade Total de Combinacao do Ferro: 315 mcg/dL",
+                                                    "name_to_print": "20180104: 315 mcg/dL",
                                                     "id_valor": 24,
                                                     "valor": "315",
                                                     "unidade": "mcg/dL",
@@ -1239,7 +1239,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0024_Capacidade Total de Combinacao do Ferro",
-                                                    "name_to_print": "20170729_Capacidade Total de Combinacao do Ferro: 308 mcg/dL",
+                                                    "name_to_print": "20170729: 308 mcg/dL",
                                                     "id_valor": 24,
                                                     "valor": "308",
                                                     "unidade": "mcg/dL",
@@ -1248,7 +1248,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0024_Capacidade Total de Combinacao do Ferro",
-                                                    "name_to_print": "20170119_Capacidade Total de Combinacao do Ferro: 295 mcg/dL",
+                                                    "name_to_print": "20170119: 295 mcg/dL",
                                                     "id_valor": 24,
                                                     "valor": "295",
                                                     "unidade": "mcg/dL",
@@ -1263,7 +1263,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0028_Calcio",
-                                                    "name_to_print": "20180104_Calcio: 8.7 mg/dL",
+                                                    "name_to_print": "20180104: 8.7 mg/dL",
                                                     "id_valor": 28,
                                                     "valor": "8.7",
                                                     "unidade": "mg/dL",
@@ -1272,7 +1272,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0028_Calcio",
-                                                    "name_to_print": "20170729_Calcio: 9.4 mg/dL",
+                                                    "name_to_print": "20170729: 9.4 mg/dL",
                                                     "id_valor": 28,
                                                     "valor": "9.4",
                                                     "unidade": "mg/dL",
@@ -1281,7 +1281,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0028_Calcio",
-                                                    "name_to_print": "20170119_Calcio: 9.4 mg/dL",
+                                                    "name_to_print": "20170119: 9.4 mg/dL",
                                                     "id_valor": 28,
                                                     "valor": "9.4",
                                                     "unidade": "mg/dL",
@@ -1296,7 +1296,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0029_Fosforo Inorganico",
-                                                    "name_to_print": "20180104_Fosforo Inorganico: 3.2 mg/dL",
+                                                    "name_to_print": "20180104: 3.2 mg/dL",
                                                     "id_valor": 29,
                                                     "valor": "3.2",
                                                     "unidade": "mg/dL",
@@ -1305,7 +1305,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0029_Fosforo Inorganico",
-                                                    "name_to_print": "20170729_Fosforo Inorganico: 3.2 mg/dL",
+                                                    "name_to_print": "20170729: 3.2 mg/dL",
                                                     "id_valor": 29,
                                                     "valor": "3.2",
                                                     "unidade": "mg/dL",
@@ -1314,7 +1314,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0029_Fosforo Inorganico",
-                                                    "name_to_print": "20170119_Fosforo Inorganico: 3.2 mg/dL",
+                                                    "name_to_print": "20170119: 3.2 mg/dL",
                                                     "id_valor": 29,
                                                     "valor": "3.2",
                                                     "unidade": "mg/dL",
@@ -1329,7 +1329,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0030_Sodio",
-                                                    "name_to_print": "20180104_Sodio: 142 mEq/L",
+                                                    "name_to_print": "20180104: 142 mEq/L",
                                                     "id_valor": 30,
                                                     "valor": "142",
                                                     "unidade": "mEq/L",
@@ -1338,7 +1338,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0030_Sodio",
-                                                    "name_to_print": "20170729_Sodio: 140 mEq/L",
+                                                    "name_to_print": "20170729: 140 mEq/L",
                                                     "id_valor": 30,
                                                     "valor": "140",
                                                     "unidade": "mEq/L",
@@ -1347,7 +1347,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0030_Sodio",
-                                                    "name_to_print": "20170119_Sodio: 143 mEq/L",
+                                                    "name_to_print": "20170119: 143 mEq/L",
                                                     "id_valor": 30,
                                                     "valor": "143",
                                                     "unidade": "mEq/L",
@@ -1356,7 +1356,7 @@
                                                 },
                                                 {
                                                     "name": "20170509_0030_Sodio",
-                                                    "name_to_print": "20170509_Sodio: 141 mEq/L",
+                                                    "name_to_print": "20170509: 141 mEq/L",
                                                     "id_valor": 30,
                                                     "valor": "141",
                                                     "unidade": "mEq/L",
@@ -1371,7 +1371,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0031_Potassio",
-                                                    "name_to_print": "20180104_Potassio: 4.4 mEq/L",
+                                                    "name_to_print": "20180104: 4.4 mEq/L",
                                                     "id_valor": 31,
                                                     "valor": "4.4",
                                                     "unidade": "mEq/L",
@@ -1380,7 +1380,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0031_Potassio",
-                                                    "name_to_print": "20170729_Potassio: 4.2 mEq/L",
+                                                    "name_to_print": "20170729: 4.2 mEq/L",
                                                     "id_valor": 31,
                                                     "valor": "4.2",
                                                     "unidade": "mEq/L",
@@ -1389,7 +1389,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0031_Potassio",
-                                                    "name_to_print": "20170119_Potassio: 4.9 mEq/L",
+                                                    "name_to_print": "20170119: 4.9 mEq/L",
                                                     "id_valor": 31,
                                                     "valor": "4.9",
                                                     "unidade": "mEq/L",
@@ -1398,7 +1398,7 @@
                                                 },
                                                 {
                                                     "name": "20170509_0031_Potassio",
-                                                    "name_to_print": "20170509_Potassio: 4.9 mEq/L",
+                                                    "name_to_print": "20170509: 4.9 mEq/L",
                                                     "id_valor": 31,
                                                     "valor": "4.9",
                                                     "unidade": "mEq/L",
@@ -1413,7 +1413,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0032_Magnesio",
-                                                    "name_to_print": "20180104_Magnesio: 2.1 mg/dL",
+                                                    "name_to_print": "20180104: 2.1 mg/dL",
                                                     "id_valor": 32,
                                                     "valor": "2.1",
                                                     "unidade": "mg/dL",
@@ -1422,7 +1422,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0032_Magnesio",
-                                                    "name_to_print": "20170729_Magnesio: 2.1 mg/dL",
+                                                    "name_to_print": "20170729: 2.1 mg/dL",
                                                     "id_valor": 32,
                                                     "valor": "2.1",
                                                     "unidade": "mg/dL",
@@ -1431,7 +1431,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0032_Magnesio",
-                                                    "name_to_print": "20170119_Magnesio: 2.1 mg/dL",
+                                                    "name_to_print": "20170119: 2.1 mg/dL",
                                                     "id_valor": 32,
                                                     "valor": "2.1",
                                                     "unidade": "mg/dL",
@@ -1446,7 +1446,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0060_Acido Folico",
-                                                    "name_to_print": "20180104_Acido Folico: 8.44 ng/mL",
+                                                    "name_to_print": "20180104: 8.44 ng/mL",
                                                     "id_valor": 60,
                                                     "valor": "8.44",
                                                     "unidade": "ng/mL",
@@ -1455,7 +1455,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0060_Acido Folico",
-                                                    "name_to_print": "20170729_Acido Folico: 8.94 ng/mL",
+                                                    "name_to_print": "20170729: 8.94 ng/mL",
                                                     "id_valor": 60,
                                                     "valor": "8.94",
                                                     "unidade": "ng/mL",
@@ -1464,7 +1464,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0060_Acido Folico",
-                                                    "name_to_print": "20170119_Acido Folico: 12.23 ng/mL",
+                                                    "name_to_print": "20170119: 12.23 ng/mL",
                                                     "id_valor": 60,
                                                     "valor": "12.23",
                                                     "unidade": "ng/mL",
@@ -1485,7 +1485,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0059_Dosagem de Vitamina B12 (Cobalamina)",
-                                                    "name_to_print": "20180104_Dosagem de Vitamina B12 (Cobalamina): 238 pg/mL",
+                                                    "name_to_print": "20180104: 238 pg/mL",
                                                     "id_valor": 59,
                                                     "valor": "238",
                                                     "unidade": "pg/mL",
@@ -1494,7 +1494,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0059_Dosagem de Vitamina B12 (Cobalamina)",
-                                                    "name_to_print": "20170729_Dosagem de Vitamina B12 (Cobalamina): 245 pg/mL",
+                                                    "name_to_print": "20170729: 245 pg/mL",
                                                     "id_valor": 59,
                                                     "valor": "245",
                                                     "unidade": "pg/mL",
@@ -1503,7 +1503,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0059_Dosagem de Vitamina B12 (Cobalamina)",
-                                                    "name_to_print": "20170119_Dosagem de Vitamina B12 (Cobalamina): 249 pg/mL",
+                                                    "name_to_print": "20170119: 249 pg/mL",
                                                     "id_valor": 59,
                                                     "valor": "249",
                                                     "unidade": "pg/mL",
@@ -1518,7 +1518,7 @@
                                             "children": [
                                                 {
                                                     "name": "20180104_0062_25-Hidroxi Vitamina D",
-                                                    "name_to_print": "20180104_25-Hidroxi Vitamina D: 25.1 ng/mL",
+                                                    "name_to_print": "20180104: 25.1 ng/mL",
                                                     "id_valor": 62,
                                                     "valor": "25.1",
                                                     "unidade": "ng/mL",
@@ -1527,7 +1527,7 @@
                                                 },
                                                 {
                                                     "name": "20170729_0062_25-Hidroxi Vitamina D",
-                                                    "name_to_print": "20170729_25-Hidroxi Vitamina D: 22.5 ng/mL",
+                                                    "name_to_print": "20170729: 22.5 ng/mL",
                                                     "id_valor": 62,
                                                     "valor": "22.5",
                                                     "unidade": "ng/mL",
@@ -1536,7 +1536,7 @@
                                                 },
                                                 {
                                                     "name": "20170119_0062_25-Hidroxi Vitamina D",
-                                                    "name_to_print": "20170119_25-Hidroxi Vitamina D: 25.2 ng/mL",
+                                                    "name_to_print": "20170119: 25.2 ng/mL",
                                                     "id_valor": 62,
                                                     "valor": "25.2",
                                                     "unidade": "ng/mL",
@@ -1559,7 +1559,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0033_Desidrogenase Latica Total",
-                                            "name_to_print": "20180104_Desidrogenase Latica Total: 359 U/L",
+                                            "name_to_print": "20180104: 359 U/L",
                                             "id_valor": 33,
                                             "valor": "359",
                                             "unidade": "U/L",
@@ -1568,7 +1568,7 @@
                                         },
                                         {
                                             "name": "20170729_0033_Desidrogenase Latica Total",
-                                            "name_to_print": "20170729_Desidrogenase Latica Total: 293 U/L",
+                                            "name_to_print": "20170729: 293 U/L",
                                             "id_valor": 33,
                                             "valor": "293",
                                             "unidade": "U/L",
@@ -1577,7 +1577,7 @@
                                         },
                                         {
                                             "name": "20170119_0033_Desidrogenase Latica Total",
-                                            "name_to_print": "20170119_Desidrogenase Latica Total: 320 U/L",
+                                            "name_to_print": "20170119: 320 U/L",
                                             "id_valor": 33,
                                             "valor": "320",
                                             "unidade": "U/L",
@@ -1598,7 +1598,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0034_Proteinas Totais",
-                                            "name_to_print": "20180104_Proteinas Totais: 6.9 g/dL",
+                                            "name_to_print": "20180104: 6.9 g/dL",
                                             "id_valor": 34,
                                             "valor": "6.9",
                                             "unidade": "g/dL",
@@ -1607,7 +1607,7 @@
                                         },
                                         {
                                             "name": "20170729_0034_Proteinas Totais",
-                                            "name_to_print": "20170729_Proteinas Totais: 6.7 g/dL",
+                                            "name_to_print": "20170729: 6.7 g/dL",
                                             "id_valor": 34,
                                             "valor": "6.7",
                                             "unidade": "g/dL",
@@ -1616,7 +1616,7 @@
                                         },
                                         {
                                             "name": "20170119_0034_Proteinas Totais",
-                                            "name_to_print": "20170119_Proteinas Totais: 6.8 g/dL",
+                                            "name_to_print": "20170119: 6.8 g/dL",
                                             "id_valor": 34,
                                             "valor": "6.8",
                                             "unidade": "g/dL",
@@ -1625,7 +1625,7 @@
                                         },
                                         {
                                             "name": "20170509_0034_Proteinas Totais",
-                                            "name_to_print": "20170509_Proteinas Totais: 7.4 g/dL",
+                                            "name_to_print": "20170509: 7.4 g/dL",
                                             "id_valor": 34,
                                             "valor": "7.4",
                                             "unidade": "g/dL",
@@ -1640,7 +1640,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0035_Transaminase Piruvica (Alt)",
-                                            "name_to_print": "20180104_Transaminase Piruvica (Alt): 21 U/L",
+                                            "name_to_print": "20180104: 21 U/L",
                                             "id_valor": 35,
                                             "valor": "21",
                                             "unidade": "U/L",
@@ -1649,7 +1649,7 @@
                                         },
                                         {
                                             "name": "20170729_0035_Transaminase Piruvica (Alt)",
-                                            "name_to_print": "20170729_Transaminase Piruvica (Alt): 17 U/L",
+                                            "name_to_print": "20170729: 17 U/L",
                                             "id_valor": 35,
                                             "valor": "17",
                                             "unidade": "U/L",
@@ -1658,7 +1658,7 @@
                                         },
                                         {
                                             "name": "20170119_0035_Transaminase Piruvica (Alt)",
-                                            "name_to_print": "20170119_Transaminase Piruvica (Alt): 17 U/L",
+                                            "name_to_print": "20170119: 17 U/L",
                                             "id_valor": 35,
                                             "valor": "17",
                                             "unidade": "U/L",
@@ -1667,7 +1667,7 @@
                                         },
                                         {
                                             "name": "20170509_0035_Transaminase Piruvica (Alt)",
-                                            "name_to_print": "20170509_Transaminase Piruvica (Alt): 23 U/L",
+                                            "name_to_print": "20170509: 23 U/L",
                                             "id_valor": 35,
                                             "valor": "23",
                                             "unidade": "U/L",
@@ -1682,7 +1682,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0036_Transaminase Oxalacetica (Ast)",
-                                            "name_to_print": "20180104_Transaminase Oxalacetica (Ast): 18 U/L",
+                                            "name_to_print": "20180104: 18 U/L",
                                             "id_valor": 36,
                                             "valor": "18",
                                             "unidade": "U/L",
@@ -1691,7 +1691,7 @@
                                         },
                                         {
                                             "name": "20170729_0036_Transaminase Oxalacetica (Ast)",
-                                            "name_to_print": "20170729_Transaminase Oxalacetica (Ast): 14 U/L",
+                                            "name_to_print": "20170729: 14 U/L",
                                             "id_valor": 36,
                                             "valor": "14",
                                             "unidade": "U/L",
@@ -1700,7 +1700,7 @@
                                         },
                                         {
                                             "name": "20170119_0036_Transaminase Oxalacetica (Ast)",
-                                            "name_to_print": "20170119_Transaminase Oxalacetica (Ast): 19 U/L",
+                                            "name_to_print": "20170119: 19 U/L",
                                             "id_valor": 36,
                                             "valor": "19",
                                             "unidade": "U/L",
@@ -1709,7 +1709,7 @@
                                         },
                                         {
                                             "name": "20170509_0036_Transaminase Oxalacetica (Ast)",
-                                            "name_to_print": "20170509_Transaminase Oxalacetica (Ast): 22 U/L",
+                                            "name_to_print": "20170509: 22 U/L",
                                             "id_valor": 36,
                                             "valor": "22",
                                             "unidade": "U/L",
@@ -1724,7 +1724,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0037_Fosfatase Alcalina",
-                                            "name_to_print": "20180104_Fosfatase Alcalina: 59 U/L",
+                                            "name_to_print": "20180104: 59 U/L",
                                             "id_valor": 37,
                                             "valor": "59",
                                             "unidade": "U/L",
@@ -1733,7 +1733,7 @@
                                         },
                                         {
                                             "name": "20170729_0037_Fosfatase Alcalina",
-                                            "name_to_print": "20170729_Fosfatase Alcalina: 57 U/L",
+                                            "name_to_print": "20170729: 57 U/L",
                                             "id_valor": 37,
                                             "valor": "57",
                                             "unidade": "U/L",
@@ -1742,7 +1742,7 @@
                                         },
                                         {
                                             "name": "20170119_0037_Fosfatase Alcalina",
-                                            "name_to_print": "20170119_Fosfatase Alcalina: 57 U/L",
+                                            "name_to_print": "20170119: 57 U/L",
                                             "id_valor": 37,
                                             "valor": "57",
                                             "unidade": "U/L",
@@ -1751,7 +1751,7 @@
                                         },
                                         {
                                             "name": "20170509_0037_Fosfatase Alcalina",
-                                            "name_to_print": "20170509_Fosfatase Alcalina: 66 U/L",
+                                            "name_to_print": "20170509: 66 U/L",
                                             "id_valor": 37,
                                             "valor": "66",
                                             "unidade": "U/L",
@@ -1766,7 +1766,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0038_Gama Glutamil Transpeptidase",
-                                            "name_to_print": "20180104_Gama Glutamil Transpeptidase: 31 U/L",
+                                            "name_to_print": "20180104: 31 U/L",
                                             "id_valor": 38,
                                             "valor": "31",
                                             "unidade": "U/L",
@@ -1775,7 +1775,7 @@
                                         },
                                         {
                                             "name": "20170729_0038_Gama Glutamil Transpeptidase",
-                                            "name_to_print": "20170729_Gama Glutamil Transpeptidase: 27 U/L",
+                                            "name_to_print": "20170729: 27 U/L",
                                             "id_valor": 38,
                                             "valor": "27",
                                             "unidade": "U/L",
@@ -1784,7 +1784,7 @@
                                         },
                                         {
                                             "name": "20170119_0038_Gama Glutamil Transpeptidase",
-                                            "name_to_print": "20170119_Gama Glutamil Transpeptidase: 23 U/L",
+                                            "name_to_print": "20170119: 23 U/L",
                                             "id_valor": 38,
                                             "valor": "23",
                                             "unidade": "U/L",
@@ -1793,7 +1793,7 @@
                                         },
                                         {
                                             "name": "20170509_0038_Gama Glutamil Transpeptidase",
-                                            "name_to_print": "20170509_Gama Glutamil Transpeptidase: 31 U/L",
+                                            "name_to_print": "20170509: 31 U/L",
                                             "id_valor": 38,
                                             "valor": "31",
                                             "unidade": "U/L",
@@ -1808,7 +1808,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0039_Bilirrubina Direta",
-                                            "name_to_print": "20180104_Bilirrubina Direta: 0.3 mg/dL",
+                                            "name_to_print": "20180104: 0.3 mg/dL",
                                             "id_valor": 39,
                                             "valor": "0.3",
                                             "unidade": "mg/dL",
@@ -1817,7 +1817,7 @@
                                         },
                                         {
                                             "name": "20170729_0039_Bilirrubina Direta",
-                                            "name_to_print": "20170729_Bilirrubina Direta: 0.4 mg/dL",
+                                            "name_to_print": "20170729: 0.4 mg/dL",
                                             "id_valor": 39,
                                             "valor": "0.4",
                                             "unidade": "mg/dL",
@@ -1826,7 +1826,7 @@
                                         },
                                         {
                                             "name": "20170119_0039_Bilirrubina Direta",
-                                            "name_to_print": "20170119_Bilirrubina Direta: 0.4 mg/dL",
+                                            "name_to_print": "20170119: 0.4 mg/dL",
                                             "id_valor": 39,
                                             "valor": "0.4",
                                             "unidade": "mg/dL",
@@ -1835,7 +1835,7 @@
                                         },
                                         {
                                             "name": "20170509_0039_Bilirrubina Direta",
-                                            "name_to_print": "20170509_Bilirrubina Direta: 0.3 mg/dL",
+                                            "name_to_print": "20170509: 0.3 mg/dL",
                                             "id_valor": 39,
                                             "valor": "0.3",
                                             "unidade": "mg/dL",
@@ -1850,7 +1850,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0040_Bilirrubina Indireta",
-                                            "name_to_print": "20180104_Bilirrubina Indireta: 0.8 mg/dL",
+                                            "name_to_print": "20180104: 0.8 mg/dL",
                                             "id_valor": 40,
                                             "valor": "0.8",
                                             "unidade": "mg/dL",
@@ -1859,7 +1859,7 @@
                                         },
                                         {
                                             "name": "20170729_0040_Bilirrubina Indireta",
-                                            "name_to_print": "20170729_Bilirrubina Indireta: 0.8 mg/dL",
+                                            "name_to_print": "20170729: 0.8 mg/dL",
                                             "id_valor": 40,
                                             "valor": "0.8",
                                             "unidade": "mg/dL",
@@ -1868,7 +1868,7 @@
                                         },
                                         {
                                             "name": "20170119_0040_Bilirrubina Indireta",
-                                            "name_to_print": "20170119_Bilirrubina Indireta: 0.7 mg/dL",
+                                            "name_to_print": "20170119: 0.7 mg/dL",
                                             "id_valor": 40,
                                             "valor": "0.7",
                                             "unidade": "mg/dL",
@@ -1877,7 +1877,7 @@
                                         },
                                         {
                                             "name": "20170509_0040_Bilirrubina Indireta",
-                                            "name_to_print": "20170509_Bilirrubina Indireta: 0.7 mg/dL",
+                                            "name_to_print": "20170509: 0.7 mg/dL",
                                             "id_valor": 40,
                                             "valor": "0.7",
                                             "unidade": "mg/dL",
@@ -1892,7 +1892,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0041_Bilirrubina Total",
-                                            "name_to_print": "20180104_Bilirrubina Total: 1.1 mg/dL",
+                                            "name_to_print": "20180104: 1.1 mg/dL",
                                             "id_valor": 41,
                                             "valor": "1.1",
                                             "unidade": "mg/dL",
@@ -1901,7 +1901,7 @@
                                         },
                                         {
                                             "name": "20170729_0041_Bilirrubina Total",
-                                            "name_to_print": "20170729_Bilirrubina Total: 1.2 mg/dL",
+                                            "name_to_print": "20170729: 1.2 mg/dL",
                                             "id_valor": 41,
                                             "valor": "1.2",
                                             "unidade": "mg/dL",
@@ -1910,7 +1910,7 @@
                                         },
                                         {
                                             "name": "20170119_0041_Bilirrubina Total",
-                                            "name_to_print": "20170119_Bilirrubina Total: 1.1 mg/dL",
+                                            "name_to_print": "20170119: 1.1 mg/dL",
                                             "id_valor": 41,
                                             "valor": "1.1",
                                             "unidade": "mg/dL",
@@ -1919,7 +1919,7 @@
                                         },
                                         {
                                             "name": "20170509_0041_Bilirrubina Total",
-                                            "name_to_print": "20170509_Bilirrubina Total: 1 mg/dL",
+                                            "name_to_print": "20170509: 1 mg/dL",
                                             "id_valor": 41,
                                             "valor": "1",
                                             "unidade": "mg/dL",
@@ -1940,7 +1940,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0042_Colesterol",
-                                            "name_to_print": "20180104_Colesterol: 177 mg/dL",
+                                            "name_to_print": "20180104: 177 mg/dL",
                                             "id_valor": 42,
                                             "valor": "177",
                                             "unidade": "mg/dL",
@@ -1949,7 +1949,7 @@
                                         },
                                         {
                                             "name": "20170729_0042_Colesterol",
-                                            "name_to_print": "20170729_Colesterol: 162 mg/dL",
+                                            "name_to_print": "20170729: 162 mg/dL",
                                             "id_valor": 42,
                                             "valor": "162",
                                             "unidade": "mg/dL",
@@ -1958,7 +1958,7 @@
                                         },
                                         {
                                             "name": "20170119_0042_Colesterol",
-                                            "name_to_print": "20170119_Colesterol: 156 mg/dL",
+                                            "name_to_print": "20170119: 156 mg/dL",
                                             "id_valor": 42,
                                             "valor": "156",
                                             "unidade": "mg/dL",
@@ -1967,7 +1967,7 @@
                                         },
                                         {
                                             "name": "20170509_0042_Colesterol",
-                                            "name_to_print": "20170509_Colesterol: 190 mg/dL",
+                                            "name_to_print": "20170509: 190 mg/dL",
                                             "id_valor": 42,
                                             "valor": "190",
                                             "unidade": "mg/dL",
@@ -1982,7 +1982,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0043_Colesterol - Hdl",
-                                            "name_to_print": "20180104_Colesterol - Hdl: 52 mg/dL",
+                                            "name_to_print": "20180104: 52 mg/dL",
                                             "id_valor": 43,
                                             "valor": "52",
                                             "unidade": "mg/dL",
@@ -1991,7 +1991,7 @@
                                         },
                                         {
                                             "name": "20170729_0043_Colesterol - Hdl",
-                                            "name_to_print": "20170729_Colesterol - Hdl: 51 mg/dL",
+                                            "name_to_print": "20170729: 51 mg/dL",
                                             "id_valor": 43,
                                             "valor": "51",
                                             "unidade": "mg/dL",
@@ -2000,7 +2000,7 @@
                                         },
                                         {
                                             "name": "20170119_0043_Colesterol - Hdl",
-                                            "name_to_print": "20170119_Colesterol - Hdl: 43 mg/dL",
+                                            "name_to_print": "20170119: 43 mg/dL",
                                             "id_valor": 43,
                                             "valor": "43",
                                             "unidade": "mg/dL",
@@ -2009,7 +2009,7 @@
                                         },
                                         {
                                             "name": "20170509_0043_Colesterol - Hdl",
-                                            "name_to_print": "20170509_Colesterol - Hdl: 62 mg/dL",
+                                            "name_to_print": "20170509: 62 mg/dL",
                                             "id_valor": 43,
                                             "valor": "62",
                                             "unidade": "mg/dL",
@@ -2024,7 +2024,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0044_Triglicerideos",
-                                            "name_to_print": "20180104_Triglicerideos: 123 mg/dL",
+                                            "name_to_print": "20180104: 123 mg/dL",
                                             "id_valor": 44,
                                             "valor": "123",
                                             "unidade": "mg/dL",
@@ -2033,7 +2033,7 @@
                                         },
                                         {
                                             "name": "20170729_0044_Triglicerideos",
-                                            "name_to_print": "20170729_Triglicerideos: 88 mg/dL",
+                                            "name_to_print": "20170729: 88 mg/dL",
                                             "id_valor": 44,
                                             "valor": "88",
                                             "unidade": "mg/dL",
@@ -2042,7 +2042,7 @@
                                         },
                                         {
                                             "name": "20170119_0044_Triglicerideos",
-                                            "name_to_print": "20170119_Triglicerideos: 109 mg/dL",
+                                            "name_to_print": "20170119: 109 mg/dL",
                                             "id_valor": 44,
                                             "valor": "109",
                                             "unidade": "mg/dL",
@@ -2051,7 +2051,7 @@
                                         },
                                         {
                                             "name": "20170509_0044_Triglicerideos",
-                                            "name_to_print": "20170509_Triglicerideos: 99 mg/dL",
+                                            "name_to_print": "20170509: 99 mg/dL",
                                             "id_valor": 44,
                                             "valor": "99",
                                             "unidade": "mg/dL",
@@ -2066,7 +2066,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0045_Colesterol - Ldl",
-                                            "name_to_print": "20180104_Colesterol - Ldl: 100 mg/dL",
+                                            "name_to_print": "20180104: 100 mg/dL",
                                             "id_valor": 45,
                                             "valor": "100",
                                             "unidade": "mg/dL",
@@ -2075,7 +2075,7 @@
                                         },
                                         {
                                             "name": "20170729_0045_Colesterol - Ldl",
-                                            "name_to_print": "20170729_Colesterol - Ldl: 93 mg/dL",
+                                            "name_to_print": "20170729: 93 mg/dL",
                                             "id_valor": 45,
                                             "valor": "93",
                                             "unidade": "mg/dL",
@@ -2084,7 +2084,7 @@
                                         },
                                         {
                                             "name": "20170119_0045_Colesterol - Ldl",
-                                            "name_to_print": "20170119_Colesterol - Ldl: 91 mg/dL",
+                                            "name_to_print": "20170119: 91 mg/dL",
                                             "id_valor": 45,
                                             "valor": "91",
                                             "unidade": "mg/dL",
@@ -2093,7 +2093,7 @@
                                         },
                                         {
                                             "name": "20170509_0045_Colesterol - Ldl",
-                                            "name_to_print": "20170509_Colesterol - Ldl: 108 mg/dL",
+                                            "name_to_print": "20170509: 108 mg/dL",
                                             "id_valor": 45,
                                             "valor": "108",
                                             "unidade": "mg/dL",
@@ -2108,7 +2108,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0046_Colesterol - Vldl",
-                                            "name_to_print": "20180104_Colesterol - Vldl: 25 mg/dL",
+                                            "name_to_print": "20180104: 25 mg/dL",
                                             "id_valor": 46,
                                             "valor": "25",
                                             "unidade": "mg/dL",
@@ -2117,7 +2117,7 @@
                                         },
                                         {
                                             "name": "20170729_0046_Colesterol - Vldl",
-                                            "name_to_print": "20170729_Colesterol - Vldl: 18 mg/dL",
+                                            "name_to_print": "20170729: 18 mg/dL",
                                             "id_valor": 46,
                                             "valor": "18",
                                             "unidade": "mg/dL",
@@ -2126,7 +2126,7 @@
                                         },
                                         {
                                             "name": "20170119_0046_Colesterol - Vldl",
-                                            "name_to_print": "20170119_Colesterol - Vldl: 22 mg/dL",
+                                            "name_to_print": "20170119: 22 mg/dL",
                                             "id_valor": 46,
                                             "valor": "22",
                                             "unidade": "mg/dL",
@@ -2135,7 +2135,7 @@
                                         },
                                         {
                                             "name": "20170509_0046_Colesterol - Vldl",
-                                            "name_to_print": "20170509_Colesterol - Vldl: 20 mg/dL",
+                                            "name_to_print": "20170509: 20 mg/dL",
                                             "id_valor": 46,
                                             "valor": "20",
                                             "unidade": "mg/dL",
@@ -2150,7 +2150,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0047_Colesterol - Nao Hdl",
-                                            "name_to_print": "20180104_Colesterol - Nao Hdl: 125 mg/dL",
+                                            "name_to_print": "20180104: 125 mg/dL",
                                             "id_valor": 47,
                                             "valor": "125",
                                             "unidade": "mg/dL",
@@ -2159,7 +2159,7 @@
                                         },
                                         {
                                             "name": "20170729_0047_Colesterol - Nao Hdl",
-                                            "name_to_print": "20170729_Colesterol - Nao Hdl: 111 mg/dL",
+                                            "name_to_print": "20170729: 111 mg/dL",
                                             "id_valor": 47,
                                             "valor": "111",
                                             "unidade": "mg/dL",
@@ -2168,7 +2168,7 @@
                                         },
                                         {
                                             "name": "20170119_0047_Colesterol - Nao Hdl",
-                                            "name_to_print": "20170119_Colesterol - Nao Hdl: 113 mg/dL",
+                                            "name_to_print": "20170119: 113 mg/dL",
                                             "id_valor": 47,
                                             "valor": "113",
                                             "unidade": "mg/dL",
@@ -2177,7 +2177,7 @@
                                         },
                                         {
                                             "name": "20170509_0047_Colesterol - Nao Hdl",
-                                            "name_to_print": "20170509_Colesterol - Nao Hdl: 128 mg/dL",
+                                            "name_to_print": "20170509: 128 mg/dL",
                                             "id_valor": 47,
                                             "valor": "128",
                                             "unidade": "mg/dL",
@@ -2192,7 +2192,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0048_Aspecto do Soro",
-                                            "name_to_print": "20180104_Aspecto do Soro: Limpido",
+                                            "name_to_print": "20180104: Limpido",
                                             "id_valor": 48,
                                             "valor": "Limpido",
                                             "unidade": "[Φ]",
@@ -2201,7 +2201,7 @@
                                         },
                                         {
                                             "name": "20170729_0048_Aspecto do Soro",
-                                            "name_to_print": "20170729_Aspecto do Soro: Limpido",
+                                            "name_to_print": "20170729: Limpido",
                                             "id_valor": 48,
                                             "valor": "Limpido",
                                             "unidade": "[Φ]",
@@ -2210,7 +2210,7 @@
                                         },
                                         {
                                             "name": "20170119_0048_Aspecto do Soro",
-                                            "name_to_print": "20170119_Aspecto do Soro: Limpido",
+                                            "name_to_print": "20170119: Limpido",
                                             "id_valor": 48,
                                             "valor": "Limpido",
                                             "unidade": "[Φ]",
@@ -2219,7 +2219,7 @@
                                         },
                                         {
                                             "name": "20170509_0048_Aspecto do Soro",
-                                            "name_to_print": "20170509_Aspecto do Soro: Limpido",
+                                            "name_to_print": "20170509: Limpido",
                                             "id_valor": 48,
                                             "valor": "Limpido",
                                             "unidade": "[Φ]",
@@ -2240,7 +2240,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0051_Tiroxina Livre",
-                                            "name_to_print": "20180104_Tiroxina Livre: 1.7 ng/dL",
+                                            "name_to_print": "20180104: 1.7 ng/dL",
                                             "id_valor": 51,
                                             "valor": "1.7",
                                             "unidade": "ng/dL",
@@ -2249,7 +2249,7 @@
                                         },
                                         {
                                             "name": "20170729_0051_Tiroxina Livre",
-                                            "name_to_print": "20170729_Tiroxina Livre: 1.7 ng/dL",
+                                            "name_to_print": "20170729: 1.7 ng/dL",
                                             "id_valor": 51,
                                             "valor": "1.7",
                                             "unidade": "ng/dL",
@@ -2258,7 +2258,7 @@
                                         },
                                         {
                                             "name": "20170224_0051_Tiroxina Livre",
-                                            "name_to_print": "20170224_Tiroxina Livre: 2.2 ng/dL",
+                                            "name_to_print": "20170224: 2.2 ng/dL",
                                             "id_valor": 51,
                                             "valor": "2.2",
                                             "unidade": "ng/dL",
@@ -2267,7 +2267,7 @@
                                         },
                                         {
                                             "name": "20170119_0051_Tiroxina Livre",
-                                            "name_to_print": "20170119_Tiroxina Livre: 1.7 ng/dL",
+                                            "name_to_print": "20170119: 1.7 ng/dL",
                                             "id_valor": 51,
                                             "valor": "1.7",
                                             "unidade": "ng/dL",
@@ -2276,7 +2276,7 @@
                                         },
                                         {
                                             "name": "20170509_0051_Tiroxina Livre",
-                                            "name_to_print": "20170509_Tiroxina Livre: 1.5 ng/dL",
+                                            "name_to_print": "20170509: 1.5 ng/dL",
                                             "id_valor": 51,
                                             "valor": "1.5",
                                             "unidade": "ng/dL",
@@ -2297,7 +2297,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0052_Hormonio Estimulante da Tireoide",
-                                            "name_to_print": "20180104_Hormonio Estimulante da Tireoide: 0.32 mcUI/mL",
+                                            "name_to_print": "20180104: 0.32 mcUI/mL",
                                             "id_valor": 52,
                                             "valor": "0.32",
                                             "unidade": "mcUI/mL",
@@ -2306,7 +2306,7 @@
                                         },
                                         {
                                             "name": "20170729_0052_Hormonio Estimulante da Tireoide",
-                                            "name_to_print": "20170729_Hormonio Estimulante da Tireoide: 0.14 mcUI/mL",
+                                            "name_to_print": "20170729: 0.14 mcUI/mL",
                                             "id_valor": 52,
                                             "valor": "0.14",
                                             "unidade": "mcUI/mL",
@@ -2315,7 +2315,7 @@
                                         },
                                         {
                                             "name": "20170224_0052_Hormonio Estimulante da Tireoide",
-                                            "name_to_print": "20170224_Hormonio Estimulante da Tireoide: 27.94 mcUI/mL",
+                                            "name_to_print": "20170224: 27.94 mcUI/mL",
                                             "id_valor": 52,
                                             "valor": "27.94",
                                             "unidade": "mcUI/mL",
@@ -2324,7 +2324,7 @@
                                         },
                                         {
                                             "name": "20170119_0052_Hormonio Estimulante da Tireoide",
-                                            "name_to_print": "20170119_Hormonio Estimulante da Tireoide: 0.07 mcUI/mL",
+                                            "name_to_print": "20170119: 0.07 mcUI/mL",
                                             "id_valor": 52,
                                             "valor": "0.07",
                                             "unidade": "mcUI/mL",
@@ -2333,7 +2333,7 @@
                                         },
                                         {
                                             "name": "20170509_0052_Hormonio Estimulante da Tireoide",
-                                            "name_to_print": "20170509_Hormonio Estimulante da Tireoide: 0.19 mcUI/mL",
+                                            "name_to_print": "20170509: 0.19 mcUI/mL",
                                             "id_valor": 52,
                                             "valor": "0.19",
                                             "unidade": "mcUI/mL",
@@ -2354,7 +2354,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0053_Homa-Beta (Homeostatic Model Assessment)",
-                                            "name_to_print": "20180104_Homa-Beta (Homeostatic Model Assessment): 191",
+                                            "name_to_print": "20180104: 191",
                                             "id_valor": 53,
                                             "valor": "191",
                                             "unidade": "[Φ]",
@@ -2375,7 +2375,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0054_Homa-Ir (Homeostatic Model Assessment)",
-                                            "name_to_print": "20180104_Homa-Ir (Homeostatic Model Assessment): 2.3",
+                                            "name_to_print": "20180104: 2.3",
                                             "id_valor": 54,
                                             "valor": "2.3",
                                             "unidade": "[Φ]",
@@ -2396,7 +2396,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0055_Insulina",
-                                            "name_to_print": "20180104_Insulina: 11.1 mcU/mL",
+                                            "name_to_print": "20180104: 11.1 mcU/mL",
                                             "id_valor": 55,
                                             "valor": "11.1",
                                             "unidade": "mcU/mL",
@@ -2417,7 +2417,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0056_Pesq. de Anticorpos Anti-Tireoglobulina",
-                                            "name_to_print": "20180104_Pesq. de Anticorpos Anti-Tireoglobulina: 10 U/mL",
+                                            "name_to_print": "20180104: 10 U/mL",
                                             "id_valor": 56,
                                             "valor": "10",
                                             "unidade": "U/mL",
@@ -2426,7 +2426,7 @@
                                         },
                                         {
                                             "name": "20170729_0056_Pesq. de Anticorpos Anti-Tireoglobulina",
-                                            "name_to_print": "20170729_Pesq. de Anticorpos Anti-Tireoglobulina: 10.9 U/mL",
+                                            "name_to_print": "20170729: 10.9 U/mL",
                                             "id_valor": 56,
                                             "valor": "10.9",
                                             "unidade": "U/mL",
@@ -2435,7 +2435,7 @@
                                         },
                                         {
                                             "name": "20170224_0056_Pesq. de Anticorpos Anti-Tireoglobulina",
-                                            "name_to_print": "20170224_Pesq. de Anticorpos Anti-Tireoglobulina: 10 U/mL",
+                                            "name_to_print": "20170224: 10 U/mL",
                                             "id_valor": 56,
                                             "valor": "10",
                                             "unidade": "U/mL",
@@ -2444,7 +2444,7 @@
                                         },
                                         {
                                             "name": "20170119_0056_Pesq. de Anticorpos Anti-Tireoglobulina",
-                                            "name_to_print": "20170119_Pesq. de Anticorpos Anti-Tireoglobulina: 10 U/mL",
+                                            "name_to_print": "20170119: 10 U/mL",
                                             "id_valor": 56,
                                             "valor": "10",
                                             "unidade": "U/mL",
@@ -2465,7 +2465,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0057_Anticorpo Antiperoxidase Tiroideana",
-                                            "name_to_print": "20180104_Anticorpo Antiperoxidase Tiroideana: 7.8 U/mL",
+                                            "name_to_print": "20180104: 7.8 U/mL",
                                             "id_valor": 57,
                                             "valor": "7.8",
                                             "unidade": "U/mL",
@@ -2474,7 +2474,7 @@
                                         },
                                         {
                                             "name": "20170729_0057_Anticorpo Antiperoxidase Tiroideana",
-                                            "name_to_print": "20170729_Anticorpo Antiperoxidase Tiroideana: 11.9 U/mL",
+                                            "name_to_print": "20170729: 11.9 U/mL",
                                             "id_valor": 57,
                                             "valor": "11.9",
                                             "unidade": "U/mL",
@@ -2483,7 +2483,7 @@
                                         },
                                         {
                                             "name": "20170119_0057_Anticorpo Antiperoxidase Tiroideana",
-                                            "name_to_print": "20170119_Anticorpo Antiperoxidase Tiroideana: 6.1 U/mL",
+                                            "name_to_print": "20170119: 6.1 U/mL",
                                             "id_valor": 57,
                                             "valor": "6.1",
                                             "unidade": "U/mL",
@@ -2504,7 +2504,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0063_Paratormonio (Molecula Inteira)",
-                                            "name_to_print": "20180104_Paratormonio (Molecula Inteira): 41.5 pg/mL",
+                                            "name_to_print": "20180104: 41.5 pg/mL",
                                             "id_valor": 63,
                                             "valor": "41.5",
                                             "unidade": "pg/mL",
@@ -2513,7 +2513,7 @@
                                         },
                                         {
                                             "name": "20170729_0063_Paratormonio (Molecula Inteira)",
-                                            "name_to_print": "20170729_Paratormonio (Molecula Inteira): 43.7 pg/mL",
+                                            "name_to_print": "20170729: 43.7 pg/mL",
                                             "id_valor": 63,
                                             "valor": "43.7",
                                             "unidade": "pg/mL",
@@ -2522,7 +2522,7 @@
                                         },
                                         {
                                             "name": "20170119_0063_Paratormonio (Molecula Inteira)",
-                                            "name_to_print": "20170119_Paratormonio (Molecula Inteira): 38.7 pg/mL",
+                                            "name_to_print": "20170119: 38.7 pg/mL",
                                             "id_valor": 63,
                                             "valor": "38.7",
                                             "unidade": "pg/mL",
@@ -2543,7 +2543,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0064_Antigeno Prostatico Especifico Total",
-                                            "name_to_print": "20180104_Antigeno Prostatico Especifico Total: 2.65 ng/mL",
+                                            "name_to_print": "20180104: 2.65 ng/mL",
                                             "id_valor": 64,
                                             "valor": "2.65",
                                             "unidade": "ng/mL",
@@ -2552,7 +2552,7 @@
                                         },
                                         {
                                             "name": "20170509_0064_Antigeno Prostatico Especifico Total",
-                                            "name_to_print": "20170509_Antigeno Prostatico Especifico Total: 2.22 ng/mL",
+                                            "name_to_print": "20170509: 2.22 ng/mL",
                                             "id_valor": 64,
                                             "valor": "2.22",
                                             "unidade": "ng/mL",
@@ -2567,7 +2567,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0065_Ag. Prostatico Especifico, Fracao Livre",
-                                            "name_to_print": "20180104_Ag. Prostatico Especifico, Fracao Livre: 0.62 ng/mL",
+                                            "name_to_print": "20180104: 0.62 ng/mL",
                                             "id_valor": 65,
                                             "valor": "0.62",
                                             "unidade": "ng/mL",
@@ -2576,7 +2576,7 @@
                                         },
                                         {
                                             "name": "20170509_0065_Ag. Prostatico Especifico, Fracao Livre",
-                                            "name_to_print": "20170509_Ag. Prostatico Especifico, Fracao Livre: 0.54 ng/mL",
+                                            "name_to_print": "20170509: 0.54 ng/mL",
                                             "id_valor": 65,
                                             "valor": "0.54",
                                             "unidade": "ng/mL",
@@ -2591,7 +2591,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0066_Relacao Psa Livre/Psa Total",
-                                            "name_to_print": "20180104_Relacao Psa Livre/Psa Total: 0.23",
+                                            "name_to_print": "20180104: 0.23",
                                             "id_valor": 66,
                                             "valor": "0.23",
                                             "unidade": "[Φ]",
@@ -2600,7 +2600,7 @@
                                         },
                                         {
                                             "name": "20170509_0066_Relacao Psa Livre/Psa Total",
-                                            "name_to_print": "20170509_Relacao Psa Livre/Psa Total: 0.24",
+                                            "name_to_print": "20170509: 0.24",
                                             "id_valor": 66,
                                             "valor": "0.24",
                                             "unidade": "[Φ]",
@@ -2621,7 +2621,7 @@
                                     "children": [
                                         {
                                             "name": "20180104_0067_Tireoglobulina",
-                                            "name_to_print": "20180104_Tireoglobulina: 0.1 ng/mL",
+                                            "name_to_print": "20180104: 0.1 ng/mL",
                                             "id_valor": 67,
                                             "valor": "0.1",
                                             "unidade": "ng/mL",
@@ -2630,7 +2630,7 @@
                                         },
                                         {
                                             "name": "20170729_0067_Tireoglobulina",
-                                            "name_to_print": "20170729_Tireoglobulina: 0.1 ng/mL",
+                                            "name_to_print": "20170729: 0.1 ng/mL",
                                             "id_valor": 67,
                                             "valor": "0.1",
                                             "unidade": "ng/mL",
@@ -2639,7 +2639,7 @@
                                         },
                                         {
                                             "name": "20170224_0067_Tireoglobulina",
-                                            "name_to_print": "20170224_Tireoglobulina: 0.33 ng/mL",
+                                            "name_to_print": "20170224: 0.33 ng/mL",
                                             "id_valor": 67,
                                             "valor": "0.33",
                                             "unidade": "ng/mL",
@@ -2648,7 +2648,7 @@
                                         },
                                         {
                                             "name": "20170119_0067_Tireoglobulina",
-                                            "name_to_print": "20170119_Tireoglobulina: 0.08 ng/mL",
+                                            "name_to_print": "20170119: 0.08 ng/mL",
                                             "id_valor": 67,
                                             "valor": "0.08",
                                             "unidade": "ng/mL",

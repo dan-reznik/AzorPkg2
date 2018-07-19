@@ -1410,6 +1410,492 @@
             ]
         },
         {
+            "name": "20170509_1000_Exam_Date",
+            "name_to_print": "Exame 09/05/17",
+            "children": [
+                {
+                    "name": "20170509_1001_Sangue",
+                    "name_to_print": "Sangue",
+                    "children": [
+                        {
+                            "name": "20170509_1002_Hemograma Completo",
+                            "name_to_print": "Hemograma Completo",
+                            "children": [
+                                {
+                                    "name": "20170509_1003_Série Vermelha",
+                                    "name_to_print": "Série Vermelha",
+                                    "children": [
+                                        {
+                                            "name": "20170509_0001_Contagem de Hemacias",
+                                            "name_to_print": "Contagem de Hemacias: 5.53 milhoes/mm3",
+                                            "id_valor": 1,
+                                            "valor": "5.53",
+                                            "unidade": "milhoes/mm3",
+                                            "metodo": "automatizado e microscopia optica",
+                                            "tipo": "Nu"
+                                        },
+                                        {
+                                            "name": "20170509_0002_Dosagem da Hemoglobina",
+                                            "name_to_print": "Dosagem da Hemoglobina: 16 g/dL",
+                                            "id_valor": 2,
+                                            "valor": "16",
+                                            "unidade": "g/dL",
+                                            "metodo": "automatizado e microscopia optica",
+                                            "tipo": "Nu"
+                                        },
+                                        {
+                                            "name": "20170509_0003_Avaliacao do Hematocrito",
+                                            "name_to_print": "Avaliacao do Hematocrito: 46.4%",
+                                            "id_valor": 3,
+                                            "valor": "46.4",
+                                            "unidade": "[Φ]",
+                                            "metodo": "automatizado e microscopia optica",
+                                            "tipo": "%"
+                                        },
+                                        {
+                                            "name": "20170509_0004_Volume Globular Medio",
+                                            "name_to_print": "Volume Globular Medio: 83.9 fL",
+                                            "id_valor": 4,
+                                            "valor": "83.9",
+                                            "unidade": "fL",
+                                            "metodo": "automatizado e microscopia optica",
+                                            "tipo": "Nu"
+                                        },
+                                        {
+                                            "name": "20170509_0005_Hemoglobina Globular Media",
+                                            "name_to_print": "Hemoglobina Globular Media: 28.9 pg",
+                                            "id_valor": 5,
+                                            "valor": "28.9",
+                                            "unidade": "pg",
+                                            "metodo": "automatizado e microscopia optica",
+                                            "tipo": "Nu"
+                                        },
+                                        {
+                                            "name": "20170509_0006_Concentracao da Hemoglobina Glob Media",
+                                            "name_to_print": "Concentracao da Hemoglobina Glob Media: 34.5 g/dL",
+                                            "id_valor": 6,
+                                            "valor": "34.5",
+                                            "unidade": "g/dL",
+                                            "metodo": "automatizado e microscopia optica",
+                                            "tipo": "Nu"
+                                        },
+                                        {
+                                            "name": "20170509_0007_Indice de Anisocitose (Rdw)",
+                                            "name_to_print": "Indice de Anisocitose (Rdw): 12.7%",
+                                            "id_valor": 7,
+                                            "valor": "12.7",
+                                            "unidade": "[Φ]",
+                                            "metodo": "automatizado e microscopia optica",
+                                            "tipo": "%"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "20170509_1004_Série Branca",
+                                    "name_to_print": "Série Branca",
+                                    "children": [
+                                        {
+                                            "name": "20170509_0008_Contagem de Leucocitos",
+                                            "name_to_print": "Contagem de Leucocitos: 7.9 mil/mm3",
+                                            "id_valor": 8,
+                                            "valor": "7.9",
+                                            "unidade": "mil/mm3",
+                                            "metodo": "automatizado e microscopia optica",
+                                            "tipo": "Nu"
+                                        },
+                                        {
+                                            "name": "20170509_0009_Basofilos",
+                                            "name_to_print": "Basofilos: 0%",
+                                            "id_valor": 9,
+                                            "valor": "0",
+                                            "unidade": "0/mm3",
+                                            "metodo": "automatizado e microscopia optica",
+                                            "tipo": "%"
+                                        },
+                                        {
+                                            "name": "20170509_0010_Eosinofilos",
+                                            "name_to_print": "Eosinofilos: 4%",
+                                            "id_valor": 10,
+                                            "valor": "4",
+                                            "unidade": "268/mm3",
+                                            "metodo": "automatizado e microscopia optica",
+                                            "tipo": "%"
+                                        },
+                                        {
+                                            "name": "20170509_0011_Neutrofilos Mielocitos",
+                                            "name_to_print": "Neutrofilos Mielocitos: 0%",
+                                            "id_valor": 11,
+                                            "valor": "0",
+                                            "unidade": "0/mm3",
+                                            "metodo": "automatizado e microscopia optica",
+                                            "tipo": "%"
+                                        },
+                                        {
+                                            "name": "20170509_0012_Neutrofilos Metamielocitos",
+                                            "name_to_print": "Neutrofilos Metamielocitos: 0%",
+                                            "id_valor": 12,
+                                            "valor": "0",
+                                            "unidade": "0/mm3",
+                                            "metodo": "automatizado e microscopia optica",
+                                            "tipo": "%"
+                                        },
+                                        {
+                                            "name": "20170509_0013_Bastoes",
+                                            "name_to_print": "Bastoes: 1%",
+                                            "id_valor": 13,
+                                            "valor": "1",
+                                            "unidade": "67/mm3",
+                                            "metodo": "automatizado e microscopia optica",
+                                            "tipo": "%"
+                                        },
+                                        {
+                                            "name": "20170509_0014_Segmentados",
+                                            "name_to_print": "Segmentados: 62%",
+                                            "id_valor": 14,
+                                            "valor": "62",
+                                            "unidade": "3.618/mm3",
+                                            "metodo": "automatizado e microscopia optica",
+                                            "tipo": "%"
+                                        },
+                                        {
+                                            "name": "20170509_0015_Linfocitos",
+                                            "name_to_print": "Linfocitos: 24%",
+                                            "id_valor": 15,
+                                            "valor": "24",
+                                            "unidade": "2.077/mm3",
+                                            "metodo": "automatizado e microscopia optica",
+                                            "tipo": "%"
+                                        },
+                                        {
+                                            "name": "20170509_0016_Monocitos",
+                                            "name_to_print": "Monocitos: 9%",
+                                            "id_valor": 16,
+                                            "valor": "9",
+                                            "unidade": "670/mm3",
+                                            "metodo": "automatizado e microscopia optica",
+                                            "tipo": "%"
+                                        },
+                                        {
+                                            "name": "20170509_0017_Contagem de Plaquetas",
+                                            "name_to_print": "Contagem de Plaquetas: 306 mil/mm3",
+                                            "id_valor": 17,
+                                            "valor": "306",
+                                            "unidade": "mil/mm3",
+                                            "metodo": "automatizado e microscopia optica",
+                                            "tipo": "Nu"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170509_1005_Hemoglobina Glicada",
+                            "name_to_print": "Hemoglobina Glicada",
+                            "children": [
+                                {
+                                    "name": "20170509_0018_Hemoglobina Glicada (Hba1c)",
+                                    "name_to_print": "Hemoglobina Glicada (Hba1c): 5.4%",
+                                    "id_valor": 18,
+                                    "valor": "5.4",
+                                    "unidade": "Hb",
+                                    "metodo": "turbidimetria, national glycohemoglobin standardization program (ngsp)",
+                                    "tipo": "%"
+                                },
+                                {
+                                    "name": "20170509_0019_Glicemia Media Estimada",
+                                    "name_to_print": "Glicemia Media Estimada: 108 mg/dL",
+                                    "id_valor": 19,
+                                    "valor": "108",
+                                    "unidade": "mg/dL",
+                                    "metodo": "calculo matematico, american diabetes association  (ada)",
+                                    "tipo": "Nu"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170509_1006_Glicose",
+                            "name_to_print": "Glicose",
+                            "children": [
+                                {
+                                    "name": "20170509_0020_Glicose",
+                                    "name_to_print": "Glicose: 88 mg/dL",
+                                    "id_valor": 20,
+                                    "valor": "88",
+                                    "unidade": "mg/dL",
+                                    "metodo": "enzimatico",
+                                    "tipo": "Nu"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170509_1020_Bioquímica",
+                            "name_to_print": "Bioquímica",
+                            "children": [
+                                {
+                                    "name": "20170509_1021_Orgânica",
+                                    "name_to_print": "Orgânica",
+                                    "children": [
+                                        {
+                                            "name": "20170509_0021_Ureia",
+                                            "name_to_print": "Ureia: 35 mg/dL",
+                                            "id_valor": 21,
+                                            "valor": "35",
+                                            "unidade": "mg/dL",
+                                            "metodo": "cinetico uv",
+                                            "tipo": "Nu"
+                                        },
+                                        {
+                                            "name": "20170509_0022_Creatinina",
+                                            "name_to_print": "Creatinina: 1.16 mg/dL",
+                                            "id_valor": 22,
+                                            "valor": "1.16",
+                                            "unidade": "mg/dL",
+                                            "metodo": "colorimetrico",
+                                            "tipo": "Nu"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "20170509_1022_Inorgânica",
+                                    "name_to_print": "Inorgânica",
+                                    "children": [
+                                        {
+                                            "name": "20170509_0030_Sodio",
+                                            "name_to_print": "Sodio: 141 mEq/L",
+                                            "id_valor": 30,
+                                            "valor": "141",
+                                            "unidade": "mEq/L",
+                                            "metodo": "eletrodo seletivo",
+                                            "tipo": "Nu"
+                                        },
+                                        {
+                                            "name": "20170509_0031_Potassio",
+                                            "name_to_print": "Potassio: 4.9 mEq/L",
+                                            "id_valor": 31,
+                                            "valor": "4.9",
+                                            "unidade": "mEq/L",
+                                            "metodo": "eletrodo seletivo",
+                                            "tipo": "Nu"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170509_1008_Hepatograma",
+                            "name_to_print": "Hepatograma",
+                            "children": [
+                                {
+                                    "name": "20170509_0034_Proteinas Totais",
+                                    "name_to_print": "Proteinas Totais: 7.4 g/dL",
+                                    "id_valor": 34,
+                                    "valor": "7.4",
+                                    "unidade": "g/dL",
+                                    "metodo": "colorimetrico",
+                                    "tipo": "Nu"
+                                },
+                                {
+                                    "name": "20170509_0035_Transaminase Piruvica (Alt)",
+                                    "name_to_print": "Transaminase Piruvica (Alt): 23 U/L",
+                                    "id_valor": 35,
+                                    "valor": "23",
+                                    "unidade": "U/L",
+                                    "metodo": "cinetico uv",
+                                    "tipo": "Nu"
+                                },
+                                {
+                                    "name": "20170509_0036_Transaminase Oxalacetica (Ast)",
+                                    "name_to_print": "Transaminase Oxalacetica (Ast): 22 U/L",
+                                    "id_valor": 36,
+                                    "valor": "22",
+                                    "unidade": "U/L",
+                                    "metodo": "cinetico uv",
+                                    "tipo": "Nu"
+                                },
+                                {
+                                    "name": "20170509_0037_Fosfatase Alcalina",
+                                    "name_to_print": "Fosfatase Alcalina: 66 U/L",
+                                    "id_valor": 37,
+                                    "valor": "66",
+                                    "unidade": "U/L",
+                                    "metodo": "enzimatico colorimetrico",
+                                    "tipo": "Nu"
+                                },
+                                {
+                                    "name": "20170509_0038_Gama Glutamil Transpeptidase",
+                                    "name_to_print": "Gama Glutamil Transpeptidase: 31 U/L",
+                                    "id_valor": 38,
+                                    "valor": "31",
+                                    "unidade": "U/L",
+                                    "metodo": "enzimatico colorimetrico",
+                                    "tipo": "Nu"
+                                },
+                                {
+                                    "name": "20170509_0039_Bilirrubina Direta",
+                                    "name_to_print": "Bilirrubina Direta: 0.3 mg/dL",
+                                    "id_valor": 39,
+                                    "valor": "0.3",
+                                    "unidade": "mg/dL",
+                                    "metodo": "colorimetrico",
+                                    "tipo": "Nu"
+                                },
+                                {
+                                    "name": "20170509_0040_Bilirrubina Indireta",
+                                    "name_to_print": "Bilirrubina Indireta: 0.7 mg/dL",
+                                    "id_valor": 40,
+                                    "valor": "0.7",
+                                    "unidade": "mg/dL",
+                                    "metodo": "colorimetrico",
+                                    "tipo": "Nu"
+                                },
+                                {
+                                    "name": "20170509_0041_Bilirrubina Total",
+                                    "name_to_print": "Bilirrubina Total: 1 mg/dL",
+                                    "id_valor": 41,
+                                    "valor": "1",
+                                    "unidade": "mg/dL",
+                                    "metodo": "colorimetrico",
+                                    "tipo": "Nu"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170509_1009_Perfil Lipídico",
+                            "name_to_print": "Perfil Lipídico",
+                            "children": [
+                                {
+                                    "name": "20170509_0042_Colesterol",
+                                    "name_to_print": "Colesterol: 190 mg/dL",
+                                    "id_valor": 42,
+                                    "valor": "190",
+                                    "unidade": "mg/dL",
+                                    "metodo": "enzimatico colorimetrico",
+                                    "tipo": "Nu"
+                                },
+                                {
+                                    "name": "20170509_0043_Colesterol - Hdl",
+                                    "name_to_print": "Colesterol - Hdl: 62 mg/dL",
+                                    "id_valor": 43,
+                                    "valor": "62",
+                                    "unidade": "mg/dL",
+                                    "metodo": "enzimatico colorimetrico",
+                                    "tipo": "Nu"
+                                },
+                                {
+                                    "name": "20170509_0044_Triglicerideos",
+                                    "name_to_print": "Triglicerideos: 99 mg/dL",
+                                    "id_valor": 44,
+                                    "valor": "99",
+                                    "unidade": "mg/dL",
+                                    "metodo": "enzimatico colorimetrico",
+                                    "tipo": "Nu"
+                                },
+                                {
+                                    "name": "20170509_0045_Colesterol - Ldl",
+                                    "name_to_print": "Colesterol - Ldl: 108 mg/dL",
+                                    "id_valor": 45,
+                                    "valor": "108",
+                                    "unidade": "mg/dL",
+                                    "metodo": "enzimatico colorimetrico",
+                                    "tipo": "Nu"
+                                },
+                                {
+                                    "name": "20170509_0046_Colesterol - Vldl",
+                                    "name_to_print": "Colesterol - Vldl: 20 mg/dL",
+                                    "id_valor": 46,
+                                    "valor": "20",
+                                    "unidade": "mg/dL",
+                                    "metodo": "enzimatico colorimetrico",
+                                    "tipo": "Nu"
+                                },
+                                {
+                                    "name": "20170509_0047_Colesterol - Nao Hdl",
+                                    "name_to_print": "Colesterol - Nao Hdl: 128 mg/dL",
+                                    "id_valor": 47,
+                                    "valor": "128",
+                                    "unidade": "mg/dL",
+                                    "metodo": "enzimatico colorimetrico",
+                                    "tipo": "Nu"
+                                },
+                                {
+                                    "name": "20170509_0048_Aspecto do Soro",
+                                    "name_to_print": "Aspecto do Soro: Limpido",
+                                    "id_valor": 48,
+                                    "valor": "Limpido",
+                                    "unidade": "[Φ]",
+                                    "metodo": "enzimatico colorimetrico",
+                                    "tipo": "T"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170509_1010_T4 Livre",
+                            "name_to_print": "T4 Livre",
+                            "children": [
+                                {
+                                    "name": "20170509_0051_Tiroxina Livre",
+                                    "name_to_print": "Tiroxina Livre: 1.5 ng/dL",
+                                    "id_valor": 51,
+                                    "valor": "1.5",
+                                    "unidade": "ng/dL",
+                                    "metodo": "eletroquimioluminescencia",
+                                    "tipo": "Nu"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170509_1011_TSH",
+                            "name_to_print": "TSH",
+                            "children": [
+                                {
+                                    "name": "20170509_0052_Hormonio Estimulante da Tireoide",
+                                    "name_to_print": "Hormonio Estimulante da Tireoide: 0.19 mcUI/mL",
+                                    "id_valor": 52,
+                                    "valor": "0.19",
+                                    "unidade": "mcUI/mL",
+                                    "metodo": "eletroquimioluminescencia",
+                                    "tipo": "Nu"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20170509_1018_PSA Total e Livre",
+                            "name_to_print": "PSA Total e Livre",
+                            "children": [
+                                {
+                                    "name": "20170509_0064_Antigeno Prostatico Especifico Total",
+                                    "name_to_print": "Antigeno Prostatico Especifico Total: 2.22 ng/mL",
+                                    "id_valor": 64,
+                                    "valor": "2.22",
+                                    "unidade": "ng/mL",
+                                    "metodo": "ensaio imunoenzimatico por quimioluminescencia",
+                                    "tipo": "Nu"
+                                },
+                                {
+                                    "name": "20170509_0065_Ag. Prostatico Especifico, Fracao Livre",
+                                    "name_to_print": "Ag. Prostatico Especifico, Fracao Livre: 0.54 ng/mL",
+                                    "id_valor": 65,
+                                    "valor": "0.54",
+                                    "unidade": "ng/mL",
+                                    "metodo": "ensaio imunoenzimatico por quimioluminescencia",
+                                    "tipo": "Nu"
+                                },
+                                {
+                                    "name": "20170509_0066_Relacao Psa Livre/Psa Total",
+                                    "name_to_print": "Relacao Psa Livre/Psa Total: 0.24",
+                                    "id_valor": 66,
+                                    "valor": "0.24",
+                                    "unidade": "[Φ]",
+                                    "metodo": "ensaio imunoenzimatico por quimioluminescencia",
+                                    "tipo": "N"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "name": "20170224_1000_Exam_Date",
             "name_to_print": "Exame 24/02/17",
             "children": [
@@ -2134,492 +2620,6 @@
                                     "unidade": "ng/mL",
                                     "metodo": "quimioluminescencia",
                                     "tipo": "Nu"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "20170509_1000_Exam_Date",
-            "name_to_print": "Exame 09/05/17",
-            "children": [
-                {
-                    "name": "20170509_1001_Sangue",
-                    "name_to_print": "Sangue",
-                    "children": [
-                        {
-                            "name": "20170509_1002_Hemograma Completo",
-                            "name_to_print": "Hemograma Completo",
-                            "children": [
-                                {
-                                    "name": "20170509_1003_Série Vermelha",
-                                    "name_to_print": "Série Vermelha",
-                                    "children": [
-                                        {
-                                            "name": "20170509_0001_Contagem de Hemacias",
-                                            "name_to_print": "Contagem de Hemacias: 5.53 milhoes/mm3",
-                                            "id_valor": 1,
-                                            "valor": "5.53",
-                                            "unidade": "milhoes/mm3",
-                                            "metodo": "automatizado e microscopia optica",
-                                            "tipo": "Nu"
-                                        },
-                                        {
-                                            "name": "20170509_0002_Dosagem da Hemoglobina",
-                                            "name_to_print": "Dosagem da Hemoglobina: 16 g/dL",
-                                            "id_valor": 2,
-                                            "valor": "16",
-                                            "unidade": "g/dL",
-                                            "metodo": "automatizado e microscopia optica",
-                                            "tipo": "Nu"
-                                        },
-                                        {
-                                            "name": "20170509_0003_Avaliacao do Hematocrito",
-                                            "name_to_print": "Avaliacao do Hematocrito: 46.4%",
-                                            "id_valor": 3,
-                                            "valor": "46.4",
-                                            "unidade": "[Φ]",
-                                            "metodo": "automatizado e microscopia optica",
-                                            "tipo": "%"
-                                        },
-                                        {
-                                            "name": "20170509_0004_Volume Globular Medio",
-                                            "name_to_print": "Volume Globular Medio: 83.9 fL",
-                                            "id_valor": 4,
-                                            "valor": "83.9",
-                                            "unidade": "fL",
-                                            "metodo": "automatizado e microscopia optica",
-                                            "tipo": "Nu"
-                                        },
-                                        {
-                                            "name": "20170509_0005_Hemoglobina Globular Media",
-                                            "name_to_print": "Hemoglobina Globular Media: 28.9 pg",
-                                            "id_valor": 5,
-                                            "valor": "28.9",
-                                            "unidade": "pg",
-                                            "metodo": "automatizado e microscopia optica",
-                                            "tipo": "Nu"
-                                        },
-                                        {
-                                            "name": "20170509_0006_Concentracao da Hemoglobina Glob Media",
-                                            "name_to_print": "Concentracao da Hemoglobina Glob Media: 34.5 g/dL",
-                                            "id_valor": 6,
-                                            "valor": "34.5",
-                                            "unidade": "g/dL",
-                                            "metodo": "automatizado e microscopia optica",
-                                            "tipo": "Nu"
-                                        },
-                                        {
-                                            "name": "20170509_0007_Indice de Anisocitose (Rdw)",
-                                            "name_to_print": "Indice de Anisocitose (Rdw): 12.7%",
-                                            "id_valor": 7,
-                                            "valor": "12.7",
-                                            "unidade": "[Φ]",
-                                            "metodo": "automatizado e microscopia optica",
-                                            "tipo": "%"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "name": "20170509_1004_Série Branca",
-                                    "name_to_print": "Série Branca",
-                                    "children": [
-                                        {
-                                            "name": "20170509_0008_Contagem de Leucocitos",
-                                            "name_to_print": "Contagem de Leucocitos: 7.9 mil/mm3",
-                                            "id_valor": 8,
-                                            "valor": "7.9",
-                                            "unidade": "mil/mm3",
-                                            "metodo": "automatizado e microscopia optica",
-                                            "tipo": "Nu"
-                                        },
-                                        {
-                                            "name": "20170509_0009_Basofilos",
-                                            "name_to_print": "Basofilos: 0%",
-                                            "id_valor": 9,
-                                            "valor": "0",
-                                            "unidade": "0/mm3",
-                                            "metodo": "automatizado e microscopia optica",
-                                            "tipo": "%"
-                                        },
-                                        {
-                                            "name": "20170509_0010_Eosinofilos",
-                                            "name_to_print": "Eosinofilos: 4%",
-                                            "id_valor": 10,
-                                            "valor": "4",
-                                            "unidade": "268/mm3",
-                                            "metodo": "automatizado e microscopia optica",
-                                            "tipo": "%"
-                                        },
-                                        {
-                                            "name": "20170509_0011_Neutrofilos Mielocitos",
-                                            "name_to_print": "Neutrofilos Mielocitos: 0%",
-                                            "id_valor": 11,
-                                            "valor": "0",
-                                            "unidade": "0/mm3",
-                                            "metodo": "automatizado e microscopia optica",
-                                            "tipo": "%"
-                                        },
-                                        {
-                                            "name": "20170509_0012_Neutrofilos Metamielocitos",
-                                            "name_to_print": "Neutrofilos Metamielocitos: 0%",
-                                            "id_valor": 12,
-                                            "valor": "0",
-                                            "unidade": "0/mm3",
-                                            "metodo": "automatizado e microscopia optica",
-                                            "tipo": "%"
-                                        },
-                                        {
-                                            "name": "20170509_0013_Bastoes",
-                                            "name_to_print": "Bastoes: 1%",
-                                            "id_valor": 13,
-                                            "valor": "1",
-                                            "unidade": "67/mm3",
-                                            "metodo": "automatizado e microscopia optica",
-                                            "tipo": "%"
-                                        },
-                                        {
-                                            "name": "20170509_0014_Segmentados",
-                                            "name_to_print": "Segmentados: 62%",
-                                            "id_valor": 14,
-                                            "valor": "62",
-                                            "unidade": "3.618/mm3",
-                                            "metodo": "automatizado e microscopia optica",
-                                            "tipo": "%"
-                                        },
-                                        {
-                                            "name": "20170509_0015_Linfocitos",
-                                            "name_to_print": "Linfocitos: 24%",
-                                            "id_valor": 15,
-                                            "valor": "24",
-                                            "unidade": "2.077/mm3",
-                                            "metodo": "automatizado e microscopia optica",
-                                            "tipo": "%"
-                                        },
-                                        {
-                                            "name": "20170509_0016_Monocitos",
-                                            "name_to_print": "Monocitos: 9%",
-                                            "id_valor": 16,
-                                            "valor": "9",
-                                            "unidade": "670/mm3",
-                                            "metodo": "automatizado e microscopia optica",
-                                            "tipo": "%"
-                                        },
-                                        {
-                                            "name": "20170509_0017_Contagem de Plaquetas",
-                                            "name_to_print": "Contagem de Plaquetas: 306 mil/mm3",
-                                            "id_valor": 17,
-                                            "valor": "306",
-                                            "unidade": "mil/mm3",
-                                            "metodo": "automatizado e microscopia optica",
-                                            "tipo": "Nu"
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "name": "20170509_1005_Hemoglobina Glicada",
-                            "name_to_print": "Hemoglobina Glicada",
-                            "children": [
-                                {
-                                    "name": "20170509_0018_Hemoglobina Glicada (Hba1c)",
-                                    "name_to_print": "Hemoglobina Glicada (Hba1c): 5.4%",
-                                    "id_valor": 18,
-                                    "valor": "5.4",
-                                    "unidade": "Hb",
-                                    "metodo": "turbidimetria, national glycohemoglobin standardization program (ngsp)",
-                                    "tipo": "%"
-                                },
-                                {
-                                    "name": "20170509_0019_Glicemia Media Estimada",
-                                    "name_to_print": "Glicemia Media Estimada: 108 mg/dL",
-                                    "id_valor": 19,
-                                    "valor": "108",
-                                    "unidade": "mg/dL",
-                                    "metodo": "calculo matematico, american diabetes association  (ada)",
-                                    "tipo": "Nu"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "20170509_1006_Glicose",
-                            "name_to_print": "Glicose",
-                            "children": [
-                                {
-                                    "name": "20170509_0020_Glicose",
-                                    "name_to_print": "Glicose: 88 mg/dL",
-                                    "id_valor": 20,
-                                    "valor": "88",
-                                    "unidade": "mg/dL",
-                                    "metodo": "enzimatico",
-                                    "tipo": "Nu"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "20170509_1020_Bioquímica",
-                            "name_to_print": "Bioquímica",
-                            "children": [
-                                {
-                                    "name": "20170509_1021_Orgânica",
-                                    "name_to_print": "Orgânica",
-                                    "children": [
-                                        {
-                                            "name": "20170509_0021_Ureia",
-                                            "name_to_print": "Ureia: 35 mg/dL",
-                                            "id_valor": 21,
-                                            "valor": "35",
-                                            "unidade": "mg/dL",
-                                            "metodo": "cinetico uv",
-                                            "tipo": "Nu"
-                                        },
-                                        {
-                                            "name": "20170509_0022_Creatinina",
-                                            "name_to_print": "Creatinina: 1.16 mg/dL",
-                                            "id_valor": 22,
-                                            "valor": "1.16",
-                                            "unidade": "mg/dL",
-                                            "metodo": "colorimetrico",
-                                            "tipo": "Nu"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "name": "20170509_1022_Inorgânica",
-                                    "name_to_print": "Inorgânica",
-                                    "children": [
-                                        {
-                                            "name": "20170509_0030_Sodio",
-                                            "name_to_print": "Sodio: 141 mEq/L",
-                                            "id_valor": 30,
-                                            "valor": "141",
-                                            "unidade": "mEq/L",
-                                            "metodo": "eletrodo seletivo",
-                                            "tipo": "Nu"
-                                        },
-                                        {
-                                            "name": "20170509_0031_Potassio",
-                                            "name_to_print": "Potassio: 4.9 mEq/L",
-                                            "id_valor": 31,
-                                            "valor": "4.9",
-                                            "unidade": "mEq/L",
-                                            "metodo": "eletrodo seletivo",
-                                            "tipo": "Nu"
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "name": "20170509_1008_Hepatograma",
-                            "name_to_print": "Hepatograma",
-                            "children": [
-                                {
-                                    "name": "20170509_0034_Proteinas Totais",
-                                    "name_to_print": "Proteinas Totais: 7.4 g/dL",
-                                    "id_valor": 34,
-                                    "valor": "7.4",
-                                    "unidade": "g/dL",
-                                    "metodo": "colorimetrico",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20170509_0035_Transaminase Piruvica (Alt)",
-                                    "name_to_print": "Transaminase Piruvica (Alt): 23 U/L",
-                                    "id_valor": 35,
-                                    "valor": "23",
-                                    "unidade": "U/L",
-                                    "metodo": "cinetico uv",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20170509_0036_Transaminase Oxalacetica (Ast)",
-                                    "name_to_print": "Transaminase Oxalacetica (Ast): 22 U/L",
-                                    "id_valor": 36,
-                                    "valor": "22",
-                                    "unidade": "U/L",
-                                    "metodo": "cinetico uv",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20170509_0037_Fosfatase Alcalina",
-                                    "name_to_print": "Fosfatase Alcalina: 66 U/L",
-                                    "id_valor": 37,
-                                    "valor": "66",
-                                    "unidade": "U/L",
-                                    "metodo": "enzimatico colorimetrico",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20170509_0038_Gama Glutamil Transpeptidase",
-                                    "name_to_print": "Gama Glutamil Transpeptidase: 31 U/L",
-                                    "id_valor": 38,
-                                    "valor": "31",
-                                    "unidade": "U/L",
-                                    "metodo": "enzimatico colorimetrico",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20170509_0039_Bilirrubina Direta",
-                                    "name_to_print": "Bilirrubina Direta: 0.3 mg/dL",
-                                    "id_valor": 39,
-                                    "valor": "0.3",
-                                    "unidade": "mg/dL",
-                                    "metodo": "colorimetrico",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20170509_0040_Bilirrubina Indireta",
-                                    "name_to_print": "Bilirrubina Indireta: 0.7 mg/dL",
-                                    "id_valor": 40,
-                                    "valor": "0.7",
-                                    "unidade": "mg/dL",
-                                    "metodo": "colorimetrico",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20170509_0041_Bilirrubina Total",
-                                    "name_to_print": "Bilirrubina Total: 1 mg/dL",
-                                    "id_valor": 41,
-                                    "valor": "1",
-                                    "unidade": "mg/dL",
-                                    "metodo": "colorimetrico",
-                                    "tipo": "Nu"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "20170509_1009_Perfil Lipídico",
-                            "name_to_print": "Perfil Lipídico",
-                            "children": [
-                                {
-                                    "name": "20170509_0042_Colesterol",
-                                    "name_to_print": "Colesterol: 190 mg/dL",
-                                    "id_valor": 42,
-                                    "valor": "190",
-                                    "unidade": "mg/dL",
-                                    "metodo": "enzimatico colorimetrico",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20170509_0043_Colesterol - Hdl",
-                                    "name_to_print": "Colesterol - Hdl: 62 mg/dL",
-                                    "id_valor": 43,
-                                    "valor": "62",
-                                    "unidade": "mg/dL",
-                                    "metodo": "enzimatico colorimetrico",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20170509_0044_Triglicerideos",
-                                    "name_to_print": "Triglicerideos: 99 mg/dL",
-                                    "id_valor": 44,
-                                    "valor": "99",
-                                    "unidade": "mg/dL",
-                                    "metodo": "enzimatico colorimetrico",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20170509_0045_Colesterol - Ldl",
-                                    "name_to_print": "Colesterol - Ldl: 108 mg/dL",
-                                    "id_valor": 45,
-                                    "valor": "108",
-                                    "unidade": "mg/dL",
-                                    "metodo": "enzimatico colorimetrico",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20170509_0046_Colesterol - Vldl",
-                                    "name_to_print": "Colesterol - Vldl: 20 mg/dL",
-                                    "id_valor": 46,
-                                    "valor": "20",
-                                    "unidade": "mg/dL",
-                                    "metodo": "enzimatico colorimetrico",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20170509_0047_Colesterol - Nao Hdl",
-                                    "name_to_print": "Colesterol - Nao Hdl: 128 mg/dL",
-                                    "id_valor": 47,
-                                    "valor": "128",
-                                    "unidade": "mg/dL",
-                                    "metodo": "enzimatico colorimetrico",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20170509_0048_Aspecto do Soro",
-                                    "name_to_print": "Aspecto do Soro: Limpido",
-                                    "id_valor": 48,
-                                    "valor": "Limpido",
-                                    "unidade": "[Φ]",
-                                    "metodo": "enzimatico colorimetrico",
-                                    "tipo": "T"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "20170509_1010_T4 Livre",
-                            "name_to_print": "T4 Livre",
-                            "children": [
-                                {
-                                    "name": "20170509_0051_Tiroxina Livre",
-                                    "name_to_print": "Tiroxina Livre: 1.5 ng/dL",
-                                    "id_valor": 51,
-                                    "valor": "1.5",
-                                    "unidade": "ng/dL",
-                                    "metodo": "eletroquimioluminescencia",
-                                    "tipo": "Nu"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "20170509_1011_TSH",
-                            "name_to_print": "TSH",
-                            "children": [
-                                {
-                                    "name": "20170509_0052_Hormonio Estimulante da Tireoide",
-                                    "name_to_print": "Hormonio Estimulante da Tireoide: 0.19 mcUI/mL",
-                                    "id_valor": 52,
-                                    "valor": "0.19",
-                                    "unidade": "mcUI/mL",
-                                    "metodo": "eletroquimioluminescencia",
-                                    "tipo": "Nu"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "20170509_1018_PSA Total e Livre",
-                            "name_to_print": "PSA Total e Livre",
-                            "children": [
-                                {
-                                    "name": "20170509_0064_Antigeno Prostatico Especifico Total",
-                                    "name_to_print": "Antigeno Prostatico Especifico Total: 2.22 ng/mL",
-                                    "id_valor": 64,
-                                    "valor": "2.22",
-                                    "unidade": "ng/mL",
-                                    "metodo": "ensaio imunoenzimatico por quimioluminescencia",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20170509_0065_Ag. Prostatico Especifico, Fracao Livre",
-                                    "name_to_print": "Ag. Prostatico Especifico, Fracao Livre: 0.54 ng/mL",
-                                    "id_valor": 65,
-                                    "valor": "0.54",
-                                    "unidade": "ng/mL",
-                                    "metodo": "ensaio imunoenzimatico por quimioluminescencia",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20170509_0066_Relacao Psa Livre/Psa Total",
-                                    "name_to_print": "Relacao Psa Livre/Psa Total: 0.24",
-                                    "id_valor": 66,
-                                    "valor": "0.24",
-                                    "unidade": "[Φ]",
-                                    "metodo": "ensaio imunoenzimatico por quimioluminescencia",
-                                    "tipo": "N"
                                 }
                             ]
                         }

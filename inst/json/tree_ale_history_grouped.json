@@ -100,7 +100,7 @@
                                 },
                                 {
                                     "name": "0003_Avaliacao do Hematocrito",
-                                    "name_to_print": "Avaliacao do Hematocrito ([Φ])",
+                                    "name_to_print": "Avaliacao do Hematocrito",
                                     "children": [
                                         {
                                             "name": "20180104_0003_Avaliacao do Hematocrito",
@@ -268,7 +268,7 @@
                                 },
                                 {
                                     "name": "0007_Indice de Anisocitose (Rdw)",
-                                    "name_to_print": "Indice de Anisocitose (Rdw) ([Φ])",
+                                    "name_to_print": "Indice de Anisocitose (Rdw)",
                                     "children": [
                                         {
                                             "name": "20180104_0007_Indice de Anisocitose (Rdw)",
@@ -970,7 +970,7 @@
                                 },
                                 {
                                     "name": "0025_Indice de Saturacao da Transferrina",
-                                    "name_to_print": "Indice de Saturacao da Transferrina ([Φ])",
+                                    "name_to_print": "Indice de Saturacao da Transferrina",
                                     "children": [
                                         {
                                             "name": "20180104_0025_Indice de Saturacao da Transferrina",
@@ -2184,7 +2184,7 @@
                         },
                         {
                             "name": "0048_Aspecto do Soro",
-                            "name_to_print": "Aspecto do Soro ([Φ])",
+                            "name_to_print": "Aspecto do Soro",
                             "children": [
                                 {
                                     "name": "20180104_0048_Aspecto do Soro",
@@ -2346,7 +2346,7 @@
                     "children": [
                         {
                             "name": "0053_Homa-Beta (Homeostatic Model Assessment)",
-                            "name_to_print": "Homa-Beta (Homeostatic Model Assessment) ([Φ])",
+                            "name_to_print": "Homa-Beta (Homeostatic Model Assessment)",
                             "children": [
                                 {
                                     "name": "20180104_0053_Homa-Beta (Homeostatic Model Assessment)",
@@ -2367,7 +2367,7 @@
                     "children": [
                         {
                             "name": "0054_Homa-Ir (Homeostatic Model Assessment)",
-                            "name_to_print": "Homa-Ir (Homeostatic Model Assessment) ([Φ])",
+                            "name_to_print": "Homa-Ir (Homeostatic Model Assessment)",
                             "children": [
                                 {
                                     "name": "20180104_0054_Homa-Ir (Homeostatic Model Assessment)",
@@ -2583,7 +2583,7 @@
                         },
                         {
                             "name": "0066_Relacao Psa Livre/Psa Total",
-                            "name_to_print": "Relacao Psa Livre/Psa Total ([Φ])",
+                            "name_to_print": "Relacao Psa Livre/Psa Total",
                             "children": [
                                 {
                                     "name": "20180104_0066_Relacao Psa Livre/Psa Total",

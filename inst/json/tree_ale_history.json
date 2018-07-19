@@ -4,7 +4,7 @@
     "children": [
         {
             "name": "20180104_1000_Exam_Date",
-            "name_to_print": "Exame 20180104",
+            "name_to_print": "Exame 04.01.18",
             "children": [
                 {
                     "name": "20180104_1001_Sangue",
@@ -751,7 +751,7 @@
         },
         {
             "name": "20170729_1000_Exam_Date",
-            "name_to_print": "Exame 20170729",
+            "name_to_print": "Exame 29.07.17",
             "children": [
                 {
                     "name": "20170729_1001_Sangue",
@@ -1411,7 +1411,7 @@
         },
         {
             "name": "20170224_1000_Exam_Date",
-            "name_to_print": "Exame 20170224",
+            "name_to_print": "Exame 24.02.17",
             "children": [
                 {
                     "name": "20170224_1001_Sangue",
@@ -1483,7 +1483,7 @@
         },
         {
             "name": "20170119_1000_Exam_Date",
-            "name_to_print": "Exame 20170119",
+            "name_to_print": "Exame 19.01.17",
             "children": [
                 {
                     "name": "20170119_1001_Sangue",
@@ -2143,7 +2143,7 @@
         },
         {
             "name": "20170509_1000_Exam_Date",
-            "name_to_print": "Exame 20170509",
+            "name_to_print": "Exame 09.05.17",
             "children": [
                 {
                     "name": "20170509_1001_Sangue",

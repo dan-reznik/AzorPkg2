@@ -29,9 +29,17 @@ curl https://dan-reznik.ocpu.io/AzorPkg2/R/test_df/json -H "Content-Type: applic
 # phi chars
 Φø
 
-# test patient_exams
-# patient_exams <- function(patient_id,ymd_min=NULL,ymd_max=NULL)
+# test patient_results
 
-curl https://dan-reznik.ocpu.io/AzorPkg2/R/patient_exams/json -H "Content-Type: application/json" -d '{"patient_id":1}'
+patient_date_counts
+patient_date_range
+patient_results
+
+curl https://dan-reznik.ocpu.io/AzorPkg2/R/patient_date_counts/json -H "Content-Type: application/json" -d '{"patient_id":1}'
+
+# patient_results <- function(patient_id,ymd_min=NULL,ymd_max=NULL)
+
+
+curl https://dan-reznik.ocpu.io/AzorPkg2/R/patient_results/json -H "Content-Type: application/json" -d '{"patient_id":1}'
 
 curl https://dan-reznik.ocpu.io/AzorPkg2/R/patient_exams/json -H "Content-Type: application/json" -d '{"patient_id":1,"ymd_min":"20180101"}'

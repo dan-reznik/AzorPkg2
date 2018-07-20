@@ -3,7 +3,7 @@
 #' @importFrom purrr transpose discard prepend
 #' @importFrom purrr map map2 map2_lgl map2_dfr map_chr
 #' @importFrom magrittr %>%
-#' @importFrom dplyr filter between select pull mutate bind_cols everything first last
+#' @importFrom dplyr arrange filter between select pull mutate bind_cols everything first last
 #' @importFrom assertthat assert_that
 #' @importFrom stringr str_to_upper str_to_lower str_trim str_c fixed str_split
 #' @importFrom tidyr unnest spread

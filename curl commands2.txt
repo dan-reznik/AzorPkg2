@@ -43,4 +43,6 @@ curl https://dan-reznik.ocpu.io/AzorPkg2/R/patient_date_counts/json -H "Content-
 
 curl https://dan-reznik.ocpu.io/AzorPkg2/R/patient_results/json -H "Content-Type: application/json" -d '{"patient_id":1}'
 
-curl https://dan-reznik.ocpu.io/AzorPkg2/R/patient_exams/json -H "Content-Type: application/json" -d '{"patient_id":1,"ymd_min":"20180101"}'
+# patient_results filtrado por data
+
+curl https://dan-reznik.ocpu.io/AzorPkg2/R/patient_results/json -H "Content-Type: application/json" -d '{"patient_id":1,"ymd_min":"20180101"}'

@@ -3,7 +3,7 @@
 #' @importFrom purrr transpose discard prepend
 #' @importFrom purrr map map2 map2_lgl map2_dfr map_chr
 #' @importFrom magrittr %>%
-#' @importFrom dplyr count arrange filter between select pull mutate bind_cols everything first last
+#' @importFrom dplyr rename count arrange filter between select pull mutate bind_cols everything first last
 #' @importFrom assertthat assert_that
 #' @importFrom stringr str_to_upper str_to_lower str_trim str_c fixed str_split
 #' @importFrom tidyr unnest spread
@@ -153,7 +153,7 @@ patient_date_range <- function(patient_id) {
   df <- df_exames %>% filter(id_paciente==patient_id)
   ymd_min <- df$ymd%>%min
   ymd_max <- df$ymd%>%max
-  c(ymd_min,ymd_max)
+  c(min=ymd_min,max=ymd_max)
 }
 
 #' @export
@@ -161,7 +161,8 @@ patient_date_counts <- function(patient_id) {
   df_exames %>%
     filter(id_paciente==patient_id) %>%
     arrange(ymd) %>%
-    dplyr::count(ymd)
+    dplyr::count(ymd) %>%
+    dplyr::rename(count=n)
 }
 
 #' @export

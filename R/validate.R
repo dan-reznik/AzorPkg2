@@ -148,15 +148,24 @@ invalid_exams <- function(sex,birth_ymd,exam_ymd,
                  exam_id_vec,exam_value_vec) %>%
   dplyr::filter(!valid) %>% select(-valid)
 
-#teste
-# AzorPkg::invalid_exams("M","19660720","20180104",
-# exame_ale_20180104$id_valor,
-# exame_ale_20180104$valor_numerico) %>%
-# pull(id_valor) %>%
-# map_chr(id_to_chave)
+#' @export
+patient_date_range <- function(patient_id) {
+  df <- df_exames %>% filter(id_paciente==patient_id)
+  ymd_min <- df$ymd%>%min
+  ymd_max <- df$ymd%>%max
+  c(ymd_min,ymd_max)
+}
 
 #' @export
-patient_exams <- function(patient_id,ymd_min=NULL,ymd_max=NULL) {
+patient_date_counts <- function(patient_id) {
+  df_exames %>%
+    filter(id_paciente==patient_id) %>%
+    arrange(ymd) %>%
+    count(ymd)
+}
+
+#' @export
+patient_results <- function(patient_id,ymd_min=NULL,ymd_max=NULL) {
   df <- df_exames %>% filter(id_paciente==patient_id)
   if(!is.null(ymd_min))
     df <- df %>% filter(ymd>=ymd(ymd_min))

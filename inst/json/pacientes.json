@@ -1,0 +1,22 @@
+[
+    {
+        "id_paciente": 1,
+        "Nome": "Ale Macieira",
+        "Nascimento": "19660720",
+        "Sexo": "M",
+        "Telefone": "(21) 91234-1234",
+        "Cidade": "Rio de Janeiro",
+        "Estado": "RJ",
+        "ymd_nasc": "1966-07-20"
+    },
+    {
+        "id_paciente": 2,
+        "Nome": "Dan Rezende",
+        "Nascimento": "19670522",
+        "Sexo": "M",
+        "Telefone": "(21) 99555-1212",
+        "Cidade": "Rio de Janeiro",
+        "Estado": "RJ",
+        "ymd_nasc": "1967-05-22"
+    }
+]

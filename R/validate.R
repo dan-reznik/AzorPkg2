@@ -153,7 +153,7 @@ patient_date_range <- function(patient_id) {
   df <- df_exames %>% filter(id_paciente==patient_id)
   ymd_min <- df$ymd%>%min
   ymd_max <- df$ymd%>%max
-  c(min=ymd_min,max=ymd_max)
+  list(min=ymd_min,max=ymd_max)
 }
 
 #' @export

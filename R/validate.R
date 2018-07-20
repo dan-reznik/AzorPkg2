@@ -10,6 +10,7 @@
 #' @importFrom tibble as_tibble data_frame
 #' @importFrom lubridate ymd
 #' @importFrom rlang enquo
+#' @importFrom lubridate ymd
 
 # git remote set-url origin https://github.com/dan-reznik/AzorPkg.git
 # place all whites in the current dir and sepia them via (overwrites)
@@ -153,6 +154,16 @@ invalid_exams <- function(sex,birth_ymd,exam_ymd,
 # exame_ale_20180104$valor_numerico) %>%
 # pull(id_valor) %>%
 # map_chr(id_to_chave)
+
+#' @export
+patient_exams <- function(patient_id,ymd_min=NULL,ymd_max=NULL) {
+  df <- df_exames %>% filter(id_paciente==patient_id)
+  if(!is.null(ymd_min))
+    df <- df %>% filter(ymd>=ymd(ymd_min))
+  if(!is.null(ymd_max))
+    df <- df %>% filter(ymd<=ymd(ymd_max))
+  df
+}
 
 #' @export
 test_df <- function() data_frame(x=c(1,2),y=c(3,NA),z=c(4,NA),w=c(5,NA))

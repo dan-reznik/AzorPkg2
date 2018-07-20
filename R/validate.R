@@ -161,7 +161,7 @@ patient_date_counts <- function(patient_id) {
   df_exames %>%
     filter(id_paciente==patient_id) %>%
     arrange(ymd) %>%
-    count(ymd)
+    dplyr::count(ymd)
 }
 
 #' @export

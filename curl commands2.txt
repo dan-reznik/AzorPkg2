@@ -31,14 +31,15 @@ curl https://dan-reznik.ocpu.io/AzorPkg2/R/test_df/json -H "Content-Type: applic
 
 # test patient_results
 
-patient_date_counts
-patient_date_range
-patient_results
+# patient_date_counts
 
 curl https://dan-reznik.ocpu.io/AzorPkg2/R/patient_date_counts/json -H "Content-Type: application/json" -d '{"patient_id":1}'
 
-# patient_results <- function(patient_id,ymd_min=NULL,ymd_max=NULL)
+# patient_date_range
 
+
+
+# patient_results <- function(patient_id,ymd_min=NULL,ymd_max=NULL)
 
 curl https://dan-reznik.ocpu.io/AzorPkg2/R/patient_results/json -H "Content-Type: application/json" -d '{"patient_id":1}'
 

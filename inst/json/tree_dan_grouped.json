@@ -1,6 +1,6 @@
 {
-    "name": "19670522_Dan Silva",
-    "name_to_print": "Dan Silva",
+    "name": "Dan da Silva",
+    "name_to_print": "Dan da Silva",
     "children": [
         {
             "name": "1001_Sangue",
@@ -15,11 +15,11 @@
                             "name_to_print": "Série Vermelha",
                             "children": [
                                 {
-                                    "name": "0001_Contagem de Hemacias",
-                                    "name_to_print": "Contagem de Hemacias (milhoes/mm3)",
+                                    "name": "0001_Contagem de Hemácias",
+                                    "name_to_print": "Contagem de Hemácias (milhoes/mm3)",
                                     "children": [
                                         {
-                                            "name": "20170828_0001_Contagem de Hemacias",
+                                            "name": "20170828_0001_Contagem de Hemácias",
                                             "name_to_print": "28/08/17: 4.96",
                                             "id_valor": 1,
                                             "valor": "4.96",
@@ -28,7 +28,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20170119_0001_Contagem de Hemacias",
+                                            "name": "20170119_0001_Contagem de Hemácias",
                                             "name_to_print": "19/01/17: 4.61",
                                             "id_valor": 1,
                                             "valor": "4.61",
@@ -37,7 +37,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20160622_0001_Contagem de Hemacias",
+                                            "name": "20160622_0001_Contagem de Hemácias",
                                             "name_to_print": "22/06/16: 5.07",
                                             "id_valor": 1,
                                             "valor": "5.07",
@@ -46,7 +46,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20150206_0001_Contagem de Hemacias",
+                                            "name": "20150206_0001_Contagem de Hemácias",
                                             "name_to_print": "06/02/15: 5.02",
                                             "id_valor": 1,
                                             "valor": "5.02",
@@ -55,7 +55,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20150206_0001_Contagem de Hemacias",
+                                            "name": "20150206_0001_Contagem de Hemácias",
                                             "name_to_print": "06/02/15: 5.02",
                                             "id_valor": 1,
                                             "valor": "5.02",
@@ -64,7 +64,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20131028_0001_Contagem de Hemacias",
+                                            "name": "20131028_0001_Contagem de Hemácias",
                                             "name_to_print": "28/10/13: 4.89",
                                             "id_valor": 1,
                                             "valor": "4.89",
@@ -135,11 +135,11 @@
                                     ]
                                 },
                                 {
-                                    "name": "0003_Avaliacao do Hematocrito",
-                                    "name_to_print": "Avaliacao do Hematocrito",
+                                    "name": "0003_Avaliação do Hematócrito",
+                                    "name_to_print": "Avaliação do Hematócrito",
                                     "children": [
                                         {
-                                            "name": "20170828_0003_Avaliacao do Hematocrito",
+                                            "name": "20170828_0003_Avaliação do Hematócrito",
                                             "name_to_print": "28/08/17: 44.5%",
                                             "id_valor": 3,
                                             "valor": "44.5",
@@ -148,7 +148,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20170119_0003_Avaliacao do Hematocrito",
+                                            "name": "20170119_0003_Avaliação do Hematócrito",
                                             "name_to_print": "19/01/17: 41.2%",
                                             "id_valor": 3,
                                             "valor": "41.2",
@@ -157,7 +157,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20160622_0003_Avaliacao do Hematocrito",
+                                            "name": "20160622_0003_Avaliação do Hematócrito",
                                             "name_to_print": "22/06/16: 45.1%",
                                             "id_valor": 3,
                                             "valor": "45.1",
@@ -166,7 +166,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20150206_0003_Avaliacao do Hematocrito",
+                                            "name": "20150206_0003_Avaliação do Hematócrito",
                                             "name_to_print": "06/02/15: 44.8%",
                                             "id_valor": 3,
                                             "valor": "44.8",
@@ -175,7 +175,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20150206_0003_Avaliacao do Hematocrito",
+                                            "name": "20150206_0003_Avaliação do Hematócrito",
                                             "name_to_print": "06/02/15: 44.8%",
                                             "id_valor": 3,
                                             "valor": "44.8",
@@ -184,7 +184,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20131028_0003_Avaliacao do Hematocrito",
+                                            "name": "20131028_0003_Avaliação do Hematócrito",
                                             "name_to_print": "28/10/13: 43.2%",
                                             "id_valor": 3,
                                             "valor": "43.2",
@@ -195,11 +195,11 @@
                                     ]
                                 },
                                 {
-                                    "name": "0004_Volume Globular Medio",
-                                    "name_to_print": "Volume Globular Medio (fL)",
+                                    "name": "0004_Volume Globular Médio",
+                                    "name_to_print": "Volume Globular Médio (fL)",
                                     "children": [
                                         {
-                                            "name": "20170828_0004_Volume Globular Medio",
+                                            "name": "20170828_0004_Volume Globular Médio",
                                             "name_to_print": "28/08/17: 89.7",
                                             "id_valor": 4,
                                             "valor": "89.7",
@@ -208,7 +208,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20170119_0004_Volume Globular Medio",
+                                            "name": "20170119_0004_Volume Globular Médio",
                                             "name_to_print": "19/01/17: 89.4",
                                             "id_valor": 4,
                                             "valor": "89.4",
@@ -217,7 +217,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20160622_0004_Volume Globular Medio",
+                                            "name": "20160622_0004_Volume Globular Médio",
                                             "name_to_print": "22/06/16: 30.4",
                                             "id_valor": 4,
                                             "valor": "30.4",
@@ -226,7 +226,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20150206_0004_Volume Globular Medio",
+                                            "name": "20150206_0004_Volume Globular Médio",
                                             "name_to_print": "06/02/15: 89.2",
                                             "id_valor": 4,
                                             "valor": "89.2",
@@ -235,7 +235,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20150206_0004_Volume Globular Medio",
+                                            "name": "20150206_0004_Volume Globular Médio",
                                             "name_to_print": "06/02/15: 89.2",
                                             "id_valor": 4,
                                             "valor": "89.2",
@@ -244,7 +244,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20131028_0004_Volume Globular Medio",
+                                            "name": "20131028_0004_Volume Globular Médio",
                                             "name_to_print": "28/10/13: 88.3",
                                             "id_valor": 4,
                                             "valor": "88.3",
@@ -315,11 +315,11 @@
                                     ]
                                 },
                                 {
-                                    "name": "0006_Concentracao da Hemoglobina Glob Media",
-                                    "name_to_print": "Concentracao da Hemoglobina Glob Media (g/dL)",
+                                    "name": "0006_Concentração da Hemoglobina Glob. Media",
+                                    "name_to_print": "Concentração da Hemoglobina Glob. Media (g/dL)",
                                     "children": [
                                         {
-                                            "name": "20170828_0006_Concentracao da Hemoglobina Glob Media",
+                                            "name": "20170828_0006_Concentração da Hemoglobina Glob. Media",
                                             "name_to_print": "28/08/17: 33",
                                             "id_valor": 6,
                                             "valor": "33",
@@ -328,7 +328,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20170119_0006_Concentracao da Hemoglobina Glob Media",
+                                            "name": "20170119_0006_Concentração da Hemoglobina Glob. Media",
                                             "name_to_print": "19/01/17: 33.7",
                                             "id_valor": 6,
                                             "valor": "33.7",
@@ -337,7 +337,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20160622_0006_Concentracao da Hemoglobina Glob Media",
+                                            "name": "20160622_0006_Concentração da Hemoglobina Glob. Media",
                                             "name_to_print": "22/06/16: 34.1",
                                             "id_valor": 6,
                                             "valor": "34.1",
@@ -346,7 +346,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20150206_0006_Concentracao da Hemoglobina Glob Media",
+                                            "name": "20150206_0006_Concentração da Hemoglobina Glob. Media",
                                             "name_to_print": "06/02/15: 33.7",
                                             "id_valor": 6,
                                             "valor": "33.7",
@@ -355,7 +355,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20150206_0006_Concentracao da Hemoglobina Glob Media",
+                                            "name": "20150206_0006_Concentração da Hemoglobina Glob. Media",
                                             "name_to_print": "06/02/15: 33.7",
                                             "id_valor": 6,
                                             "valor": "33.7",
@@ -364,7 +364,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20131028_0006_Concentracao da Hemoglobina Glob Media",
+                                            "name": "20131028_0006_Concentração da Hemoglobina Glob. Media",
                                             "name_to_print": "28/10/13: 33.6",
                                             "id_valor": 6,
                                             "valor": "33.6",
@@ -375,11 +375,11 @@
                                     ]
                                 },
                                 {
-                                    "name": "0007_Indice de Anisocitose (Rdw)",
-                                    "name_to_print": "Indice de Anisocitose (Rdw)",
+                                    "name": "0007_Índice de Anisocitose (Rdw)",
+                                    "name_to_print": "Índice de Anisocitose (Rdw)",
                                     "children": [
                                         {
-                                            "name": "20170828_0007_Indice de Anisocitose (Rdw)",
+                                            "name": "20170828_0007_Índice de Anisocitose (Rdw)",
                                             "name_to_print": "28/08/17: 13.3%",
                                             "id_valor": 7,
                                             "valor": "13.3",
@@ -388,7 +388,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20170119_0007_Indice de Anisocitose (Rdw)",
+                                            "name": "20170119_0007_Índice de Anisocitose (Rdw)",
                                             "name_to_print": "19/01/17: 13.5%",
                                             "id_valor": 7,
                                             "valor": "13.5",
@@ -397,7 +397,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20160622_0007_Indice de Anisocitose (Rdw)",
+                                            "name": "20160622_0007_Índice de Anisocitose (Rdw)",
                                             "name_to_print": "22/06/16: 13%",
                                             "id_valor": 7,
                                             "valor": "13",
@@ -406,7 +406,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20150206_0007_Indice de Anisocitose (Rdw)",
+                                            "name": "20150206_0007_Índice de Anisocitose (Rdw)",
                                             "name_to_print": "06/02/15: 13.2%",
                                             "id_valor": 7,
                                             "valor": "13.2",
@@ -415,7 +415,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20150206_0007_Indice de Anisocitose (Rdw)",
+                                            "name": "20150206_0007_Índice de Anisocitose (Rdw)",
                                             "name_to_print": "06/02/15: 13.2%",
                                             "id_valor": 7,
                                             "valor": "13.2",
@@ -424,7 +424,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20131028_0007_Indice de Anisocitose (Rdw)",
+                                            "name": "20131028_0007_Índice de Anisocitose (Rdw)",
                                             "name_to_print": "28/10/13: 13%",
                                             "id_valor": 7,
                                             "valor": "13",
@@ -441,11 +441,11 @@
                             "name_to_print": "Série Branca",
                             "children": [
                                 {
-                                    "name": "0008_Contagem de Leucocitos",
-                                    "name_to_print": "Contagem de Leucocitos (mil/mm3)",
+                                    "name": "0008_Contagem de Leucócitos",
+                                    "name_to_print": "Contagem de Leucócitos (mil/mm3)",
                                     "children": [
                                         {
-                                            "name": "20170828_0008_Contagem de Leucocitos",
+                                            "name": "20170828_0008_Contagem de Leucócitos",
                                             "name_to_print": "28/08/17: 7.1",
                                             "id_valor": 8,
                                             "valor": "7.1",
@@ -454,7 +454,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20170119_0008_Contagem de Leucocitos",
+                                            "name": "20170119_0008_Contagem de Leucócitos",
                                             "name_to_print": "19/01/17: 5.8",
                                             "id_valor": 8,
                                             "valor": "5.8",
@@ -463,7 +463,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20160622_0008_Contagem de Leucocitos",
+                                            "name": "20160622_0008_Contagem de Leucócitos",
                                             "name_to_print": "22/06/16: 6.5",
                                             "id_valor": 8,
                                             "valor": "6.5",
@@ -472,7 +472,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20150206_0008_Contagem de Leucocitos",
+                                            "name": "20150206_0008_Contagem de Leucócitos",
                                             "name_to_print": "06/02/15: 5.9",
                                             "id_valor": 8,
                                             "valor": "5.9",
@@ -481,7 +481,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20150206_0008_Contagem de Leucocitos",
+                                            "name": "20150206_0008_Contagem de Leucócitos",
                                             "name_to_print": "06/02/15: 5.9",
                                             "id_valor": 8,
                                             "valor": "5.9",
@@ -490,7 +490,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20131028_0008_Contagem de Leucocitos",
+                                            "name": "20131028_0008_Contagem de Leucócitos",
                                             "name_to_print": "28/10/13: 6.3",
                                             "id_valor": 8,
                                             "valor": "6.3",
@@ -501,11 +501,11 @@
                                     ]
                                 },
                                 {
-                                    "name": "0009_Basofilos",
-                                    "name_to_print": "Basofilos (0/mm3)",
+                                    "name": "0009_Basófilos",
+                                    "name_to_print": "Basófilos (0/mm3)",
                                     "children": [
                                         {
-                                            "name": "20170828_0009_Basofilos",
+                                            "name": "20170828_0009_Basófilos",
                                             "name_to_print": "28/08/17: 0%",
                                             "id_valor": 9,
                                             "valor": "0",
@@ -514,7 +514,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20170119_0009_Basofilos",
+                                            "name": "20170119_0009_Basófilos",
                                             "name_to_print": "19/01/17: 0%",
                                             "id_valor": 9,
                                             "valor": "0",
@@ -523,7 +523,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20160622_0009_Basofilos",
+                                            "name": "20160622_0009_Basófilos",
                                             "name_to_print": "22/06/16: 0%",
                                             "id_valor": 9,
                                             "valor": "0",
@@ -532,7 +532,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20150206_0009_Basofilos",
+                                            "name": "20150206_0009_Basófilos",
                                             "name_to_print": "06/02/15: 0.2%",
                                             "id_valor": 9,
                                             "valor": "0.2",
@@ -541,7 +541,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20150206_0009_Basofilos",
+                                            "name": "20150206_0009_Basófilos",
                                             "name_to_print": "06/02/15: 0.2%",
                                             "id_valor": 9,
                                             "valor": "0.2",
@@ -550,7 +550,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20131028_0009_Basofilos",
+                                            "name": "20131028_0009_Basófilos",
                                             "name_to_print": "28/10/13: 0%",
                                             "id_valor": 9,
                                             "valor": "0",
@@ -561,11 +561,11 @@
                                     ]
                                 },
                                 {
-                                    "name": "0010_Eosinofilos",
-                                    "name_to_print": "Eosinofilos (268/mm3)",
+                                    "name": "0010_Eosinófilos",
+                                    "name_to_print": "Eosinófilos (268/mm3)",
                                     "children": [
                                         {
-                                            "name": "20170828_0010_Eosinofilos",
+                                            "name": "20170828_0010_Eosinófilos",
                                             "name_to_print": "28/08/17: 4%",
                                             "id_valor": 10,
                                             "valor": "4",
@@ -574,7 +574,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20170119_0010_Eosinofilos",
+                                            "name": "20170119_0010_Eosinófilos",
                                             "name_to_print": "19/01/17: 1%",
                                             "id_valor": 10,
                                             "valor": "1",
@@ -583,7 +583,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20160622_0010_Eosinofilos",
+                                            "name": "20160622_0010_Eosinófilos",
                                             "name_to_print": "22/06/16: 1%",
                                             "id_valor": 10,
                                             "valor": "1",
@@ -592,7 +592,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20150206_0010_Eosinofilos",
+                                            "name": "20150206_0010_Eosinófilos",
                                             "name_to_print": "06/02/15: 2%",
                                             "id_valor": 10,
                                             "valor": "2",
@@ -601,7 +601,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20150206_0010_Eosinofilos",
+                                            "name": "20150206_0010_Eosinófilos",
                                             "name_to_print": "06/02/15: 2%",
                                             "id_valor": 10,
                                             "valor": "2",
@@ -610,7 +610,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20131028_0010_Eosinofilos",
+                                            "name": "20131028_0010_Eosinófilos",
                                             "name_to_print": "28/10/13: 2%",
                                             "id_valor": 10,
                                             "valor": "2",
@@ -621,11 +621,11 @@
                                     ]
                                 },
                                 {
-                                    "name": "0011_Neutrofilos Mielocitos",
-                                    "name_to_print": "Neutrofilos Mielocitos (0/mm3)",
+                                    "name": "0011_Neutrófilos Mielócitos",
+                                    "name_to_print": "Neutrófilos Mielócitos (0/mm3)",
                                     "children": [
                                         {
-                                            "name": "20170828_0011_Neutrofilos Mielocitos",
+                                            "name": "20170828_0011_Neutrófilos Mielócitos",
                                             "name_to_print": "28/08/17: 0%",
                                             "id_valor": 11,
                                             "valor": "0",
@@ -634,7 +634,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20170119_0011_Neutrofilos Mielocitos",
+                                            "name": "20170119_0011_Neutrófilos Mielócitos",
                                             "name_to_print": "19/01/17: 0%",
                                             "id_valor": 11,
                                             "valor": "0",
@@ -643,7 +643,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20160622_0011_Neutrofilos Mielocitos",
+                                            "name": "20160622_0011_Neutrófilos Mielócitos",
                                             "name_to_print": "22/06/16: 0%",
                                             "id_valor": 11,
                                             "valor": "0",
@@ -652,7 +652,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20131028_0011_Neutrofilos Mielocitos",
+                                            "name": "20131028_0011_Neutrófilos Mielócitos",
                                             "name_to_print": "28/10/13: 0%",
                                             "id_valor": 11,
                                             "valor": "0",
@@ -705,11 +705,11 @@
                                     ]
                                 },
                                 {
-                                    "name": "0013_Bastoes",
-                                    "name_to_print": "Bastoes (67/mm3)",
+                                    "name": "0013_Bastões",
+                                    "name_to_print": "Bastões (67/mm3)",
                                     "children": [
                                         {
-                                            "name": "20170828_0013_Bastoes",
+                                            "name": "20170828_0013_Bastões",
                                             "name_to_print": "28/08/17: 2%",
                                             "id_valor": 13,
                                             "valor": "2",
@@ -718,7 +718,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20170119_0013_Bastoes",
+                                            "name": "20170119_0013_Bastões",
                                             "name_to_print": "19/01/17: 3%",
                                             "id_valor": 13,
                                             "valor": "3",
@@ -727,7 +727,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20160622_0013_Bastoes",
+                                            "name": "20160622_0013_Bastões",
                                             "name_to_print": "22/06/16: 2%",
                                             "id_valor": 13,
                                             "valor": "2",
@@ -736,7 +736,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20131028_0013_Bastoes",
+                                            "name": "20131028_0013_Bastões",
                                             "name_to_print": "28/10/13: 2%",
                                             "id_valor": 13,
                                             "valor": "2",
@@ -789,11 +789,11 @@
                                     ]
                                 },
                                 {
-                                    "name": "0015_Linfocitos",
-                                    "name_to_print": "Linfocitos (2.077/mm3)",
+                                    "name": "0015_Linfócitos",
+                                    "name_to_print": "Linfócitos (2.077/mm3)",
                                     "children": [
                                         {
-                                            "name": "20170828_0015_Linfocitos",
+                                            "name": "20170828_0015_Linfócitos",
                                             "name_to_print": "28/08/17: 48%",
                                             "id_valor": 15,
                                             "valor": "48",
@@ -802,7 +802,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20170119_0015_Linfocitos",
+                                            "name": "20170119_0015_Linfócitos",
                                             "name_to_print": "19/01/17: 42%",
                                             "id_valor": 15,
                                             "valor": "42",
@@ -811,7 +811,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20160622_0015_Linfocitos",
+                                            "name": "20160622_0015_Linfócitos",
                                             "name_to_print": "22/06/16: 45%",
                                             "id_valor": 15,
                                             "valor": "45",
@@ -820,7 +820,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20150206_0015_Linfocitos",
+                                            "name": "20150206_0015_Linfócitos",
                                             "name_to_print": "06/02/15: 38.6%",
                                             "id_valor": 15,
                                             "valor": "38.6",
@@ -829,7 +829,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20150206_0015_Linfocitos",
+                                            "name": "20150206_0015_Linfócitos",
                                             "name_to_print": "06/02/15: 38.6%",
                                             "id_valor": 15,
                                             "valor": "38.6",
@@ -838,7 +838,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20131028_0015_Linfocitos",
+                                            "name": "20131028_0015_Linfócitos",
                                             "name_to_print": "28/10/13: 43%",
                                             "id_valor": 15,
                                             "valor": "43",
@@ -849,11 +849,11 @@
                                     ]
                                 },
                                 {
-                                    "name": "0016_Monocitos",
-                                    "name_to_print": "Monocitos (670/mm3)",
+                                    "name": "0016_Monócitos",
+                                    "name_to_print": "Monócitos (670/mm3)",
                                     "children": [
                                         {
-                                            "name": "20170828_0016_Monocitos",
+                                            "name": "20170828_0016_Monócitos",
                                             "name_to_print": "28/08/17: 8%",
                                             "id_valor": 16,
                                             "valor": "8",
@@ -862,7 +862,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20170119_0016_Monocitos",
+                                            "name": "20170119_0016_Monócitos",
                                             "name_to_print": "19/01/17: 6%",
                                             "id_valor": 16,
                                             "valor": "6",
@@ -871,7 +871,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20160622_0016_Monocitos",
+                                            "name": "20160622_0016_Monócitos",
                                             "name_to_print": "22/06/16: 8%",
                                             "id_valor": 16,
                                             "valor": "8",
@@ -880,7 +880,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20150206_0016_Monocitos",
+                                            "name": "20150206_0016_Monócitos",
                                             "name_to_print": "06/02/15: 8%",
                                             "id_valor": 16,
                                             "valor": "8",
@@ -889,7 +889,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20150206_0016_Monocitos",
+                                            "name": "20150206_0016_Monócitos",
                                             "name_to_print": "06/02/15: 8%",
                                             "id_valor": 16,
                                             "valor": "8",
@@ -898,7 +898,7 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20131028_0016_Monocitos",
+                                            "name": "20131028_0016_Monócitos",
                                             "name_to_print": "28/10/13: 7%",
                                             "id_valor": 16,
                                             "valor": "7",
@@ -1215,11 +1215,11 @@
                                     ]
                                 },
                                 {
-                                    "name": "0058_Proteina C Reativa Ultra-Sensivel",
-                                    "name_to_print": "Proteina C Reativa Ultra-Sensivel (mg/dL)",
+                                    "name": "0058_Proteína C Reativa Ultrassensível",
+                                    "name_to_print": "Proteína C Reativa Ultrassensível (mg/dL)",
                                     "children": [
                                         {
-                                            "name": "20170119_0058_Proteina C Reativa Ultra-Sensivel",
+                                            "name": "20170119_0058_Proteína C Reativa Ultrassensível",
                                             "name_to_print": "19/01/17: 0.08",
                                             "id_valor": 58,
                                             "valor": "0.08",
@@ -1228,7 +1228,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20150206_0058_Proteina C Reativa Ultra-Sensivel",
+                                            "name": "20150206_0058_Proteína C Reativa Ultrassensível",
                                             "name_to_print": "06/02/15: 0.08",
                                             "id_valor": 58,
                                             "valor": "0.08",
@@ -1237,7 +1237,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20150206_0058_Proteina C Reativa Ultra-Sensivel",
+                                            "name": "20150206_0058_Proteína C Reativa Ultrassensível",
                                             "name_to_print": "06/02/15: 0.08",
                                             "id_valor": 58,
                                             "valor": "0.08",
@@ -1311,11 +1311,11 @@
                             "name_to_print": "Inorgânica",
                             "children": [
                                 {
-                                    "name": "0030_Sodio",
-                                    "name_to_print": "Sodio (mEq/L)",
+                                    "name": "0030_Sódio",
+                                    "name_to_print": "Sódio (mEq/L)",
                                     "children": [
                                         {
-                                            "name": "20170828_0030_Sodio",
+                                            "name": "20170828_0030_Sódio",
                                             "name_to_print": "28/08/17: 140",
                                             "id_valor": 30,
                                             "valor": "140",
@@ -1324,7 +1324,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20160622_0030_Sodio",
+                                            "name": "20160622_0030_Sódio",
                                             "name_to_print": "22/06/16: 140",
                                             "id_valor": 30,
                                             "valor": "140",
@@ -1335,11 +1335,11 @@
                                     ]
                                 },
                                 {
-                                    "name": "0031_Potassio",
-                                    "name_to_print": "Potassio (mEq/L)",
+                                    "name": "0031_Potássio",
+                                    "name_to_print": "Potássio (mEq/L)",
                                     "children": [
                                         {
-                                            "name": "20170828_0031_Potassio",
+                                            "name": "20170828_0031_Potássio",
                                             "name_to_print": "28/08/17: 4.3",
                                             "id_valor": 31,
                                             "valor": "4.3",
@@ -1348,7 +1348,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20170119_0031_Potassio",
+                                            "name": "20170119_0031_Potássio",
                                             "name_to_print": "19/01/17: 4.7",
                                             "id_valor": 31,
                                             "valor": "4.7",
@@ -1357,7 +1357,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20160622_0031_Potassio",
+                                            "name": "20160622_0031_Potássio",
                                             "name_to_print": "22/06/16: 4",
                                             "id_valor": 31,
                                             "valor": "4",
@@ -1366,7 +1366,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20150206_0031_Potassio",
+                                            "name": "20150206_0031_Potássio",
                                             "name_to_print": "06/02/15: 4.5",
                                             "id_valor": 31,
                                             "valor": "4.5",
@@ -1375,7 +1375,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20150206_0031_Potassio",
+                                            "name": "20150206_0031_Potássio",
                                             "name_to_print": "06/02/15: 4.5",
                                             "id_valor": 31,
                                             "valor": "4.5",
@@ -1452,11 +1452,11 @@
                                     ]
                                 },
                                 {
-                                    "name": "0029_Fosforo Inorganico",
-                                    "name_to_print": "Fosforo Inorganico (mg/dL)",
+                                    "name": "0029_Fosforo Inorgânico",
+                                    "name_to_print": "Fosforo Inorgânico (mg/dL)",
                                     "children": [
                                         {
-                                            "name": "20170119_0029_Fosforo Inorganico",
+                                            "name": "20170119_0029_Fosforo Inorgânico",
                                             "name_to_print": "19/01/17: 3.5",
                                             "id_valor": 29,
                                             "valor": "3.5",
@@ -1465,7 +1465,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20150206_0029_Fosforo Inorganico",
+                                            "name": "20150206_0029_Fosforo Inorgânico",
                                             "name_to_print": "06/02/15: 2.9",
                                             "id_valor": 29,
                                             "valor": "2.9",
@@ -1474,7 +1474,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20150206_0029_Fosforo Inorganico",
+                                            "name": "20150206_0029_Fosforo Inorgânico",
                                             "name_to_print": "06/02/15: 2.9",
                                             "id_valor": 29,
                                             "valor": "2.9",
@@ -1485,11 +1485,11 @@
                                     ]
                                 },
                                 {
-                                    "name": "0032_Magnesio",
-                                    "name_to_print": "Magnesio (mg/dL)",
+                                    "name": "0032_Magnésio",
+                                    "name_to_print": "Magnésio (mg/dL)",
                                     "children": [
                                         {
-                                            "name": "20170119_0032_Magnesio",
+                                            "name": "20170119_0032_Magnésio",
                                             "name_to_print": "19/01/17: 2",
                                             "id_valor": 32,
                                             "valor": "2",
@@ -1498,7 +1498,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20150206_0032_Magnesio",
+                                            "name": "20150206_0032_Magnésio",
                                             "name_to_print": "06/02/15: 2.1",
                                             "id_valor": 32,
                                             "valor": "2.1",
@@ -1507,7 +1507,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20150206_0032_Magnesio",
+                                            "name": "20150206_0032_Magnésio",
                                             "name_to_print": "06/02/15: 2.1",
                                             "id_valor": 32,
                                             "valor": "2.1",
@@ -1518,11 +1518,11 @@
                                     ]
                                 },
                                 {
-                                    "name": "0060_Acido Folico",
-                                    "name_to_print": "Acido Folico (ng/mL)",
+                                    "name": "0060_Acido Fólico",
+                                    "name_to_print": "Acido Fólico (ng/mL)",
                                     "children": [
                                         {
-                                            "name": "20170119_0060_Acido Folico",
+                                            "name": "20170119_0060_Acido Fólico",
                                             "name_to_print": "19/01/17: 15.04",
                                             "id_valor": 60,
                                             "valor": "15.04",
@@ -1531,7 +1531,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20150206_0060_Acido Folico",
+                                            "name": "20150206_0060_Acido Fólico",
                                             "name_to_print": "06/02/15: 8.9",
                                             "id_valor": 60,
                                             "valor": "8.9",
@@ -1540,7 +1540,7 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20150206_0060_Acido Folico",
+                                            "name": "20150206_0060_Acido Fólico",
                                             "name_to_print": "06/02/15: 8.9",
                                             "id_valor": 60,
                                             "valor": "8.9",
@@ -2036,11 +2036,11 @@
                     "name_to_print": "Hepatograma",
                     "children": [
                         {
-                            "name": "0034_Proteinas Totais",
-                            "name_to_print": "Proteinas Totais (g/dL)",
+                            "name": "0034_Proteínas Totais",
+                            "name_to_print": "Proteínas Totais (g/dL)",
                             "children": [
                                 {
-                                    "name": "20170119_0034_Proteinas Totais",
+                                    "name": "20170119_0034_Proteínas Totais",
                                     "name_to_print": "19/01/17: 6.9",
                                     "id_valor": 34,
                                     "valor": "6.9",
@@ -2051,11 +2051,11 @@
                             ]
                         },
                         {
-                            "name": "0035_Transaminase Piruvica (Alt)",
-                            "name_to_print": "Transaminase Piruvica (Alt) (U/L)",
+                            "name": "0035_Transaminase Pirúvica (Alt)",
+                            "name_to_print": "Transaminase Pirúvica (Alt) (U/L)",
                             "children": [
                                 {
-                                    "name": "20170119_0035_Transaminase Piruvica (Alt)",
+                                    "name": "20170119_0035_Transaminase Pirúvica (Alt)",
                                     "name_to_print": "19/01/17: 14",
                                     "id_valor": 35,
                                     "valor": "14",
@@ -2064,7 +2064,7 @@
                                     "tipo": "Nu"
                                 },
                                 {
-                                    "name": "20150206_0035_Transaminase Piruvica (Alt)",
+                                    "name": "20150206_0035_Transaminase Pirúvica (Alt)",
                                     "name_to_print": "06/02/15: 19",
                                     "id_valor": 35,
                                     "valor": "19",
@@ -2073,7 +2073,7 @@
                                     "tipo": "Nu"
                                 },
                                 {
-                                    "name": "20150206_0035_Transaminase Piruvica (Alt)",
+                                    "name": "20150206_0035_Transaminase Pirúvica (Alt)",
                                     "name_to_print": "06/02/15: 19",
                                     "id_valor": 35,
                                     "valor": "19",
@@ -2084,11 +2084,11 @@
                             ]
                         },
                         {
-                            "name": "0036_Transaminase Oxalacetica (Ast)",
-                            "name_to_print": "Transaminase Oxalacetica (Ast) (U/L)",
+                            "name": "0036_Transaminase Oxalacética (Ast)",
+                            "name_to_print": "Transaminase Oxalacética (Ast) (U/L)",
                             "children": [
                                 {
-                                    "name": "20170119_0036_Transaminase Oxalacetica (Ast)",
+                                    "name": "20170119_0036_Transaminase Oxalacética (Ast)",
                                     "name_to_print": "19/01/17: 16",
                                     "id_valor": 36,
                                     "valor": "16",
@@ -2097,7 +2097,7 @@
                                     "tipo": "Nu"
                                 },
                                 {
-                                    "name": "20150206_0036_Transaminase Oxalacetica (Ast)",
+                                    "name": "20150206_0036_Transaminase Oxalacética (Ast)",
                                     "name_to_print": "06/02/15: 15",
                                     "id_valor": 36,
                                     "valor": "15",
@@ -2106,7 +2106,7 @@
                                     "tipo": "Nu"
                                 },
                                 {
-                                    "name": "20150206_0036_Transaminase Oxalacetica (Ast)",
+                                    "name": "20150206_0036_Transaminase Oxalacética (Ast)",
                                     "name_to_print": "06/02/15: 15",
                                     "id_valor": 36,
                                     "valor": "15",
@@ -2339,11 +2339,11 @@
                             ]
                         },
                         {
-                            "name": "0043_Colesterol - Hdl",
-                            "name_to_print": "Colesterol - Hdl (mg/dL)",
+                            "name": "0043_Colesterol - HDL",
+                            "name_to_print": "Colesterol - HDL (mg/dL)",
                             "children": [
                                 {
-                                    "name": "20170119_0043_Colesterol - Hdl",
+                                    "name": "20170119_0043_Colesterol - HDL",
                                     "name_to_print": "19/01/17: 45",
                                     "id_valor": 43,
                                     "valor": "45",
@@ -2352,7 +2352,7 @@
                                     "tipo": "Nu"
                                 },
                                 {
-                                    "name": "20150206_0043_Colesterol - Hdl",
+                                    "name": "20150206_0043_Colesterol - HDL",
                                     "name_to_print": "06/02/15: 46",
                                     "id_valor": 43,
                                     "valor": "46",
@@ -2361,7 +2361,7 @@
                                     "tipo": "Nu"
                                 },
                                 {
-                                    "name": "20150206_0043_Colesterol - Hdl",
+                                    "name": "20150206_0043_Colesterol - HDL",
                                     "name_to_print": "06/02/15: 46",
                                     "id_valor": 43,
                                     "valor": "46",
@@ -2372,11 +2372,11 @@
                             ]
                         },
                         {
-                            "name": "0044_Triglicerideos",
-                            "name_to_print": "Triglicerideos (mg/dL)",
+                            "name": "0044_Triglicerídeos",
+                            "name_to_print": "Triglicerídeos (mg/dL)",
                             "children": [
                                 {
-                                    "name": "20170119_0044_Triglicerideos",
+                                    "name": "20170119_0044_Triglicerídeos",
                                     "name_to_print": "19/01/17: 148",
                                     "id_valor": 44,
                                     "valor": "148",
@@ -2385,7 +2385,7 @@
                                     "tipo": "Nu"
                                 },
                                 {
-                                    "name": "20150206_0044_Triglicerideos",
+                                    "name": "20150206_0044_Triglicerídeos",
                                     "name_to_print": "06/02/15: 165",
                                     "id_valor": 44,
                                     "valor": "165",
@@ -2394,7 +2394,7 @@
                                     "tipo": "Nu"
                                 },
                                 {
-                                    "name": "20150206_0044_Triglicerideos",
+                                    "name": "20150206_0044_Triglicerídeos",
                                     "name_to_print": "06/02/15: 165",
                                     "id_valor": 44,
                                     "valor": "165",
@@ -2405,11 +2405,11 @@
                             ]
                         },
                         {
-                            "name": "0045_Colesterol - Ldl",
-                            "name_to_print": "Colesterol - Ldl (mg/dL)",
+                            "name": "0045_Colesterol - LDL",
+                            "name_to_print": "Colesterol - LDL (mg/dL)",
                             "children": [
                                 {
-                                    "name": "20170119_0045_Colesterol - Ldl",
+                                    "name": "20170119_0045_Colesterol - LDL",
                                     "name_to_print": "19/01/17: 118",
                                     "id_valor": 45,
                                     "valor": "118",
@@ -2418,7 +2418,7 @@
                                     "tipo": "Nu"
                                 },
                                 {
-                                    "name": "20150206_0045_Colesterol - Ldl",
+                                    "name": "20150206_0045_Colesterol - LDL",
                                     "name_to_print": "06/02/15: 132",
                                     "id_valor": 45,
                                     "valor": "132",
@@ -2427,7 +2427,7 @@
                                     "tipo": "Nu"
                                 },
                                 {
-                                    "name": "20150206_0045_Colesterol - Ldl",
+                                    "name": "20150206_0045_Colesterol - LDL",
                                     "name_to_print": "06/02/15: 132",
                                     "id_valor": 45,
                                     "valor": "132",
@@ -2438,11 +2438,11 @@
                             ]
                         },
                         {
-                            "name": "0046_Colesterol - Vldl",
-                            "name_to_print": "Colesterol - Vldl (mg/dL)",
+                            "name": "0046_Colesterol - VLDL",
+                            "name_to_print": "Colesterol - VLDL (mg/dL)",
                             "children": [
                                 {
-                                    "name": "20170119_0046_Colesterol - Vldl",
+                                    "name": "20170119_0046_Colesterol - VLDL",
                                     "name_to_print": "19/01/17: 30",
                                     "id_valor": 46,
                                     "valor": "30",
@@ -2451,7 +2451,7 @@
                                     "tipo": "Nu"
                                 },
                                 {
-                                    "name": "20150206_0046_Colesterol - Vldl",
+                                    "name": "20150206_0046_Colesterol - VLDL",
                                     "name_to_print": "06/02/15: 33",
                                     "id_valor": 46,
                                     "valor": "33",
@@ -2460,7 +2460,7 @@
                                     "tipo": "Nu"
                                 },
                                 {
-                                    "name": "20150206_0046_Colesterol - Vldl",
+                                    "name": "20150206_0046_Colesterol - VLDL",
                                     "name_to_print": "06/02/15: 33",
                                     "id_valor": 46,
                                     "valor": "33",
@@ -2471,11 +2471,11 @@
                             ]
                         },
                         {
-                            "name": "0047_Colesterol - Nao Hdl",
-                            "name_to_print": "Colesterol - Nao Hdl (mg/dL)",
+                            "name": "0047_Colesterol - NHDL",
+                            "name_to_print": "Colesterol - NHDL (mg/dL)",
                             "children": [
                                 {
-                                    "name": "20170119_0047_Colesterol - Nao Hdl",
+                                    "name": "20170119_0047_Colesterol - NHDL",
                                     "name_to_print": "19/01/17: 148",
                                     "id_valor": 47,
                                     "valor": "148",
@@ -2484,7 +2484,7 @@
                                     "tipo": "Nu"
                                 },
                                 {
-                                    "name": "20150206_0047_Colesterol - Nao Hdl",
+                                    "name": "20150206_0047_Colesterol - NHDL",
                                     "name_to_print": "06/02/15: 165",
                                     "id_valor": 47,
                                     "valor": "165",
@@ -2493,7 +2493,7 @@
                                     "tipo": "Nu"
                                 },
                                 {
-                                    "name": "20150206_0047_Colesterol - Nao Hdl",
+                                    "name": "20150206_0047_Colesterol - NHDL",
                                     "name_to_print": "06/02/15: 165",
                                     "id_valor": 47,
                                     "valor": "165",
@@ -2509,9 +2509,9 @@
                             "children": [
                                 {
                                     "name": "20170119_0048_Aspecto do Soro",
-                                    "name_to_print": "19/01/17: Limpido",
+                                    "name_to_print": "19/01/17: Límpido",
                                     "id_valor": 48,
-                                    "valor": "Limpido",
+                                    "valor": "Límpido",
                                     "unidade": "[Φ]",
                                     "metodo": "enzimatico colorimetrico",
                                     "tipo": "T"
@@ -2564,11 +2564,11 @@
                     "name_to_print": "TSH",
                     "children": [
                         {
-                            "name": "0052_Hormonio Estimulante da Tireoide",
-                            "name_to_print": "Hormonio Estimulante da Tireoide (mcUI/mL)",
+                            "name": "0052_Hormônio Estimulante da Tireoide",
+                            "name_to_print": "Hormônio Estimulante da Tireoide (mcUI/mL)",
                             "children": [
                                 {
-                                    "name": "20170119_0052_Hormonio Estimulante da Tireoide",
+                                    "name": "20170119_0052_Hormônio Estimulante da Tireoide",
                                     "name_to_print": "19/01/17: 3.04",
                                     "id_valor": 52,
                                     "valor": "3.04",
@@ -2577,7 +2577,7 @@
                                     "tipo": "Nu"
                                 },
                                 {
-                                    "name": "20150206_0052_Hormonio Estimulante da Tireoide",
+                                    "name": "20150206_0052_Hormônio Estimulante da Tireoide",
                                     "name_to_print": "06/02/15: 2.4",
                                     "id_valor": 52,
                                     "valor": "2.4",
@@ -2586,7 +2586,7 @@
                                     "tipo": "Nu"
                                 },
                                 {
-                                    "name": "20150206_0052_Hormonio Estimulante da Tireoide",
+                                    "name": "20150206_0052_Hormônio Estimulante da Tireoide",
                                     "name_to_print": "06/02/15: 2.4",
                                     "id_valor": 52,
                                     "valor": "2.4",
@@ -2599,15 +2599,15 @@
                     ]
                 },
                 {
-                    "name": "1017_PTH - Paratormonio (Molecula Inteira)",
-                    "name_to_print": "PTH - Paratormonio (Molecula Inteira)",
+                    "name": "1017_PTH - Paratormônio (Molécula Inteira)",
+                    "name_to_print": "PTH - Paratormônio (Molécula Inteira)",
                     "children": [
                         {
-                            "name": "0063_Paratormonio (Molecula Inteira)",
-                            "name_to_print": "Paratormonio (Molecula Inteira) (pg/mL)",
+                            "name": "0063_Paratormônio (Molécula Inteira)",
+                            "name_to_print": "Paratormônio (Molécula Inteira) (pg/mL)",
                             "children": [
                                 {
-                                    "name": "20170119_0063_Paratormonio (Molecula Inteira)",
+                                    "name": "20170119_0063_Paratormônio (Molécula Inteira)",
                                     "name_to_print": "19/01/17: 42.6",
                                     "id_valor": 63,
                                     "valor": "42.6",
@@ -2616,7 +2616,7 @@
                                     "tipo": "Nu"
                                 },
                                 {
-                                    "name": "20150206_0063_Paratormonio (Molecula Inteira)",
+                                    "name": "20150206_0063_Paratormônio (Molécula Inteira)",
                                     "name_to_print": "06/02/15: 36",
                                     "id_valor": 63,
                                     "valor": "36",
@@ -2625,7 +2625,7 @@
                                     "tipo": "Nu"
                                 },
                                 {
-                                    "name": "20150206_0063_Paratormonio (Molecula Inteira)",
+                                    "name": "20150206_0063_Paratormônio (Molécula Inteira)",
                                     "name_to_print": "06/02/15: 36",
                                     "id_valor": 63,
                                     "valor": "36",
@@ -2642,11 +2642,11 @@
                     "name_to_print": "PSA Total e Livre",
                     "children": [
                         {
-                            "name": "0064_Antigeno Prostatico Especifico Total",
-                            "name_to_print": "Antigeno Prostatico Especifico Total (ng/mL)",
+                            "name": "0064_Antígeno Prostático Especifico Total",
+                            "name_to_print": "Antígeno Prostático Especifico Total (ng/mL)",
                             "children": [
                                 {
-                                    "name": "20170119_0064_Antigeno Prostatico Especifico Total",
+                                    "name": "20170119_0064_Antígeno Prostático Especifico Total",
                                     "name_to_print": "19/01/17: 0.77",
                                     "id_valor": 64,
                                     "valor": "0.77",
@@ -2657,11 +2657,11 @@
                             ]
                         },
                         {
-                            "name": "0065_Ag. Prostatico Especifico, Fracao Livre",
-                            "name_to_print": "Ag. Prostatico Especifico, Fracao Livre (ng/mL)",
+                            "name": "0065_Ag. Prostático Especifico, Fração Livre",
+                            "name_to_print": "Ag. Prostático Especifico, Fração Livre (ng/mL)",
                             "children": [
                                 {
-                                    "name": "20170119_0065_Ag. Prostatico Especifico, Fracao Livre",
+                                    "name": "20170119_0065_Ag. Prostático Especifico, Fração Livre",
                                     "name_to_print": "19/01/17: 0.21",
                                     "id_valor": 65,
                                     "valor": "0.21",
@@ -2672,11 +2672,11 @@
                             ]
                         },
                         {
-                            "name": "0066_Relacao Psa Livre/Psa Total",
-                            "name_to_print": "Relacao Psa Livre/Psa Total",
+                            "name": "0066_Relação PSA Livre/PSA Total",
+                            "name_to_print": "Relação PSA Livre/PSA Total",
                             "children": [
                                 {
-                                    "name": "20170119_0066_Relacao Psa Livre/Psa Total",
+                                    "name": "20170119_0066_Relação PSA Livre/PSA Total",
                                     "name_to_print": "19/01/17: 0.27",
                                     "id_valor": 66,
                                     "valor": "0.27",
@@ -2780,11 +2780,11 @@
                             ]
                         },
                         {
-                            "name": "0100_Testosterona Bidisponivel",
-                            "name_to_print": "Testosterona Bidisponivel (ng/dL)",
+                            "name": "0100_Testosterona Bidisponível",
+                            "name_to_print": "Testosterona Bidisponível (ng/dL)",
                             "children": [
                                 {
-                                    "name": "20170119_0100_Testosterona Bidisponivel",
+                                    "name": "20170119_0100_Testosterona Bidisponível",
                                     "name_to_print": "19/01/17: 204",
                                     "id_valor": 100,
                                     "valor": "204",
@@ -2848,9 +2848,9 @@
                             "children": [
                                 {
                                     "name": "20170828_0081_Aspecto",
-                                    "name_to_print": "28/08/17: Limpido",
+                                    "name_to_print": "28/08/17: Límpido",
                                     "id_valor": 81,
-                                    "valor": "Limpido",
+                                    "valor": "Límpido",
                                     "unidade": "[Φ]",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia optica",
                                     "tipo": "T"
@@ -2866,36 +2866,36 @@
                                 },
                                 {
                                     "name": "20160621_0081_Aspecto",
-                                    "name_to_print": "21/06/16: Limpido",
+                                    "name_to_print": "21/06/16: Límpido",
                                     "id_valor": 81,
-                                    "valor": "Limpido",
+                                    "valor": "Límpido",
                                     "unidade": "[Φ]",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia optica",
                                     "tipo": "T"
                                 },
                                 {
                                     "name": "20150206_0081_Aspecto",
-                                    "name_to_print": "06/02/15: Limpido",
+                                    "name_to_print": "06/02/15: Límpido",
                                     "id_valor": 81,
-                                    "valor": "Limpido",
+                                    "valor": "Límpido",
                                     "unidade": "[Φ]",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia optica",
                                     "tipo": "T"
                                 },
                                 {
                                     "name": "20150206_0081_Aspecto",
-                                    "name_to_print": "06/02/15: Limpido",
+                                    "name_to_print": "06/02/15: Límpido",
                                     "id_valor": 81,
-                                    "valor": "Limpido",
+                                    "valor": "Límpido",
                                     "unidade": "[Φ]",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia optica",
                                     "tipo": "T"
                                 },
                                 {
                                     "name": "20131028_0081_Aspecto",
-                                    "name_to_print": "28/10/13: Limpido",
+                                    "name_to_print": "28/10/13: Límpido",
                                     "id_valor": 81,
-                                    "valor": "Limpido",
+                                    "valor": "Límpido",
                                     "unidade": "[Φ]",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia optica",
                                     "tipo": "T"
@@ -3323,11 +3323,11 @@
                             ]
                         },
                         {
-                            "name": "0089_Pesquisa de Urobilinogenio",
-                            "name_to_print": "Pesquisa de Urobilinogenio",
+                            "name": "0089_Pesquisa de Urobilinogênio",
+                            "name_to_print": "Pesquisa de Urobilinogênio",
                             "children": [
                                 {
-                                    "name": "20170828_0089_Pesquisa de Urobilinogenio",
+                                    "name": "20170828_0089_Pesquisa de Urobilinogênio",
                                     "name_to_print": "28/08/17: Normal",
                                     "id_valor": 89,
                                     "valor": "Normal",
@@ -3336,7 +3336,7 @@
                                     "tipo": "T"
                                 },
                                 {
-                                    "name": "20170119_0089_Pesquisa de Urobilinogenio",
+                                    "name": "20170119_0089_Pesquisa de Urobilinogênio",
                                     "name_to_print": "19/01/17: Normal",
                                     "id_valor": 89,
                                     "valor": "Normal",
@@ -3345,7 +3345,7 @@
                                     "tipo": "T"
                                 },
                                 {
-                                    "name": "20160621_0089_Pesquisa de Urobilinogenio",
+                                    "name": "20160621_0089_Pesquisa de Urobilinogênio",
                                     "name_to_print": "21/06/16: Normal",
                                     "id_valor": 89,
                                     "valor": "Normal",
@@ -3354,7 +3354,7 @@
                                     "tipo": "T"
                                 },
                                 {
-                                    "name": "20150206_0089_Pesquisa de Urobilinogenio",
+                                    "name": "20150206_0089_Pesquisa de Urobilinogênio",
                                     "name_to_print": "06/02/15: Normal",
                                     "id_valor": 89,
                                     "valor": "Normal",
@@ -3363,7 +3363,7 @@
                                     "tipo": "T"
                                 },
                                 {
-                                    "name": "20150206_0089_Pesquisa de Urobilinogenio",
+                                    "name": "20150206_0089_Pesquisa de Urobilinogênio",
                                     "name_to_print": "06/02/15: Normal",
                                     "id_valor": 89,
                                     "valor": "Normal",
@@ -3372,7 +3372,7 @@
                                     "tipo": "T"
                                 },
                                 {
-                                    "name": "20131028_0089_Pesquisa de Urobilinogenio",
+                                    "name": "20131028_0089_Pesquisa de Urobilinogênio",
                                     "name_to_print": "28/10/13: Normal",
                                     "id_valor": 89,
                                     "valor": "Normal",

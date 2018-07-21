@@ -61,7 +61,7 @@ validate_age <- function(df_key_matched,sex,age_days,
                              ~between(age_days,.x,.y)))
     }
   # there should be only one match
-  assert_that(nrow(df_age_matched)==1)
+  assertthat::assert_that(nrow(df_age_matched)==1)
   validate_sex(sex,
                value,
                val_min_hom=df_age_matched$homem_min,
@@ -89,6 +89,8 @@ validate_exam_result <- function(sex,
       validate_age(df_chave,sex,age_in_days_at_exam,exam_value)
   }
 }
+
+age_in_days <- function(exam_ymd, birth_ymd) as.integer(ymd(exam_ymd)-ymd(birth_ymd))
 
 #' @export
 chave_to_id <- function(chave) df_ref_dict %>%
@@ -123,7 +125,7 @@ validate_exams <- function(sex,
   else if (dl<0)
     exam_value_vec <- exam_value_vec[1:length(exam_id_vec)]
   #else if(dl<0) exam_value_vec <- exam_value_vec[1:(length(exam_value_vec)+dl)]
-  age_in_days_at_exam <- as.integer(ymd(exam_ymd)-ymd(birth_ymd))
+  age_in_days_at_exam <- age_in_days(exam_ymd, birth_ymd)
   # deletes from both vectors any NA id's
   na_vec <- is.na(exam_id_vec)
 

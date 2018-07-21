@@ -71,18 +71,6 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20150206_0001_Contagem de Hemácias",
-                                            "name_to_print": "06/02/15: 5.02",
-                                            "id_valor": 1,
-                                            "valor": "5.02",
-                                            "min": 4.4,
-                                            "max": 5.9,
-                                            "valid": true,
-                                            "unidade": "milhoes/mm3",
-                                            "metodo": "automatizado e microscopia ótica",
-                                            "tipo": "Nu"
-                                        },
-                                        {
                                             "name": "20131028_0001_Contagem de Hemácias",
                                             "name_to_print": "28/10/13: 4.89",
                                             "id_valor": 1,
@@ -130,18 +118,6 @@
                                             "name_to_print": "22/06/16: 15.04",
                                             "id_valor": 2,
                                             "valor": "15.04",
-                                            "min": 13,
-                                            "max": 18,
-                                            "valid": true,
-                                            "unidade": "g/dL",
-                                            "metodo": "automatizado e microscopia ótica",
-                                            "tipo": "Nu"
-                                        },
-                                        {
-                                            "name": "20150206_0002_Dosagem da Hemoglobina",
-                                            "name_to_print": "06/02/15: 15.1",
-                                            "id_valor": 2,
-                                            "valor": "15.1",
                                             "min": 13,
                                             "max": 18,
                                             "valid": true,
@@ -229,18 +205,6 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20150206_0003_Avaliação do Hematócrito",
-                                            "name_to_print": "06/02/15: 44.8%",
-                                            "id_valor": 3,
-                                            "valor": "44.8",
-                                            "min": 40,
-                                            "max": 54,
-                                            "valid": true,
-                                            "unidade": "[Φ]",
-                                            "metodo": "automatizado e microscopia ótica",
-                                            "tipo": "%"
-                                        },
-                                        {
                                             "name": "20131028_0003_Avaliação do Hematócrito",
                                             "name_to_print": "28/10/13: 43.2%",
                                             "id_valor": 3,
@@ -308,18 +272,6 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20150206_0004_Volume Globular Médio",
-                                            "name_to_print": "06/02/15: 89.2",
-                                            "id_valor": 4,
-                                            "valor": "89.2",
-                                            "min": 80,
-                                            "max": 96,
-                                            "valid": true,
-                                            "unidade": "fL",
-                                            "metodo": "automatizado e microscopia ótica",
-                                            "tipo": "Nu"
-                                        },
-                                        {
                                             "name": "20131028_0004_Volume Globular Médio",
                                             "name_to_print": "28/10/13: 88.3",
                                             "id_valor": 4,
@@ -367,18 +319,6 @@
                                             "name_to_print": "22/06/16: 30.4",
                                             "id_valor": 5,
                                             "valor": "30.4",
-                                            "min": 27,
-                                            "max": 33,
-                                            "valid": true,
-                                            "unidade": "pg",
-                                            "metodo": "automatizado e microscopia ótica",
-                                            "tipo": "Nu"
-                                        },
-                                        {
-                                            "name": "20150206_0005_Hemoglobina Globular Media",
-                                            "name_to_print": "06/02/15: 30.1",
-                                            "id_valor": 5,
-                                            "valor": "30.1",
                                             "min": 27,
                                             "max": 33,
                                             "valid": true,
@@ -466,18 +406,6 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20150206_0006_Concentração da Hemoglobina Glob. Media",
-                                            "name_to_print": "06/02/15: 33.7",
-                                            "id_valor": 6,
-                                            "valor": "33.7",
-                                            "min": 32,
-                                            "max": 36,
-                                            "valid": true,
-                                            "unidade": "g/dL",
-                                            "metodo": "automatizado e microscopia ótica",
-                                            "tipo": "Nu"
-                                        },
-                                        {
                                             "name": "20131028_0006_Concentração da Hemoglobina Glob. Media",
                                             "name_to_print": "28/10/13: 33.6",
                                             "id_valor": 6,
@@ -525,18 +453,6 @@
                                             "name_to_print": "22/06/16: 13%",
                                             "id_valor": 7,
                                             "valor": "13",
-                                            "min": 11.5,
-                                            "max": 14.5,
-                                            "valid": true,
-                                            "unidade": "[Φ]",
-                                            "metodo": "automatizado e microscopia ótica",
-                                            "tipo": "%"
-                                        },
-                                        {
-                                            "name": "20150206_0007_Índice de Anisocitose (Rdw)",
-                                            "name_to_print": "06/02/15: 13.2%",
-                                            "id_valor": 7,
-                                            "valor": "13.2",
                                             "min": 11.5,
                                             "max": 14.5,
                                             "valid": true,
@@ -630,18 +546,6 @@
                                             "tipo": "Nu"
                                         },
                                         {
-                                            "name": "20150206_0008_Contagem de Leucócitos",
-                                            "name_to_print": "06/02/15: 5.9",
-                                            "id_valor": 8,
-                                            "valor": "5.9",
-                                            "min": 4,
-                                            "max": 11,
-                                            "valid": true,
-                                            "unidade": "mil/mm3",
-                                            "metodo": "automatizado e microscopia ótica",
-                                            "tipo": "Nu"
-                                        },
-                                        {
                                             "name": "20131028_0008_Contagem de Leucócitos",
                                             "name_to_print": "28/10/13: 6.3",
                                             "id_valor": 8,
@@ -709,18 +613,6 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20150206_0009_Basófilos",
-                                            "name_to_print": "06/02/15: 0.2%",
-                                            "id_valor": 9,
-                                            "valor": "0.2",
-                                            "min": 0,
-                                            "max": 1,
-                                            "valid": true,
-                                            "unidade": "0/mm3",
-                                            "metodo": "automatizado e microscopia ótica",
-                                            "tipo": "%"
-                                        },
-                                        {
                                             "name": "20131028_0009_Basófilos",
                                             "name_to_print": "28/10/13: 0%",
                                             "id_valor": 9,
@@ -768,18 +660,6 @@
                                             "name_to_print": "22/06/16: 1%",
                                             "id_valor": 10,
                                             "valor": "1",
-                                            "min": 1,
-                                            "max": 5,
-                                            "valid": true,
-                                            "unidade": "268/mm3",
-                                            "metodo": "automatizado e microscopia ótica",
-                                            "tipo": "%"
-                                        },
-                                        {
-                                            "name": "20150206_0010_Eosinófilos",
-                                            "name_to_print": "06/02/15: 2%",
-                                            "id_valor": 10,
-                                            "valor": "2",
                                             "min": 1,
                                             "max": 5,
                                             "valid": true,
@@ -1063,18 +943,6 @@
                                             "tipo": "%"
                                         },
                                         {
-                                            "name": "20150206_0015_Linfócitos",
-                                            "name_to_print": "06/02/15: 38.6%",
-                                            "id_valor": 15,
-                                            "valor": "38.6",
-                                            "min": 22,
-                                            "max": 45,
-                                            "valid": true,
-                                            "unidade": "2.077/mm3",
-                                            "metodo": "automatizado e microscopia ótica",
-                                            "tipo": "%"
-                                        },
-                                        {
                                             "name": "20131028_0015_Linfócitos",
                                             "name_to_print": "28/10/13: 43%",
                                             "id_valor": 15,
@@ -1120,18 +988,6 @@
                                         {
                                             "name": "20160622_0016_Monócitos",
                                             "name_to_print": "22/06/16: 8%",
-                                            "id_valor": 16,
-                                            "valor": "8",
-                                            "min": 2,
-                                            "max": 10,
-                                            "valid": true,
-                                            "unidade": "670/mm3",
-                                            "metodo": "automatizado e microscopia ótica",
-                                            "tipo": "%"
-                                        },
-                                        {
-                                            "name": "20150206_0016_Monócitos",
-                                            "name_to_print": "06/02/15: 8%",
                                             "id_valor": 16,
                                             "valor": "8",
                                             "min": 2,
@@ -1201,18 +1057,6 @@
                                             "name_to_print": "22/06/16: 222",
                                             "id_valor": 17,
                                             "valor": "222",
-                                            "min": 150,
-                                            "max": 550,
-                                            "valid": true,
-                                            "unidade": "mil/mm3",
-                                            "metodo": "automatizado e microscopia ótica",
-                                            "tipo": "Nu"
-                                        },
-                                        {
-                                            "name": "20150206_0017_Contagem de Plaquetas",
-                                            "name_to_print": "06/02/15: 231",
-                                            "id_valor": 17,
-                                            "valor": "231",
                                             "min": 150,
                                             "max": 550,
                                             "valid": true,
@@ -1308,18 +1152,6 @@
                                     "tipo": "Nu"
                                 },
                                 {
-                                    "name": "20150206_0020_Glicose",
-                                    "name_to_print": "06/02/15: 96",
-                                    "id_valor": 20,
-                                    "valor": "96",
-                                    "min": 70,
-                                    "max": 99,
-                                    "valid": true,
-                                    "unidade": "mg/dL",
-                                    "metodo": "enzimático",
-                                    "tipo": "Nu"
-                                },
-                                {
                                     "name": "20131028_0020_Glicose",
                                     "name_to_print": "28/10/13: 90",
                                     "id_valor": 20,
@@ -1395,18 +1227,6 @@
                                             "unidade": "mg/dL",
                                             "metodo": "cinético uv",
                                             "tipo": "Nu"
-                                        },
-                                        {
-                                            "name": "20150206_0021_Ureia",
-                                            "name_to_print": "06/02/15: 44",
-                                            "id_valor": 21,
-                                            "valor": "44",
-                                            "min": 13,
-                                            "max": 43,
-                                            "valid": false,
-                                            "unidade": "mg/dL",
-                                            "metodo": "cinético uv",
-                                            "tipo": "Nu"
                                         }
                                     ]
                                 },
@@ -1462,18 +1282,6 @@
                                             "unidade": "mg/dL",
                                             "metodo": "colorimétrico",
                                             "tipo": "Nu"
-                                        },
-                                        {
-                                            "name": "20150206_0022_Creatinina",
-                                            "name_to_print": "06/02/15: 1.2",
-                                            "id_valor": 22,
-                                            "valor": "1.2",
-                                            "min": 0.7,
-                                            "max": 1.3,
-                                            "valid": true,
-                                            "unidade": "mg/dL",
-                                            "metodo": "colorimétrico",
-                                            "tipo": "Nu"
                                         }
                                     ]
                                 },
@@ -1487,18 +1295,6 @@
                                             "name_to_print": "19/01/17: 55",
                                             "id_valor": 26,
                                             "valor": "55",
-                                            "min": 25,
-                                            "max": 110,
-                                            "valid": true,
-                                            "unidade": "U/L",
-                                            "metodo": "enzimático colorimétrico",
-                                            "tipo": "Nu"
-                                        },
-                                        {
-                                            "name": "20150206_0026_Amilase",
-                                            "name_to_print": "06/02/15: 63",
-                                            "id_valor": 26,
-                                            "valor": "63",
                                             "min": 25,
                                             "max": 110,
                                             "valid": true,
@@ -1548,18 +1344,6 @@
                                             "unidade": "U/L",
                                             "metodo": "enzimático colorimétrico",
                                             "tipo": "Nu"
-                                        },
-                                        {
-                                            "name": "20150206_0027_Lipase",
-                                            "name_to_print": "06/02/15: 32",
-                                            "id_valor": 27,
-                                            "valor": "32",
-                                            "min": 13,
-                                            "max": 60,
-                                            "valid": true,
-                                            "unidade": "U/L",
-                                            "metodo": "enzimático colorimétrico",
-                                            "tipo": "Nu"
                                         }
                                     ]
                                 },
@@ -1571,18 +1355,6 @@
                                         {
                                             "name": "20170119_0058_Proteína C Reativa Ultrassensível",
                                             "name_to_print": "19/01/17: 0.08",
-                                            "id_valor": 58,
-                                            "valor": "0.08",
-                                            "min": 0,
-                                            "max": 0.3,
-                                            "valid": true,
-                                            "unidade": "mg/dL",
-                                            "metodo": "imunoturbidimétrico",
-                                            "tipo": "Nu"
-                                        },
-                                        {
-                                            "name": "20150206_0058_Proteína C Reativa Ultrassensível",
-                                            "name_to_print": "06/02/15: 0.08",
                                             "id_valor": 58,
                                             "valor": "0.08",
                                             "min": 0,
@@ -1634,18 +1406,6 @@
                                             "unidade": "ng/mL",
                                             "metodo": "ensaio imunoenzimático",
                                             "tipo": "Nu"
-                                        },
-                                        {
-                                            "name": "20150206_0061_Ferritina",
-                                            "name_to_print": "06/02/15: 168",
-                                            "id_valor": 61,
-                                            "valor": "168",
-                                            "min": 24,
-                                            "max": 336,
-                                            "valid": true,
-                                            "unidade": "ng/mL",
-                                            "metodo": "ensaio imunoenzimático",
-                                            "tipo": "Nu"
                                         }
                                     ]
                                 },
@@ -1654,18 +1414,6 @@
                                     "id_series": 49,
                                     "name_to_print": "Creatino Quinase Total (U/L)",
                                     "children": [
-                                        {
-                                            "name": "20150206_0049_Creatino Quinase Total",
-                                            "name_to_print": "06/02/15: 120",
-                                            "id_valor": 49,
-                                            "valor": "120",
-                                            "min": 0,
-                                            "max": 190,
-                                            "valid": true,
-                                            "unidade": "U/L",
-                                            "metodo": "cinético uv",
-                                            "tipo": "Nu"
-                                        },
                                         {
                                             "name": "20150206_0049_Creatino Quinase Total",
                                             "name_to_print": "06/02/15: 120",
@@ -1769,18 +1517,6 @@
                                             "unidade": "mEq/L",
                                             "metodo": "eletrodo seletivo",
                                             "tipo": "Nu"
-                                        },
-                                        {
-                                            "name": "20150206_0031_Potássio",
-                                            "name_to_print": "06/02/15: 4.5",
-                                            "id_valor": 31,
-                                            "valor": "4.5",
-                                            "min": 3.5,
-                                            "max": 5.3,
-                                            "valid": true,
-                                            "unidade": "mEq/L",
-                                            "metodo": "eletrodo seletivo",
-                                            "tipo": "Nu"
                                         }
                                     ]
                                 },
@@ -1792,18 +1528,6 @@
                                         {
                                             "name": "20170119_0023_Ferro",
                                             "name_to_print": "19/01/17: 129",
-                                            "id_valor": 23,
-                                            "valor": "129",
-                                            "min": 59,
-                                            "max": 160,
-                                            "valid": true,
-                                            "unidade": "mcg/dL",
-                                            "metodo": "colorimétrico",
-                                            "tipo": "Nu"
-                                        },
-                                        {
-                                            "name": "20150206_0023_Ferro",
-                                            "name_to_print": "06/02/15: 129",
                                             "id_valor": 23,
                                             "valor": "129",
                                             "min": 59,
@@ -1855,18 +1579,6 @@
                                             "unidade": "mg/dL",
                                             "metodo": "colorimétrico",
                                             "tipo": "Nu"
-                                        },
-                                        {
-                                            "name": "20150206_0028_Calcio",
-                                            "name_to_print": "06/02/15: 9.9",
-                                            "id_valor": 28,
-                                            "valor": "9.9",
-                                            "min": 8.4,
-                                            "max": 10.2,
-                                            "valid": true,
-                                            "unidade": "mg/dL",
-                                            "metodo": "colorimétrico",
-                                            "tipo": "Nu"
                                         }
                                     ]
                                 },
@@ -1880,18 +1592,6 @@
                                             "name_to_print": "19/01/17: 3.5",
                                             "id_valor": 29,
                                             "valor": "3.5",
-                                            "min": 2.5,
-                                            "max": 4.5,
-                                            "valid": true,
-                                            "unidade": "mg/dL",
-                                            "metodo": "colorimétrico",
-                                            "tipo": "Nu"
-                                        },
-                                        {
-                                            "name": "20150206_0029_Fosforo Inorgânico",
-                                            "name_to_print": "06/02/15: 2.9",
-                                            "id_valor": 29,
-                                            "valor": "2.9",
                                             "min": 2.5,
                                             "max": 4.5,
                                             "valid": true,
@@ -1941,18 +1641,6 @@
                                             "unidade": "mg/dL",
                                             "metodo": "colorimétrico",
                                             "tipo": "Nu"
-                                        },
-                                        {
-                                            "name": "20150206_0032_Magnésio",
-                                            "name_to_print": "06/02/15: 2.1",
-                                            "id_valor": 32,
-                                            "valor": "2.1",
-                                            "min": 1.6,
-                                            "max": 2.6,
-                                            "valid": true,
-                                            "unidade": "mg/dL",
-                                            "metodo": "colorimétrico",
-                                            "tipo": "Nu"
                                         }
                                     ]
                                 },
@@ -1969,18 +1657,6 @@
                                             "min": 2.3,
                                             "max": 10,
                                             "valid": false,
-                                            "unidade": "ng/mL",
-                                            "metodo": "ensaio imunoenzimático",
-                                            "tipo": "Nu"
-                                        },
-                                        {
-                                            "name": "20150206_0060_Acido Fólico",
-                                            "name_to_print": "06/02/15: 8.9",
-                                            "id_valor": 60,
-                                            "valor": "8.9",
-                                            "min": 2.3,
-                                            "max": 10,
-                                            "valid": true,
                                             "unidade": "ng/mL",
                                             "metodo": "ensaio imunoenzimático",
                                             "tipo": "Nu"
@@ -2034,18 +1710,6 @@
                                             "name_to_print": "19/01/17: 53.6",
                                             "id_valor": 62,
                                             "valor": "53.6",
-                                            "min": 20,
-                                            "max": 60,
-                                            "valid": true,
-                                            "unidade": "ng/mL",
-                                            "metodo": "imunoensaio por quimiluminescência",
-                                            "tipo": "Nu"
-                                        },
-                                        {
-                                            "name": "20150206_0062_25-Hidroxi Vitamina D",
-                                            "name_to_print": "06/02/15: 51",
-                                            "id_valor": 62,
-                                            "valor": "51",
                                             "min": 20,
                                             "max": 60,
                                             "valid": true,
@@ -2510,18 +2174,6 @@
                                     "unidade": "Hb",
                                     "metodo": "turbidimetria, nat'l glycohemoglobin stand. program (NGSP)",
                                     "tipo": "%"
-                                },
-                                {
-                                    "name": "20150206_0018_Hemoglobina Glicada (Hba1c)",
-                                    "name_to_print": "06/02/15: 5.3%",
-                                    "id_valor": 18,
-                                    "valor": "5.3",
-                                    "min": 0,
-                                    "max": 5.7,
-                                    "valid": true,
-                                    "unidade": "Hb",
-                                    "metodo": "turbidimetria, nat'l glycohemoglobin stand. program (NGSP)",
-                                    "tipo": "%"
                                 }
                             ]
                         },
@@ -2597,18 +2249,6 @@
                                     "unidade": "U/L",
                                     "metodo": "cinético uv",
                                     "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20150206_0035_Transaminase Pirúvica (Alt)",
-                                    "name_to_print": "06/02/15: 19",
-                                    "id_valor": 35,
-                                    "valor": "19",
-                                    "min": 0,
-                                    "max": 41,
-                                    "valid": true,
-                                    "unidade": "U/L",
-                                    "metodo": "cinético uv",
-                                    "tipo": "Nu"
                                 }
                             ]
                         },
@@ -2640,18 +2280,6 @@
                                     "unidade": "U/L",
                                     "metodo": "cinético uv",
                                     "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20150206_0036_Transaminase Oxalacética (Ast)",
-                                    "name_to_print": "06/02/15: 15",
-                                    "id_valor": 36,
-                                    "valor": "15",
-                                    "min": 0,
-                                    "max": 40,
-                                    "valid": true,
-                                    "unidade": "U/L",
-                                    "metodo": "cinético uv",
-                                    "tipo": "Nu"
                                 }
                             ]
                         },
@@ -2665,18 +2293,6 @@
                                     "name_to_print": "19/01/17: 73",
                                     "id_valor": 37,
                                     "valor": "73",
-                                    "min": 40,
-                                    "max": 129,
-                                    "valid": true,
-                                    "unidade": "U/L",
-                                    "metodo": "enzimático colorimétrico",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20150206_0037_Fosfatase Alcalina",
-                                    "name_to_print": "06/02/15: 75",
-                                    "id_valor": 37,
-                                    "valor": "75",
                                     "min": 40,
                                     "max": 129,
                                     "valid": true,
@@ -2759,18 +2375,6 @@
                                     "tipo": "Nu"
                                 },
                                 {
-                                    "name": "20150206_0039_Bilirrubina Direta",
-                                    "name_to_print": "06/02/15: 0.15",
-                                    "id_valor": 39,
-                                    "valor": "0.15",
-                                    "min": 0,
-                                    "max": 0.4,
-                                    "valid": true,
-                                    "unidade": "mg/dL",
-                                    "metodo": "colorimétrico",
-                                    "tipo": "Nu"
-                                },
-                                {
                                     "name": "20131028_0039_Bilirrubina Direta",
                                     "name_to_print": "28/10/13: 0.2",
                                     "id_valor": 39,
@@ -2814,18 +2418,6 @@
                                     "tipo": "Nu"
                                 },
                                 {
-                                    "name": "20150206_0040_Bilirrubina Indireta",
-                                    "name_to_print": "06/02/15: 0.41",
-                                    "id_valor": 40,
-                                    "valor": "0.41",
-                                    "min": 0,
-                                    "max": 0.8,
-                                    "valid": true,
-                                    "unidade": "mg/dL",
-                                    "metodo": "colorimétrico",
-                                    "tipo": "Nu"
-                                },
-                                {
                                     "name": "20131028_0040_Bilirrubina Indireta",
                                     "name_to_print": "28/10/13: 0.3",
                                     "id_valor": 40,
@@ -2849,18 +2441,6 @@
                                     "name_to_print": "19/01/17: 0.6",
                                     "id_valor": 41,
                                     "valor": "0.6",
-                                    "min": 0,
-                                    "max": 1.2,
-                                    "valid": true,
-                                    "unidade": "mg/dL",
-                                    "metodo": "colorimétrico",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20150206_0041_Bilirrubina Total",
-                                    "name_to_print": "06/02/15: 0.56",
-                                    "id_valor": 41,
-                                    "valor": "0.56",
                                     "min": 0,
                                     "max": 1.2,
                                     "valid": true,
@@ -2928,18 +2508,6 @@
                                     "unidade": "mg/dL",
                                     "metodo": "enzimático colorimétrico",
                                     "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20150206_0042_Colesterol",
-                                    "name_to_print": "06/02/15: 211",
-                                    "id_valor": 42,
-                                    "valor": "211",
-                                    "min": 0,
-                                    "max": 190,
-                                    "valid": false,
-                                    "unidade": "mg/dL",
-                                    "metodo": "enzimático colorimétrico",
-                                    "tipo": "Nu"
                                 }
                             ]
                         },
@@ -2953,18 +2521,6 @@
                                     "name_to_print": "19/01/17: 45",
                                     "id_valor": 43,
                                     "valor": "45",
-                                    "min": 40,
-                                    "max": 100,
-                                    "valid": true,
-                                    "unidade": "mg/dL",
-                                    "metodo": "enzimático colorimétrico",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20150206_0043_Colesterol - HDL",
-                                    "name_to_print": "06/02/15: 46",
-                                    "id_valor": 43,
-                                    "valor": "46",
                                     "min": 40,
                                     "max": 100,
                                     "valid": true,
@@ -3014,18 +2570,6 @@
                                     "unidade": "mg/dL",
                                     "metodo": "enzimático colorimétrico",
                                     "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20150206_0044_Triglicerídeos",
-                                    "name_to_print": "06/02/15: 165",
-                                    "id_valor": 44,
-                                    "valor": "165",
-                                    "min": 0,
-                                    "max": 150,
-                                    "valid": false,
-                                    "unidade": "mg/dL",
-                                    "metodo": "enzimático colorimétrico",
-                                    "tipo": "Nu"
                                 }
                             ]
                         },
@@ -3042,18 +2586,6 @@
                                     "min": 130,
                                     "max": 200,
                                     "valid": false,
-                                    "unidade": "mg/dL",
-                                    "metodo": "enzimático colorimétrico",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20150206_0045_Colesterol - LDL",
-                                    "name_to_print": "06/02/15: 132",
-                                    "id_valor": 45,
-                                    "valor": "132",
-                                    "min": 130,
-                                    "max": 200,
-                                    "valid": true,
                                     "unidade": "mg/dL",
                                     "metodo": "enzimático colorimétrico",
                                     "tipo": "Nu"
@@ -3094,15 +2626,6 @@
                                     "unidade": "mg/dL",
                                     "metodo": "enzimático colorimétrico",
                                     "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20150206_0046_Colesterol - VLDL",
-                                    "name_to_print": "06/02/15: 33",
-                                    "id_valor": 46,
-                                    "valor": "33",
-                                    "unidade": "mg/dL",
-                                    "metodo": "enzimático colorimétrico",
-                                    "tipo": "Nu"
                                 }
                             ]
                         },
@@ -3119,18 +2642,6 @@
                                     "min": 160,
                                     "max": 200,
                                     "valid": false,
-                                    "unidade": "mg/dL",
-                                    "metodo": "enzimático colorimétrico",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20150206_0047_Colesterol - NHDL",
-                                    "name_to_print": "06/02/15: 165",
-                                    "id_valor": 47,
-                                    "valor": "165",
-                                    "min": 160,
-                                    "max": 200,
-                                    "valid": true,
                                     "unidade": "mg/dL",
                                     "metodo": "enzimático colorimétrico",
                                     "tipo": "Nu"
@@ -3199,18 +2710,6 @@
                                     "unidade": "ng/dL",
                                     "metodo": "eletroquimioluminescência",
                                     "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20150206_0051_Tiroxina Livre",
-                                    "name_to_print": "06/02/15: 1",
-                                    "id_valor": 51,
-                                    "valor": "1",
-                                    "min": 0.7,
-                                    "max": 1.9,
-                                    "valid": true,
-                                    "unidade": "ng/dL",
-                                    "metodo": "eletroquimioluminescência",
-                                    "tipo": "Nu"
                                 }
                             ]
                         }
@@ -3248,18 +2747,6 @@
                                     "unidade": "mcUI/mL",
                                     "metodo": "eletroquimioluminescência",
                                     "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20150206_0052_Hormônio Estimulante da Tireoide",
-                                    "name_to_print": "06/02/15: 2.4",
-                                    "id_valor": 52,
-                                    "valor": "2.4",
-                                    "min": 0.4,
-                                    "max": 4.3,
-                                    "valid": true,
-                                    "unidade": "mcUI/mL",
-                                    "metodo": "eletroquimioluminescência",
-                                    "tipo": "Nu"
                                 }
                             ]
                         }
@@ -3279,18 +2766,6 @@
                                     "name_to_print": "19/01/17: 42.6",
                                     "id_valor": 63,
                                     "valor": "42.6",
-                                    "min": 12,
-                                    "max": 65,
-                                    "valid": true,
-                                    "unidade": "pg/mL",
-                                    "metodo": "ensaio imunoenzimático por quimiluminescência",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20150206_0063_Paratormônio (Molécula Inteira)",
-                                    "name_to_print": "06/02/15: 36",
-                                    "id_valor": 63,
-                                    "valor": "36",
                                     "min": 12,
                                     "max": 65,
                                     "valid": true,
@@ -3402,18 +2877,6 @@
                             "unidade": "mg/dL",
                             "metodo": "enzimático colorimétrico",
                             "tipo": "N"
-                        },
-                        {
-                            "name": "20150206_0097_Ácido Úrico",
-                            "name_to_print": "06/02/15: 5.2",
-                            "id_valor": 97,
-                            "valor": "5.2",
-                            "min": 0.7,
-                            "max": 1.3,
-                            "valid": false,
-                            "unidade": "mg/dL",
-                            "metodo": "enzimático colorimétrico",
-                            "tipo": "N"
                         }
                     ]
                 },
@@ -3431,18 +2894,6 @@
                                     "name_to_print": "19/01/17: 99",
                                     "id_valor": 98,
                                     "valor": "99",
-                                    "min": 70,
-                                    "max": 210,
-                                    "valid": true,
-                                    "unidade": "ng/dL",
-                                    "metodo": "eletroquimioluminescência",
-                                    "tipo": "N"
-                                },
-                                {
-                                    "name": "20150206_0098_Triiodotironina Total",
-                                    "name_to_print": "06/02/15: 94",
-                                    "id_valor": 98,
-                                    "valor": "94",
                                     "min": 70,
                                     "max": 210,
                                     "valid": true,
@@ -3606,15 +3057,6 @@
                                     "tipo": "T"
                                 },
                                 {
-                                    "name": "20150206_0081_Aspecto",
-                                    "name_to_print": "06/02/15: Límpido",
-                                    "id_valor": 81,
-                                    "valor": "Límpido",
-                                    "unidade": "[Φ]",
-                                    "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
-                                    "tipo": "T"
-                                },
-                                {
                                     "name": "20131028_0081_Aspecto",
                                     "name_to_print": "28/10/13: Límpido",
                                     "id_valor": 81,
@@ -3651,15 +3093,6 @@
                                 {
                                     "name": "20160621_0082_Cor",
                                     "name_to_print": "21/06/16: Amarela",
-                                    "id_valor": 82,
-                                    "valor": "Amarela",
-                                    "unidade": "[Φ]",
-                                    "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
-                                    "tipo": "T"
-                                },
-                                {
-                                    "name": "20150206_0082_Cor",
-                                    "name_to_print": "06/02/15: Amarela",
                                     "id_valor": 82,
                                     "valor": "Amarela",
                                     "unidade": "[Φ]",
@@ -3714,15 +3147,6 @@
                                     "name_to_print": "21/06/16: 1012",
                                     "id_valor": 83,
                                     "valor": "1012",
-                                    "unidade": "[Φ]",
-                                    "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
-                                    "tipo": "N"
-                                },
-                                {
-                                    "name": "20150206_0083_Densidade",
-                                    "name_to_print": "06/02/15: 1029",
-                                    "id_valor": 83,
-                                    "valor": "1029",
                                     "unidade": "[Φ]",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
                                     "tipo": "N"
@@ -3801,18 +3225,6 @@
                                     "tipo": "N"
                                 },
                                 {
-                                    "name": "20150206_0084_Determinação do pH",
-                                    "name_to_print": "06/02/15: 6",
-                                    "id_valor": 84,
-                                    "valor": "6",
-                                    "min": 1010,
-                                    "max": 1025,
-                                    "valid": false,
-                                    "unidade": "[Φ]",
-                                    "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
-                                    "tipo": "N"
-                                },
-                                {
                                     "name": "20131028_0084_Determinação do pH",
                                     "name_to_print": "28/10/13: 6",
                                     "id_valor": 84,
@@ -3852,15 +3264,6 @@
                                 {
                                     "name": "20160621_0085_Pesquisa de Nitrito",
                                     "name_to_print": "21/06/16: Negativo",
-                                    "id_valor": 85,
-                                    "valor": "Negativo",
-                                    "unidade": "[Φ]",
-                                    "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
-                                    "tipo": "T"
-                                },
-                                {
-                                    "name": "20150206_0085_Pesquisa de Nitrito",
-                                    "name_to_print": "06/02/15: Negativo",
                                     "id_valor": 85,
                                     "valor": "Negativo",
                                     "unidade": "[Φ]",
@@ -3929,15 +3332,6 @@
                                     "tipo": "T"
                                 },
                                 {
-                                    "name": "20150206_0086_Pesquisa de Proteína",
-                                    "name_to_print": "06/02/15: Negativo",
-                                    "id_valor": 86,
-                                    "valor": "Negativo",
-                                    "unidade": "[Φ]",
-                                    "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
-                                    "tipo": "T"
-                                },
-                                {
                                     "name": "20131028_0086_Pesquisa de Proteína",
                                     "name_to_print": "28/10/13: Ausente",
                                     "id_valor": 86,
@@ -3976,15 +3370,6 @@
                                     "name_to_print": "21/06/16: Ausente",
                                     "id_valor": 87,
                                     "valor": "Ausente",
-                                    "unidade": "[Φ]",
-                                    "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
-                                    "tipo": "T"
-                                },
-                                {
-                                    "name": "20150206_0087_Pesquisa de Glicose",
-                                    "name_to_print": "06/02/15: Negativo",
-                                    "id_valor": 87,
-                                    "valor": "Negativo",
                                     "unidade": "[Φ]",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
                                     "tipo": "T"
@@ -4051,15 +3436,6 @@
                                     "tipo": "T"
                                 },
                                 {
-                                    "name": "20150206_0088_Pesquisa de Cetonas",
-                                    "name_to_print": "06/02/15: Negativo",
-                                    "id_valor": 88,
-                                    "valor": "Negativo",
-                                    "unidade": "[Φ]",
-                                    "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
-                                    "tipo": "T"
-                                },
-                                {
                                     "name": "20131028_0088_Pesquisa de Cetonas",
                                     "name_to_print": "28/10/13: Ausente",
                                     "id_valor": 88,
@@ -4112,15 +3488,6 @@
                                     "tipo": "T"
                                 },
                                 {
-                                    "name": "20150206_0089_Pesquisa de Urobilinogênio",
-                                    "name_to_print": "06/02/15: Normal",
-                                    "id_valor": 89,
-                                    "valor": "Normal",
-                                    "unidade": "[Φ]",
-                                    "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
-                                    "tipo": "T"
-                                },
-                                {
                                     "name": "20131028_0089_Pesquisa de Urobilinogênio",
                                     "name_to_print": "28/10/13: Normal",
                                     "id_valor": 89,
@@ -4157,15 +3524,6 @@
                                 {
                                     "name": "20160621_0090_Pesquisa de Bilirrubina",
                                     "name_to_print": "21/06/16: Ausente",
-                                    "id_valor": 90,
-                                    "valor": "Ausente",
-                                    "unidade": "[Φ]",
-                                    "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
-                                    "tipo": "T"
-                                },
-                                {
-                                    "name": "20150206_0090_Pesquisa de Bilirrubina",
-                                    "name_to_print": "06/02/15: Ausente",
                                     "id_valor": 90,
                                     "valor": "Ausente",
                                     "unidade": "[Φ]",

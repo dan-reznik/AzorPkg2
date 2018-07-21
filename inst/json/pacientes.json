@@ -1,20 +1,22 @@
 [
     {
-        "id_paciente": 1,
-        "Nome": "Ale Macieira",
+        "id_patient": 1,
+        "name_patient": "Ale Macieira",
         "birth_ymd": "19660720",
-        "Sexo": "M",
-        "Telefone": "(21) 91234-1234",
-        "Cidade": "Rio de Janeiro",
-        "Estado": "RJ"
+        "sex": "M",
+        "phone": "(21) 91234-1234",
+        "city": "Rio de Janeiro",
+        "state": "RJ",
+        "country": "Brasil"
     },
     {
-        "id_paciente": 2,
-        "Nome": "Dan Rezende",
+        "id_patient": 2,
+        "name_patient": "Dan Rezende",
         "birth_ymd": "19670522",
-        "Sexo": "M",
-        "Telefone": "(21) 99555-1212",
-        "Cidade": "Rio de Janeiro",
-        "Estado": "RJ"
+        "sex": "M",
+        "phone": "(21) 99555-1212",
+        "city": "Rio de Janeiro",
+        "state": "RJ",
+        "country": "Brasil"
     }
 ]

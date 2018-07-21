@@ -1,5 +1,122 @@
 [
-{ "estudo": "Colesterol", "ids": [1,2,3] },
-{ "estudo": "Lipidico", "ids": [4,5,6] },
-{ "estudo": "Bioquimica", "ids": [6,7,8] }
+    {
+        "id_estudo": 1,
+        "estudo": "Pós-Tireoidectomia",
+        "id_valor": 51,
+        "descr_valor": "Tiroxina Livre"
+    },
+    {
+        "id_estudo": 1,
+        "estudo": "Pós-Tireoidectomia",
+        "id_valor": 52,
+        "descr_valor": "Hormônio Estimulante da Tireoide"
+    },
+    {
+        "id_estudo": 1,
+        "estudo": "Pós-Tireoidectomia",
+        "id_valor": 56,
+        "descr_valor": "Pesq. de Anticorpos Anti-Tireoglobulina"
+    },
+    {
+        "id_estudo": 1,
+        "estudo": "Pós-Tireoidectomia",
+        "id_valor": 67,
+        "descr_valor": "Tireoglobulina"
+    },
+    {
+        "id_estudo": 2,
+        "estudo": "Diabetes",
+        "id_valor": 18,
+        "descr_valor": "Hemoglobina Glicada (Hba1c)"
+    },
+    {
+        "id_estudo": 2,
+        "estudo": "Diabetes",
+        "id_valor": 20,
+        "descr_valor": "Glicose"
+    },
+    {
+        "id_estudo": 3,
+        "estudo": "Anemia",
+        "id_valor": 1,
+        "descr_valor": "Contagem de Hemácias"
+    },
+    {
+        "id_estudo": 3,
+        "estudo": "Anemia",
+        "id_valor": 2,
+        "descr_valor": "Dosagem da Hemoglobina"
+    },
+    {
+        "id_estudo": 3,
+        "estudo": "Anemia",
+        "id_valor": 3,
+        "descr_valor": "Avaliação do Hematócrito"
+    },
+    {
+        "id_estudo": 3,
+        "estudo": "Anemia",
+        "id_valor": 4,
+        "descr_valor": "Volume Globular Médio"
+    },
+    {
+        "id_estudo": 3,
+        "estudo": "Anemia",
+        "id_valor": 5,
+        "descr_valor": "Hemoglobina Globular Media"
+    },
+    {
+        "id_estudo": 3,
+        "estudo": "Anemia",
+        "id_valor": 6,
+        "descr_valor": "Concentração da Hemoglobina Glob. Media"
+    },
+    {
+        "id_estudo": 3,
+        "estudo": "Anemia",
+        "id_valor": 7,
+        "descr_valor": "Índice de Anisocitose (Rdw)"
+    },
+    {
+        "id_estudo": 4,
+        "estudo": "Gota",
+        "id_valor": 97,
+        "descr_valor": "Ácido Úrico"
+    },
+    {
+        "id_estudo": 5,
+        "estudo": "Tireoidite de Hashimoto",
+        "id_valor": 52,
+        "descr_valor": "Hormônio Estimulante da Tireoide"
+    },
+    {
+        "id_estudo": 5,
+        "estudo": "Tireoidite de Hashimoto",
+        "id_valor": 51,
+        "descr_valor": "Tiroxina Livre"
+    },
+    {
+        "id_estudo": 5,
+        "estudo": "Tireoidite de Hashimoto",
+        "id_valor": 98,
+        "descr_valor": "Triiodotironina Total"
+    },
+    {
+        "id_estudo": 6,
+        "estudo": "Próstata",
+        "id_valor": 64,
+        "descr_valor": "Antígeno Prostático Especifico Total"
+    },
+    {
+        "id_estudo": 6,
+        "estudo": "Próstata",
+        "id_valor": 65,
+        "descr_valor": "Ag. Prostático Especifico, Fração Livre"
+    },
+    {
+        "id_estudo": 6,
+        "estudo": "Próstata",
+        "id_valor": 66,
+        "descr_valor": "Relação PSA Livre/PSA Total"
+    }
 ]

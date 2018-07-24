@@ -1176,84 +1176,6 @@
                     ]
                 },
                 {
-                    "name": "1006_Glicose",
-                    "name_to_print": "Glicose",
-                    "children": [
-                        {
-                            "name": "0020_Glicose",
-                            "id_series": 20,
-                            "name_to_print": "Glicose (mg/dL)",
-                            "children": [
-                                {
-                                    "name": "20170828_0020_Glicose",
-                                    "name_to_print": "28/08/17: 82",
-                                    "id_valor": 20,
-                                    "valor": "82",
-                                    "name_abbrev": "glicose",
-                                    "min": 70.0,
-                                    "max": 99.0,
-                                    "valid": true,
-                                    "unidade": "mg/dL",
-                                    "metodo": "enzimático",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20170119_0020_Glicose",
-                                    "name_to_print": "19/01/17: 99",
-                                    "id_valor": 20,
-                                    "valor": "99",
-                                    "name_abbrev": "glicose",
-                                    "min": 70.0,
-                                    "max": 99.0,
-                                    "valid": true,
-                                    "unidade": "mg/dL",
-                                    "metodo": "enzimático",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20160622_0020_Glicose",
-                                    "name_to_print": "22/06/16: 91",
-                                    "id_valor": 20,
-                                    "valor": "91",
-                                    "name_abbrev": "glicose",
-                                    "min": 70.0,
-                                    "max": 99.0,
-                                    "valid": true,
-                                    "unidade": "mg/dL",
-                                    "metodo": "enzimático",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20150206_0020_Glicose",
-                                    "name_to_print": "06/02/15: 96",
-                                    "id_valor": 20,
-                                    "valor": "96",
-                                    "name_abbrev": "glicose",
-                                    "min": 70.0,
-                                    "max": 99.0,
-                                    "valid": true,
-                                    "unidade": "mg/dL",
-                                    "metodo": "enzimático",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20131028_0020_Glicose",
-                                    "name_to_print": "28/10/13: 90",
-                                    "id_valor": 20,
-                                    "valor": "90",
-                                    "name_abbrev": "glicose",
-                                    "min": 70.0,
-                                    "max": 99.0,
-                                    "valid": true,
-                                    "unidade": "mg/dL",
-                                    "metodo": "enzimático",
-                                    "tipo": "Nu"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "name": "1020_Bioquímica",
                     "name_to_print": "Bioquímica",
                     "children": [
@@ -1261,6 +1183,78 @@
                             "name": "1021_Orgânica",
                             "name_to_print": "Orgânica",
                             "children": [
+                                {
+                                    "name": "0020_Glicose",
+                                    "id_series": 20,
+                                    "name_to_print": "Glicose (mg/dL)",
+                                    "children": [
+                                        {
+                                            "name": "20170828_0020_Glicose",
+                                            "name_to_print": "28/08/17: 82",
+                                            "id_valor": 20,
+                                            "valor": "82",
+                                            "name_abbrev": "glicose",
+                                            "min": 70.0,
+                                            "max": 99.0,
+                                            "valid": true,
+                                            "unidade": "mg/dL",
+                                            "metodo": "enzimático",
+                                            "tipo": "Nu"
+                                        },
+                                        {
+                                            "name": "20170119_0020_Glicose",
+                                            "name_to_print": "19/01/17: 99",
+                                            "id_valor": 20,
+                                            "valor": "99",
+                                            "name_abbrev": "glicose",
+                                            "min": 70.0,
+                                            "max": 99.0,
+                                            "valid": true,
+                                            "unidade": "mg/dL",
+                                            "metodo": "enzimático",
+                                            "tipo": "Nu"
+                                        },
+                                        {
+                                            "name": "20160622_0020_Glicose",
+                                            "name_to_print": "22/06/16: 91",
+                                            "id_valor": 20,
+                                            "valor": "91",
+                                            "name_abbrev": "glicose",
+                                            "min": 70.0,
+                                            "max": 99.0,
+                                            "valid": true,
+                                            "unidade": "mg/dL",
+                                            "metodo": "enzimático",
+                                            "tipo": "Nu"
+                                        },
+                                        {
+                                            "name": "20150206_0020_Glicose",
+                                            "name_to_print": "06/02/15: 96",
+                                            "id_valor": 20,
+                                            "valor": "96",
+                                            "name_abbrev": "glicose",
+                                            "min": 70.0,
+                                            "max": 99.0,
+                                            "valid": true,
+                                            "unidade": "mg/dL",
+                                            "metodo": "enzimático",
+                                            "tipo": "Nu"
+                                        },
+                                        {
+                                            "name": "20131028_0020_Glicose",
+                                            "name_to_print": "28/10/13: 90",
+                                            "id_valor": 20,
+                                            "valor": "90",
+                                            "name_abbrev": "glicose",
+                                            "min": 70.0,
+                                            "max": 99.0,
+                                            "valid": true,
+                                            "unidade": "mg/dL",
+                                            "metodo": "enzimático",
+                                            "tipo": "Nu"
+                                        }
+                                    ]
+                                },
                                 {
                                     "name": "0021_Ureia",
                                     "id_series": 21,

@@ -279,25 +279,6 @@
                             ]
                         },
                         {
-                            "name": "20180401_1006_Glicose",
-                            "name_to_print": "Glicose",
-                            "children": [
-                                {
-                                    "name": "20180401_0020_Glicose",
-                                    "name_to_print": "Glicose: 84 mg/dL",
-                                    "id_valor": 20,
-                                    "valor": "84",
-                                    "name_abbrev": "glicose",
-                                    "min": 70.0,
-                                    "max": 99.0,
-                                    "valid": true,
-                                    "unidade": "mg/dL",
-                                    "metodo": "enzimático",
-                                    "tipo": "Nu"
-                                }
-                            ]
-                        },
-                        {
                             "name": "20180401_1020_Bioquímica",
                             "name_to_print": "Bioquímica",
                             "children": [
@@ -305,6 +286,19 @@
                                     "name": "20180401_1021_Orgânica",
                                     "name_to_print": "Orgânica",
                                     "children": [
+                                        {
+                                            "name": "20180401_0020_Glicose",
+                                            "name_to_print": "Glicose: 84 mg/dL",
+                                            "id_valor": 20,
+                                            "valor": "84",
+                                            "name_abbrev": "glicose",
+                                            "min": 70.0,
+                                            "max": 99.0,
+                                            "valid": true,
+                                            "unidade": "mg/dL",
+                                            "metodo": "enzimático",
+                                            "tipo": "Nu"
+                                        },
                                         {
                                             "name": "20180401_0021_Ureia",
                                             "name_to_print": "Ureia: 27 mg/dL",
@@ -1279,25 +1273,6 @@
                             ]
                         },
                         {
-                            "name": "20170729_1006_Glicose",
-                            "name_to_print": "Glicose",
-                            "children": [
-                                {
-                                    "name": "20170729_0020_Glicose",
-                                    "name_to_print": "Glicose: 84 mg/dL",
-                                    "id_valor": 20,
-                                    "valor": "84",
-                                    "name_abbrev": "glicose",
-                                    "min": 70.0,
-                                    "max": 99.0,
-                                    "valid": true,
-                                    "unidade": "mg/dL",
-                                    "metodo": "enzimático",
-                                    "tipo": "Nu"
-                                }
-                            ]
-                        },
-                        {
                             "name": "20170729_1020_Bioquímica",
                             "name_to_print": "Bioquímica",
                             "children": [
@@ -1305,6 +1280,19 @@
                                     "name": "20170729_1021_Orgânica",
                                     "name_to_print": "Orgânica",
                                     "children": [
+                                        {
+                                            "name": "20170729_0020_Glicose",
+                                            "name_to_print": "Glicose: 84 mg/dL",
+                                            "id_valor": 20,
+                                            "valor": "84",
+                                            "name_abbrev": "glicose",
+                                            "min": 70.0,
+                                            "max": 99.0,
+                                            "valid": true,
+                                            "unidade": "mg/dL",
+                                            "metodo": "enzimático",
+                                            "tipo": "Nu"
+                                        },
                                         {
                                             "name": "20170729_0021_Ureia",
                                             "name_to_print": "Ureia: 33 mg/dL",
@@ -2167,25 +2155,6 @@
                             ]
                         },
                         {
-                            "name": "20170509_1006_Glicose",
-                            "name_to_print": "Glicose",
-                            "children": [
-                                {
-                                    "name": "20170509_0020_Glicose",
-                                    "name_to_print": "Glicose: 88 mg/dL",
-                                    "id_valor": 20,
-                                    "valor": "88",
-                                    "name_abbrev": "glicose",
-                                    "min": 70.0,
-                                    "max": 99.0,
-                                    "valid": true,
-                                    "unidade": "mg/dL",
-                                    "metodo": "enzimático",
-                                    "tipo": "Nu"
-                                }
-                            ]
-                        },
-                        {
                             "name": "20170509_1020_Bioquímica",
                             "name_to_print": "Bioquímica",
                             "children": [
@@ -2193,6 +2162,19 @@
                                     "name": "20170509_1021_Orgânica",
                                     "name_to_print": "Orgânica",
                                     "children": [
+                                        {
+                                            "name": "20170509_0020_Glicose",
+                                            "name_to_print": "Glicose: 88 mg/dL",
+                                            "id_valor": 20,
+                                            "valor": "88",
+                                            "name_abbrev": "glicose",
+                                            "min": 70.0,
+                                            "max": 99.0,
+                                            "valid": true,
+                                            "unidade": "mg/dL",
+                                            "metodo": "enzimático",
+                                            "tipo": "Nu"
+                                        },
                                         {
                                             "name": "20170509_0021_Ureia",
                                             "name_to_print": "Ureia: 35 mg/dL",
@@ -2902,25 +2884,6 @@
                             ]
                         },
                         {
-                            "name": "20170119_1006_Glicose",
-                            "name_to_print": "Glicose",
-                            "children": [
-                                {
-                                    "name": "20170119_0020_Glicose",
-                                    "name_to_print": "Glicose: 81 mg/dL",
-                                    "id_valor": 20,
-                                    "valor": "81",
-                                    "name_abbrev": "glicose",
-                                    "min": 70.0,
-                                    "max": 99.0,
-                                    "valid": true,
-                                    "unidade": "mg/dL",
-                                    "metodo": "enzimático",
-                                    "tipo": "Nu"
-                                }
-                            ]
-                        },
-                        {
                             "name": "20170119_1020_Bioquímica",
                             "name_to_print": "Bioquímica",
                             "children": [
@@ -2928,6 +2891,19 @@
                                     "name": "20170119_1021_Orgânica",
                                     "name_to_print": "Orgânica",
                                     "children": [
+                                        {
+                                            "name": "20170119_0020_Glicose",
+                                            "name_to_print": "Glicose: 81 mg/dL",
+                                            "id_valor": 20,
+                                            "valor": "81",
+                                            "name_abbrev": "glicose",
+                                            "min": 70.0,
+                                            "max": 99.0,
+                                            "valid": true,
+                                            "unidade": "mg/dL",
+                                            "metodo": "enzimático",
+                                            "tipo": "Nu"
+                                        },
                                         {
                                             "name": "20170119_0021_Ureia",
                                             "name_to_print": "Ureia: 33 mg/dL",

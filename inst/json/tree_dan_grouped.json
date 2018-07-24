@@ -1512,6 +1512,39 @@
                                     ]
                                 },
                                 {
+                                    "name": "0097_Ácido Úrico",
+                                    "id_series": 97,
+                                    "name_to_print": "Ácido Úrico (mg/dL)",
+                                    "children": [
+                                        {
+                                            "name": "20170119_0097_Ácido Úrico",
+                                            "name_to_print": "19/01/17: 5.1",
+                                            "id_valor": 97,
+                                            "valor": "5.1",
+                                            "name_abbrev": "urico",
+                                            "min": 3.5,
+                                            "max": 7.2,
+                                            "valid": true,
+                                            "unidade": "mg/dL",
+                                            "metodo": "enzimático colorimétrico",
+                                            "tipo": "N"
+                                        },
+                                        {
+                                            "name": "20150206_0097_Ácido Úrico",
+                                            "name_to_print": "06/02/15: 5.2",
+                                            "id_valor": 97,
+                                            "valor": "5.2",
+                                            "name_abbrev": "urico",
+                                            "min": 3.5,
+                                            "max": 7.2,
+                                            "valid": true,
+                                            "unidade": "mg/dL",
+                                            "metodo": "enzimático colorimétrico",
+                                            "tipo": "N"
+                                        }
+                                    ]
+                                },
+                                {
                                     "name": "0049_Creatino Quinase Total",
                                     "id_series": 49,
                                     "name_to_print": "Creatino Quinase Total (U/L)",
@@ -3048,39 +3081,6 @@
                     ]
                 },
                 {
-                    "name": "0097_Ácido Úrico",
-                    "id_series": 97,
-                    "name_to_print": "Ácido Úrico (mg/dL)",
-                    "children": [
-                        {
-                            "name": "20170119_0097_Ácido Úrico",
-                            "name_to_print": "19/01/17: 5.1",
-                            "id_valor": 97,
-                            "valor": "5.1",
-                            "name_abbrev": "urico",
-                            "min": 3.5,
-                            "max": 7.2,
-                            "valid": true,
-                            "unidade": "mg/dL",
-                            "metodo": "enzimático colorimétrico",
-                            "tipo": "N"
-                        },
-                        {
-                            "name": "20150206_0097_Ácido Úrico",
-                            "name_to_print": "06/02/15: 5.2",
-                            "id_valor": 97,
-                            "valor": "5.2",
-                            "name_abbrev": "urico",
-                            "min": 3.5,
-                            "max": 7.2,
-                            "valid": true,
-                            "unidade": "mg/dL",
-                            "metodo": "enzimático colorimétrico",
-                            "tipo": "N"
-                        }
-                    ]
-                },
-                {
                     "name": "1031_T3 Total",
                     "name_to_print": "T3 Total",
                     "children": [
@@ -3206,6 +3206,46 @@
                                     "unidade": "nmol/L",
                                     "metodo": "ensaio imunoenzimático por eletroquimioluminescência",
                                     "tipo": "N"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "1026_Grupo Sanguíneo e Fator RH",
+                    "name_to_print": "Grupo Sanguíneo e Fator RH",
+                    "children": [
+                        {
+                            "name": "0068_Grupo Sanguíneo",
+                            "id_series": 68,
+                            "name_to_print": "Grupo Sanguíneo",
+                            "children": [
+                                {
+                                    "name": "20131028_0068_Grupo Sanguíneo",
+                                    "name_to_print": "28/10/13: O",
+                                    "id_valor": 68,
+                                    "valor": "O",
+                                    "name_abbrev": "gruposanguineo",
+                                    "unidade": "[Φ]",
+                                    "metodo": "fenotipagem autom. microplacas / gel centrificação",
+                                    "tipo": "T"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "0069_Fator RH",
+                            "id_series": 69,
+                            "name_to_print": "Fator RH",
+                            "children": [
+                                {
+                                    "name": "20131028_0069_Fator RH",
+                                    "name_to_print": "28/10/13: +",
+                                    "id_valor": 69,
+                                    "valor": "+",
+                                    "name_abbrev": "fatorrh",
+                                    "unidade": "[Φ]",
+                                    "metodo": "fenotipagem autom. microplacas / gel centrificação",
+                                    "tipo": "T"
                                 }
                             ]
                         }
@@ -4141,40 +4181,6 @@
                                     ]
                                 }
                             ]
-                        }
-                    ]
-                },
-                {
-                    "name": "0068_Grupo Sanguíneo",
-                    "id_series": 68,
-                    "name_to_print": "Grupo Sanguíneo",
-                    "children": [
-                        {
-                            "name": "20131028_0068_Grupo Sanguíneo",
-                            "name_to_print": "28/10/13: O",
-                            "id_valor": 68,
-                            "valor": "O",
-                            "name_abbrev": "gruposanguineo",
-                            "unidade": "[Φ]",
-                            "metodo": "fenotipagem autom. microplacas / gel centrificação",
-                            "tipo": "T"
-                        }
-                    ]
-                },
-                {
-                    "name": "0069_Fator RH",
-                    "id_series": 69,
-                    "name_to_print": "Fator RH",
-                    "children": [
-                        {
-                            "name": "20131028_0069_Fator RH",
-                            "name_to_print": "28/10/13: +",
-                            "id_valor": 69,
-                            "valor": "+",
-                            "name_abbrev": "fatorrh",
-                            "unidade": "[Φ]",
-                            "metodo": "fenotipagem autom. microplacas / gel centrificação",
-                            "tipo": "T"
                         }
                     ]
                 }

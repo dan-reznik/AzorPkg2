@@ -52,8 +52,12 @@
     {
         "id_estudo": 4,
         "nome_estudo": "Gota",
-        "ids": 97,
-        "names": "Ácido Úrico"
+        "ids": [
+            97
+        ],
+        "names": [
+            "Ácido Úrico"
+        ]
     },
     {
         "id_estudo": 5,
@@ -81,6 +85,28 @@
             "Antígeno Prostático Especifico Total",
             "Ag. Prostático Especifico, Fração Livre",
             "Relação PSA Livre/PSA Total"
+        ]
+    },
+    {
+        "id_estudo": 7,
+        "nome_estudo": "Painel Metabolico Basico",
+        "ids": [
+            30,
+            31,
+            103,
+            104,
+            105,
+            22,
+            20
+        ],
+        "names": [
+            "Sódio",
+            "Potássio",
+            "Cloro",
+            "Bicarbonato",
+            "Nitrogenio Ureico",
+            "Creatinina",
+            "Glicose"
         ]
     }
 ]

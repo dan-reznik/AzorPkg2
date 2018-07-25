@@ -7,7 +7,13 @@
         "phone": "(21) 91234-1234",
         "city": "Rio de Janeiro",
         "state": "RJ",
-        "country": "Brasil"
+        "country": "Brasil",
+        "json_prefix": "https://dan-reznik.ocpu.io/AzorPkg2/json/",
+        "json_tree": "tree_ale.json",
+        "json_tree_grouped": "tree_ale_grouped.json",
+        "json_tree_min": "tree_ale_min.json",
+        "json_tree_grouped_min": "tree_ale_grouped_min.json",
+        "ymd_nasc": "1966-07-20"
     },
     {
         "id_patient": 2,
@@ -17,6 +23,12 @@
         "phone": "(21) 99555-1212",
         "city": "Rio de Janeiro",
         "state": "RJ",
-        "country": "Brasil"
+        "country": "Brasil",
+        "json_prefix": "https://dan-reznik.ocpu.io/AzorPkg2/json/",
+        "json_tree": "tree_dan.json",
+        "json_tree_grouped": "tree_dan_grouped.json",
+        "json_tree_min": "ree_dan_min.json",
+        "json_tree_grouped_min": "tree_dan_grouped_min.json",
+        "ymd_nasc": "1967-05-22"
     }
 ]

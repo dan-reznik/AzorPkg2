@@ -27,7 +27,7 @@
         "json_prefix": "https://dan-reznik.ocpu.io/AzorPkg2/json/",
         "json_tree": "tree_dan.json",
         "json_tree_grouped": "tree_dan_grouped.json",
-        "json_tree_min": "ree_dan_min.json",
+        "json_tree_min": "tree_dan_min.json",
         "json_tree_grouped_min": "tree_dan_grouped_min.json",
         "ymd_nasc": "1967-05-22"
     }

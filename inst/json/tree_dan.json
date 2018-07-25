@@ -365,7 +365,7 @@
                                     "min": 1.0,
                                     "max": 3.0,
                                     "valid": true,
-                                    "png_ref": "00-sem-ref.png",
+                                    "png_ref": "00-em-construcao.png",
                                     "unidade": "Minutos",
                                     "metodo": "duke",
                                     "tipo": "Nu"
@@ -379,7 +379,7 @@
                                     "min": 150.0,
                                     "max": 450.0,
                                     "valid": true,
-                                    "png_ref": "00-sem-ref.png",
+                                    "png_ref": "00-em-construcao.png",
                                     "unidade": "mil/mm3",
                                     "metodo": "automatizado",
                                     "tipo": "Nu"
@@ -415,7 +415,7 @@
                                     "min": 70.0,
                                     "max": 100.0,
                                     "valid": false,
-                                    "png_ref": "00-sem-ref.png",
+                                    "png_ref": "00-em-construcao.png",
                                     "unidade": "[Φ]",
                                     "metodo": "automatizado",
                                     "tipo": "%"
@@ -524,7 +524,10 @@
                                     "id_valor": 83,
                                     "valor": "1008",
                                     "name_abbrev": "densidade",
-                                    "png_ref": "00-sem-ref.png",
+                                    "min": 1010.0,
+                                    "max": 1025.0,
+                                    "valid": false,
+                                    "png_ref": "00-em-construcao.png",
                                     "unidade": "[Φ]",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
                                     "tipo": "N"
@@ -538,7 +541,7 @@
                                     "min": 5.0,
                                     "max": 7.0,
                                     "valid": true,
-                                    "png_ref": "45a-determinacaoph.png",
+                                    "png_ref": "00-em-construcao.png",
                                     "unidade": "[Φ]",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
                                     "tipo": "N"
@@ -559,10 +562,13 @@
                                     "id_valor": 86,
                                     "valor": "0",
                                     "name_abbrev": "pesquisaproteina",
-                                    "png_ref": "00-sem-ref.png",
-                                    "unidade": "[Φ]",
+                                    "min": 0.0,
+                                    "max": 0.1,
+                                    "valid": true,
+                                    "png_ref": "00-em-construcao.png",
+                                    "unidade": "g/L",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
-                                    "tipo": "T"
+                                    "tipo": "N"
                                 },
                                 {
                                     "name": "20170828_0087_Pesquisa de Glicose",
@@ -570,10 +576,13 @@
                                     "id_valor": 87,
                                     "valor": "0",
                                     "name_abbrev": "pesquisaglicose",
-                                    "png_ref": "00-sem-ref.png",
-                                    "unidade": "[Φ]",
+                                    "min": 0.0,
+                                    "max": 0.3,
+                                    "valid": true,
+                                    "png_ref": "00-em-construcao.png",
+                                    "unidade": "g/L",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
-                                    "tipo": "T"
+                                    "tipo": "N"
                                 },
                                 {
                                     "name": "20170828_0088_Pesquisa de Cetonas",
@@ -591,10 +600,13 @@
                                     "id_valor": 89,
                                     "valor": "0",
                                     "name_abbrev": "pesquisaurobilinogenio",
-                                    "png_ref": "00-sem-ref.png",
-                                    "unidade": "[Φ]",
+                                    "min": 0.0,
+                                    "max": 1.0,
+                                    "valid": true,
+                                    "png_ref": "00-em-construcao.png",
+                                    "unidade": "mg/dL",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
-                                    "tipo": "T"
+                                    "tipo": "N"
                                 },
                                 {
                                     "name": "20170828_0090_Pesquisa de Bilirrubina",
@@ -667,7 +679,7 @@
                                             "min": 0.0,
                                             "max": 1.0,
                                             "valid": true,
-                                            "png_ref": "00-sem-ref.png",
+                                            "png_ref": "00-em-construcao.png",
                                             "unidade": "/mcL",
                                             "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
                                             "tipo": "N"
@@ -681,7 +693,7 @@
                                             "min": 0.0,
                                             "max": 22.0,
                                             "valid": true,
-                                            "png_ref": "00-sem-ref.png",
+                                            "png_ref": "00-em-construcao.png",
                                             "unidade": "/mcL",
                                             "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
                                             "tipo": "N"
@@ -1678,7 +1690,10 @@
                                     "id_valor": 83,
                                     "valor": "1033",
                                     "name_abbrev": "densidade",
-                                    "png_ref": "00-sem-ref.png",
+                                    "min": 1010.0,
+                                    "max": 1025.0,
+                                    "valid": false,
+                                    "png_ref": "00-em-construcao.png",
                                     "unidade": "[Φ]",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
                                     "tipo": "N"
@@ -1692,7 +1707,7 @@
                                     "min": 5.0,
                                     "max": 7.0,
                                     "valid": true,
-                                    "png_ref": "45a-determinacaoph.png",
+                                    "png_ref": "00-em-construcao.png",
                                     "unidade": "[Φ]",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
                                     "tipo": "N"
@@ -1713,10 +1728,13 @@
                                     "id_valor": 86,
                                     "valor": "0",
                                     "name_abbrev": "pesquisaproteina",
-                                    "png_ref": "00-sem-ref.png",
-                                    "unidade": "[Φ]",
+                                    "min": 0.0,
+                                    "max": 0.1,
+                                    "valid": true,
+                                    "png_ref": "00-em-construcao.png",
+                                    "unidade": "g/L",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
-                                    "tipo": "T"
+                                    "tipo": "N"
                                 },
                                 {
                                     "name": "20170119_0087_Pesquisa de Glicose",
@@ -1724,10 +1742,13 @@
                                     "id_valor": 87,
                                     "valor": "0",
                                     "name_abbrev": "pesquisaglicose",
-                                    "png_ref": "00-sem-ref.png",
-                                    "unidade": "[Φ]",
+                                    "min": 0.0,
+                                    "max": 0.3,
+                                    "valid": true,
+                                    "png_ref": "00-em-construcao.png",
+                                    "unidade": "g/L",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
-                                    "tipo": "T"
+                                    "tipo": "N"
                                 },
                                 {
                                     "name": "20170119_0088_Pesquisa de Cetonas",
@@ -1745,10 +1766,13 @@
                                     "id_valor": 89,
                                     "valor": "0",
                                     "name_abbrev": "pesquisaurobilinogenio",
-                                    "png_ref": "00-sem-ref.png",
-                                    "unidade": "[Φ]",
+                                    "min": 0.0,
+                                    "max": 1.0,
+                                    "valid": true,
+                                    "png_ref": "00-em-construcao.png",
+                                    "unidade": "mg/dL",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
-                                    "tipo": "T"
+                                    "tipo": "N"
                                 },
                                 {
                                     "name": "20170119_0090_Pesquisa de Bilirrubina",
@@ -1821,7 +1845,7 @@
                                             "min": 0.0,
                                             "max": 1.0,
                                             "valid": true,
-                                            "png_ref": "00-sem-ref.png",
+                                            "png_ref": "00-em-construcao.png",
                                             "unidade": "/mcL",
                                             "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
                                             "tipo": "N"
@@ -1835,7 +1859,7 @@
                                             "min": 0.0,
                                             "max": 22.0,
                                             "valid": true,
-                                            "png_ref": "00-sem-ref.png",
+                                            "png_ref": "00-em-construcao.png",
                                             "unidade": "/mcL",
                                             "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
                                             "tipo": "N"
@@ -2207,7 +2231,7 @@
                                     "min": 1.0,
                                     "max": 3.0,
                                     "valid": true,
-                                    "png_ref": "00-sem-ref.png",
+                                    "png_ref": "00-em-construcao.png",
                                     "unidade": "Minutos",
                                     "metodo": "duke",
                                     "tipo": "Nu"
@@ -2221,7 +2245,7 @@
                                     "min": 150.0,
                                     "max": 450.0,
                                     "valid": true,
-                                    "png_ref": "00-sem-ref.png",
+                                    "png_ref": "00-em-construcao.png",
                                     "unidade": "mil/mm3",
                                     "metodo": "automatizado",
                                     "tipo": "Nu"
@@ -2257,7 +2281,7 @@
                                     "min": 70.0,
                                     "max": 100.0,
                                     "valid": false,
-                                    "png_ref": "00-sem-ref.png",
+                                    "png_ref": "00-em-construcao.png",
                                     "unidade": "[Φ]",
                                     "metodo": "automatizado",
                                     "tipo": "%"
@@ -2372,7 +2396,10 @@
                                     "id_valor": 83,
                                     "valor": "1012",
                                     "name_abbrev": "densidade",
-                                    "png_ref": "00-sem-ref.png",
+                                    "min": 1010.0,
+                                    "max": 1025.0,
+                                    "valid": true,
+                                    "png_ref": "00-em-construcao.png",
                                     "unidade": "[Φ]",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
                                     "tipo": "N"
@@ -2386,7 +2413,7 @@
                                     "min": 5.0,
                                     "max": 7.0,
                                     "valid": true,
-                                    "png_ref": "45a-determinacaoph.png",
+                                    "png_ref": "00-em-construcao.png",
                                     "unidade": "[Φ]",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
                                     "tipo": "N"
@@ -2407,10 +2434,13 @@
                                     "id_valor": 86,
                                     "valor": "0",
                                     "name_abbrev": "pesquisaproteina",
-                                    "png_ref": "00-sem-ref.png",
-                                    "unidade": "[Φ]",
+                                    "min": 0.0,
+                                    "max": 0.1,
+                                    "valid": true,
+                                    "png_ref": "00-em-construcao.png",
+                                    "unidade": "g/L",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
-                                    "tipo": "T"
+                                    "tipo": "N"
                                 },
                                 {
                                     "name": "20160621_0087_Pesquisa de Glicose",
@@ -2418,10 +2448,13 @@
                                     "id_valor": 87,
                                     "valor": "0",
                                     "name_abbrev": "pesquisaglicose",
-                                    "png_ref": "00-sem-ref.png",
-                                    "unidade": "[Φ]",
+                                    "min": 0.0,
+                                    "max": 0.3,
+                                    "valid": true,
+                                    "png_ref": "00-em-construcao.png",
+                                    "unidade": "g/L",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
-                                    "tipo": "T"
+                                    "tipo": "N"
                                 },
                                 {
                                     "name": "20160621_0088_Pesquisa de Cetonas",
@@ -2439,10 +2472,13 @@
                                     "id_valor": 89,
                                     "valor": "0",
                                     "name_abbrev": "pesquisaurobilinogenio",
-                                    "png_ref": "00-sem-ref.png",
-                                    "unidade": "[Φ]",
+                                    "min": 0.0,
+                                    "max": 1.0,
+                                    "valid": true,
+                                    "png_ref": "00-em-construcao.png",
+                                    "unidade": "mg/dL",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
-                                    "tipo": "T"
+                                    "tipo": "N"
                                 },
                                 {
                                     "name": "20160621_0090_Pesquisa de Bilirrubina",
@@ -2515,7 +2551,7 @@
                                             "min": 0.0,
                                             "max": 1.0,
                                             "valid": true,
-                                            "png_ref": "00-sem-ref.png",
+                                            "png_ref": "00-em-construcao.png",
                                             "unidade": "/mcL",
                                             "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
                                             "tipo": "N"
@@ -2529,7 +2565,7 @@
                                             "min": 0.0,
                                             "max": 22.0,
                                             "valid": true,
-                                            "png_ref": "00-sem-ref.png",
+                                            "png_ref": "00-em-construcao.png",
                                             "unidade": "/mcL",
                                             "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
                                             "tipo": "N"
@@ -3311,7 +3347,10 @@
                                     "id_valor": 83,
                                     "valor": "1029",
                                     "name_abbrev": "densidade",
-                                    "png_ref": "00-sem-ref.png",
+                                    "min": 1010.0,
+                                    "max": 1025.0,
+                                    "valid": false,
+                                    "png_ref": "00-em-construcao.png",
                                     "unidade": "[Φ]",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
                                     "tipo": "N"
@@ -3325,7 +3364,7 @@
                                     "min": 5.0,
                                     "max": 7.0,
                                     "valid": true,
-                                    "png_ref": "45a-determinacaoph.png",
+                                    "png_ref": "00-em-construcao.png",
                                     "unidade": "[Φ]",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
                                     "tipo": "N"
@@ -3346,10 +3385,13 @@
                                     "id_valor": 86,
                                     "valor": "0",
                                     "name_abbrev": "pesquisaproteina",
-                                    "png_ref": "00-sem-ref.png",
-                                    "unidade": "[Φ]",
+                                    "min": 0.0,
+                                    "max": 0.1,
+                                    "valid": true,
+                                    "png_ref": "00-em-construcao.png",
+                                    "unidade": "g/L",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
-                                    "tipo": "T"
+                                    "tipo": "N"
                                 },
                                 {
                                     "name": "20150206_0087_Pesquisa de Glicose",
@@ -3357,10 +3399,13 @@
                                     "id_valor": 87,
                                     "valor": "0",
                                     "name_abbrev": "pesquisaglicose",
-                                    "png_ref": "00-sem-ref.png",
-                                    "unidade": "[Φ]",
+                                    "min": 0.0,
+                                    "max": 0.3,
+                                    "valid": true,
+                                    "png_ref": "00-em-construcao.png",
+                                    "unidade": "g/L",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
-                                    "tipo": "T"
+                                    "tipo": "N"
                                 },
                                 {
                                     "name": "20150206_0088_Pesquisa de Cetonas",
@@ -3378,10 +3423,13 @@
                                     "id_valor": 89,
                                     "valor": "0",
                                     "name_abbrev": "pesquisaurobilinogenio",
-                                    "png_ref": "00-sem-ref.png",
-                                    "unidade": "[Φ]",
+                                    "min": 0.0,
+                                    "max": 1.0,
+                                    "valid": true,
+                                    "png_ref": "00-em-construcao.png",
+                                    "unidade": "mg/dL",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
-                                    "tipo": "T"
+                                    "tipo": "N"
                                 },
                                 {
                                     "name": "20150206_0090_Pesquisa de Bilirrubina",
@@ -3784,7 +3832,7 @@
                                     "min": 1.0,
                                     "max": 3.0,
                                     "valid": true,
-                                    "png_ref": "00-sem-ref.png",
+                                    "png_ref": "00-em-construcao.png",
                                     "unidade": "Minutos",
                                     "metodo": "duke",
                                     "tipo": "Nu"
@@ -3798,7 +3846,7 @@
                                     "min": 150.0,
                                     "max": 450.0,
                                     "valid": true,
-                                    "png_ref": "00-sem-ref.png",
+                                    "png_ref": "00-em-construcao.png",
                                     "unidade": "mil/mm3",
                                     "metodo": "automatizado",
                                     "tipo": "Nu"
@@ -3834,7 +3882,7 @@
                                     "min": 70.0,
                                     "max": 100.0,
                                     "valid": true,
-                                    "png_ref": "00-sem-ref.png",
+                                    "png_ref": "00-em-construcao.png",
                                     "unidade": "[Φ]",
                                     "metodo": "automatizado",
                                     "tipo": "%"
@@ -3943,7 +3991,10 @@
                                     "id_valor": 83,
                                     "valor": "1024",
                                     "name_abbrev": "densidade",
-                                    "png_ref": "00-sem-ref.png",
+                                    "min": 1010.0,
+                                    "max": 1025.0,
+                                    "valid": true,
+                                    "png_ref": "00-em-construcao.png",
                                     "unidade": "[Φ]",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
                                     "tipo": "N"
@@ -3957,7 +4008,7 @@
                                     "min": 5.0,
                                     "max": 7.0,
                                     "valid": true,
-                                    "png_ref": "45a-determinacaoph.png",
+                                    "png_ref": "00-em-construcao.png",
                                     "unidade": "[Φ]",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
                                     "tipo": "N"
@@ -3978,10 +4029,13 @@
                                     "id_valor": 86,
                                     "valor": "0",
                                     "name_abbrev": "pesquisaproteina",
-                                    "png_ref": "00-sem-ref.png",
-                                    "unidade": "[Φ]",
+                                    "min": 0.0,
+                                    "max": 0.1,
+                                    "valid": true,
+                                    "png_ref": "00-em-construcao.png",
+                                    "unidade": "g/L",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
-                                    "tipo": "T"
+                                    "tipo": "N"
                                 },
                                 {
                                     "name": "20131028_0087_Pesquisa de Glicose",
@@ -3989,10 +4043,13 @@
                                     "id_valor": 87,
                                     "valor": "0",
                                     "name_abbrev": "pesquisaglicose",
-                                    "png_ref": "00-sem-ref.png",
-                                    "unidade": "[Φ]",
+                                    "min": 0.0,
+                                    "max": 0.3,
+                                    "valid": true,
+                                    "png_ref": "00-em-construcao.png",
+                                    "unidade": "g/L",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
-                                    "tipo": "T"
+                                    "tipo": "N"
                                 },
                                 {
                                     "name": "20131028_0088_Pesquisa de Cetonas",
@@ -4010,10 +4067,13 @@
                                     "id_valor": 89,
                                     "valor": "0",
                                     "name_abbrev": "pesquisaurobilinogenio",
-                                    "png_ref": "00-sem-ref.png",
-                                    "unidade": "[Φ]",
+                                    "min": 0.0,
+                                    "max": 1.0,
+                                    "valid": true,
+                                    "png_ref": "00-em-construcao.png",
+                                    "unidade": "mg/dL",
                                     "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
-                                    "tipo": "T"
+                                    "tipo": "N"
                                 },
                                 {
                                     "name": "20131028_0090_Pesquisa de Bilirrubina",
@@ -4086,7 +4146,7 @@
                                             "min": 0.0,
                                             "max": 1.0,
                                             "valid": true,
-                                            "png_ref": "00-sem-ref.png",
+                                            "png_ref": "00-em-construcao.png",
                                             "unidade": "/mcL",
                                             "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
                                             "tipo": "N"
@@ -4100,7 +4160,7 @@
                                             "min": 0.0,
                                             "max": 22.0,
                                             "valid": true,
-                                            "png_ref": "00-sem-ref.png",
+                                            "png_ref": "00-em-construcao.png",
                                             "unidade": "/mcL",
                                             "metodo": "tiras reagentes / citometria de fluxo e microscopia ótica",
                                             "tipo": "N"

@@ -1,7 +1,6 @@
 [
     {
         "id_patient": 1,
-        "id_doctor": "1,2,3,4",
         "name_patient": "Ale Macieira",
         "birth_ymd": "19660720",
         "sex": "M",
@@ -18,7 +17,6 @@
     },
     {
         "id_patient": 2,
-        "id_doctor": "1,2,3,4",
         "name_patient": "Dan Rezende",
         "birth_ymd": "19670522",
         "sex": "M",

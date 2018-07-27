@@ -1,0 +1,26 @@
+[
+    {
+        "id_doctor": 1,
+        "name_doctor": "Gustavo Campana",
+        "login": "gustavo_campana",
+        "estudos": "all"
+    },
+    {
+        "id_doctor": 2,
+        "name_doctor": "Edgar Rizzatti",
+        "login": "edgar_rizzatti",
+        "estudos": "1,2,3"
+    },
+    {
+        "id_doctor": 3,
+        "name_doctor": "Thiago Julio",
+        "login": "thiago_julio",
+        "estudos": "all"
+    },
+    {
+        "id_doctor": 4,
+        "name_doctor": "Wilson Shcolnik",
+        "login": "wilson_shcolnik",
+        "estudos": "1,2,3"
+    }
+]

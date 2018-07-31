@@ -4,27 +4,31 @@
         "name_doctor": "Gustavo Campana",
         "login": "gustavo_campana",
         "estudos": "all",
-        "patients": "1,2,3"
+        "patients": "1,2,3",
+        "CRM": "123456/RJ"
     },
     {
         "id_doctor": 2,
         "name_doctor": "Edgar Rizzatti",
         "login": "edgar_rizzatti",
         "estudos": "1,2,3",
-        "patients": "none"
+        "patients": "none",
+        "CRM": "123456/RJ"
     },
     {
         "id_doctor": 3,
         "name_doctor": "Thiago Julio",
         "login": "thiago_julio",
         "estudos": "all",
-        "patients": "all"
+        "patients": "all",
+        "CRM": "123456/RJ"
     },
     {
         "id_doctor": 4,
         "name_doctor": "Wilson Shcolnik",
         "login": "wilson_shcolnik",
         "estudos": "1,2,3",
-        "patients": "1,2"
+        "patients": "1,2",
+        "CRM": "123456/RJ"
     }
 ]

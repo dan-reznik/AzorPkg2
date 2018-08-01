@@ -16,12 +16,21 @@
 # place all whites in the current dir and sepia them via (overwrites)
 # mogrify -path . -sepia-tone 80% *.png -verbose
 
+list_valid <- function(value=NA,min=NA,max=NA,ref_png=NA,valid=NA,id_interval=NA)
+  list(value=value,
+       min=min,
+       max=max,
+       ref_png=ref_png,
+       valid=valid,
+       id_interval=id_interval)
+
 validate_sex <- function(sex,
                          # can be vectorized
                          value,
                          val_min_hom,val_max_hom,
                          val_min_mul,val_max_mul,
-                         png_marked_homem,png_marked_mulher) {
+                         png_marked_homem,png_marked_mulher,
+                         id_interval) {
   val_min <- NA_real_
   val_max <- NA_real_
   sex <- str_to_upper(sex)
@@ -38,12 +47,13 @@ validate_sex <- function(sex,
   }
 
   if(is.na(value)|value<0|is.na(val_min)|is.na(val_max))
-    list(value=value,min=val_min,max=val_max,ref_png=png_marked,valid=NA)
+    list_valid(value=value,min=val_min,max=val_max,ref_png=png_marked,id_interval=id_interval)
   else
-    list(value=value,
-         min=val_min,max=val_max,
-         ref_png=png_marked,
-         valid=between(value,val_min,val_max))
+    list_valid(value=value,
+               min=val_min,max=val_max,
+               ref_png=png_marked,
+               valid=between(value,val_min,val_max),
+               id_interval=id_interval)
 }
 
 img_path <- function(img_name) str_c("https://dan-reznik.ocpu.io/AzorPkg2/marked/",
@@ -55,7 +65,7 @@ validate_age <- function(df_key_matched,sex,age_days,
   if(nrow(df_key_matched)==1)
     df_age_matched <- df_key_matched
   else {
-    if(is.na(age_days)) return(list(value=value,min=NA,max=NA,ref_png=NA,valid=NA))
+    if(is.na(age_days)) return(list_valid(value=value))
     df_age_matched <- df_key_matched %>%
       dplyr::filter(map2_lgl(age_min_days,age_max_days,
                              ~between(age_days,.x,.y)))
@@ -69,7 +79,8 @@ validate_age <- function(df_key_matched,sex,age_days,
                val_min_mul=df_age_matched$mulher_min,
                val_max_mul=df_age_matched$mulher_max,
                png_marked_homem=img_path(df_age_matched$imagem_regra_homem),
-               png_marked_mulher=img_path(df_age_matched$imagem_regra_mulher))
+               png_marked_mulher=img_path(df_age_matched$imagem_regra_mulher),
+               id_interval=df_age_matched$id_interval)
 }
 
 validate_exam_result <- function(sex,
@@ -77,13 +88,13 @@ validate_exam_result <- function(sex,
                                  exam_id_valor,
                                  exam_value) {
   if(is.null(exam_id_valor)|is.na(exam_id_valor))
-    list(value=exam_value,min=NA,max=NA,ref_png=NA,valid=NA)
+    list_valid(value=exam_value)
   else {
     # exam_key <- exam_key %>% str_trim %>% str_to_lower
     df_chave <- df_ref_rules %>% # global
       dplyr::filter(id_valor==exam_id_valor)
     if(nrow(df_chave)==0)
-      list(value=exam_value,min=NA,max=NA,ref_png=NA,valid=NA)
+      list_valid(value=exam_value)
     # '{"min":null,"max":null,"valid":null}'
     else
       validate_age(df_chave,sex,age_in_days_at_exam,exam_value)

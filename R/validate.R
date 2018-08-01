@@ -163,28 +163,28 @@ invalid_exams <- function(sex,birth_ymd,exam_ymd,
 
 #' @export
 patient_date_range <- function(patient_id) {
-  df <- df_exames %>% filter(id_paciente==patient_id)
-  ymd_min <- df$ymd%>%min
-  ymd_max <- df$ymd%>%max
+  df <- df_exames %>% dplyr::filter(id_paciente==patient_id)
+  ymd_min <- df$ymd %>% min 
+  ymd_max <- df$ymd %>% max
   list(min=ymd_min,max=ymd_max)
 }
 
 #' @export
 patient_date_counts <- function(patient_id) {
   df_exames %>%
-    filter(id_paciente==patient_id) %>%
-    arrange(ymd) %>%
+    dplyr::filter(id_paciente==patient_id) %>%
+    dplyr::arrange(ymd) %>%
     dplyr::count(ymd) %>%
     dplyr::rename(count=n)
 }
 
 #' @export
 patient_results <- function(patient_id,ymd_min=NULL,ymd_max=NULL) {
-  df <- df_exames %>% filter(id_paciente==patient_id)
+  df <- df_exames %>% dplyr::filter(id_paciente==patient_id)
   if(!is.null(ymd_min))
-    df <- df %>% filter(ymd>=ymd(ymd_min))
+    df <- df %>% dplyr::filter(ymd>=ymd(ymd_min))
   if(!is.null(ymd_max))
-    df <- df %>% filter(ymd<=ymd(ymd_max))
+    df <- df %>% dplyr::filter(ymd<=ymd(ymd_max))
   df
 }
 

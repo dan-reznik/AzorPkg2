@@ -2,33 +2,49 @@
     {
         "id_doctor": 1,
         "name_doctor": "Gustavo Campana",
-        "login": "gustavo_campana",
+        "login": "g_campana",
         "estudos": "all",
         "patients": "1,2,3",
-        "CRM": "123456/RJ"
+        "CRM": "123456/SP"
     },
     {
         "id_doctor": 2,
         "name_doctor": "Edgar Rizzatti",
-        "login": "edgar_rizzatti",
+        "login": "e_rizzatti",
         "estudos": "1,2,3",
         "patients": "none",
-        "CRM": "123456/RJ"
+        "CRM": "123456/SP"
     },
     {
         "id_doctor": 3,
         "name_doctor": "Thiago Julio",
-        "login": "thiago_julio",
+        "login": "t_julio",
         "estudos": "all",
         "patients": "all",
-        "CRM": "123456/RJ"
+        "CRM": "123456/SP"
     },
     {
         "id_doctor": 4,
         "name_doctor": "Wilson Shcolnik",
-        "login": "wilson_shcolnik",
+        "login": "w_shcolnik",
         "estudos": "1,2,3",
         "patients": "1,2",
         "CRM": "123456/RJ"
+    },
+    {
+        "id_doctor": 5,
+        "name_doctor": "Sergio Figueiredo",
+        "login": "s_figueiredo",
+        "estudos": "1,2,3",
+        "patients": "1,2,3",
+        "CRM": "123456/RJ"
+    },
+    {
+        "id_doctor": 6,
+        "name_doctor": "Gustavo Stuani",
+        "login": "g_stuani",
+        "estudos": "1,2,3",
+        "patients": "1,2,3",
+        "CRM": "123456/SP"
     }
 ]

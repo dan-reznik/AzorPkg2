@@ -1,0 +1,32 @@
+[
+    {
+        "id_doctor": "all",
+        "id_patient": 1,
+        "notification": "Controlar Colesterol"
+    },
+    {
+        "id_doctor": "all",
+        "id_patient": 1,
+        "notification": "Hipotiroidismo"
+    },
+    {
+        "id_doctor": "all",
+        "id_patient": 1,
+        "notification": "Observar Câncer Próstata"
+    },
+    {
+        "id_doctor": "all",
+        "id_patient": 2,
+        "notification": "Observar Diabetes"
+    },
+    {
+        "id_doctor": "all",
+        "id_patient": 2,
+        "notification": "Controle Colesterol"
+    },
+    {
+        "id_doctor": "all",
+        "id_patient": 2,
+        "notification": "Coagulograma Anormal"
+    }
+]

@@ -13,6 +13,7 @@
         "json_tree_grouped": "tree_ale_grouped.json",
         "json_tree_min": "tree_ale_min.json",
         "json_tree_grouped_min": "tree_ale_grouped_min.json",
+        "json_prefix_cors_friendly": "https://gist.githubusercontent.com/dan-reznik/635fabfcb21fd9492a53cab338bf6aa4/raw/153353ca669d2299357c56d7355f5f73f68a75fc/",
         "ymd_nasc": "1966-07-20"
     },
     {
@@ -29,6 +30,7 @@
         "json_tree_grouped": "tree_dan_grouped.json",
         "json_tree_min": "tree_dan_min.json",
         "json_tree_grouped_min": "tree_dan_grouped_min.json",
+        "json_prefix_cors_friendly": "https://gist.githubusercontent.com/dan-reznik/635fabfcb21fd9492a53cab338bf6aa4/raw/153353ca669d2299357c56d7355f5f73f68a75fc/",
         "ymd_nasc": "1967-05-22"
     }
 ]

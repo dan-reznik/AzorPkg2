@@ -2,8 +2,8 @@
     {
         "id_doctor": "all",
         "id_patient": 1,
-        "id_estudo": 8,
-        "notification": "Colesterol"
+        "id_estudo": 5,
+        "notification": "Tireoidite Hashimoto"
     },
     {
         "id_doctor": "all",
@@ -16,6 +16,12 @@
         "id_patient": 1,
         "id_estudo": 6,
         "notification": "Próstata"
+    },
+    {
+        "id_doctor": "all",
+        "id_patient": 1,
+        "id_estudo": 7,
+        "notification": "Painel Metabolico"
     },
     {
         "id_doctor": "all",

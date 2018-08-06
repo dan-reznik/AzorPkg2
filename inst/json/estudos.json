@@ -1,7 +1,7 @@
 [
     {
         "id_estudo": 1,
-        "nome_estudo": "Pós-Tireoidectomia",
+        "nome_estudo": "Pós-Tireoidect",
         "ids": [
             51,
             52,
@@ -61,7 +61,7 @@
     },
     {
         "id_estudo": 5,
-        "nome_estudo": "Tireoidite de Hashimoto",
+        "nome_estudo": "Tireoidite Hashimoto",
         "ids": [
             52,
             51,
@@ -89,7 +89,7 @@
     },
     {
         "id_estudo": 7,
-        "nome_estudo": "Painel Metabolico Basico",
+        "nome_estudo": "Painel Metabolico",
         "ids": [
             30,
             31,
@@ -107,6 +107,24 @@
             "Nitrogenio Ureico",
             "Creatinina",
             "Glicose"
+        ]
+    },
+    {
+        "id_estudo": 8,
+        "nome_estudo": "Colesterol",
+        "ids": [
+            44,
+            43,
+            45,
+            46,
+            47
+        ],
+        "names": [
+            "Triglicerídeos",
+            "Colesterol - HDL",
+            "Colesterol - LDL",
+            "Colesterol - VLDL",
+            "Colesterol - NHDL"
         ]
     }
 ]

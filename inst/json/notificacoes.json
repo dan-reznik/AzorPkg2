@@ -2,31 +2,37 @@
     {
         "id_doctor": "all",
         "id_patient": 1,
-        "notification": "Controlar Colesterol"
+        "id_estudo": 8,
+        "notification": "Colesterol"
     },
     {
         "id_doctor": "all",
         "id_patient": 1,
-        "notification": "Hipotiroidismo"
+        "id_estudo": 1,
+        "notification": "Pós-Tireoidect"
     },
     {
         "id_doctor": "all",
         "id_patient": 1,
-        "notification": "Observar Câncer Próstata"
+        "id_estudo": 6,
+        "notification": "Próstata"
     },
     {
         "id_doctor": "all",
         "id_patient": 2,
-        "notification": "Observar Diabetes"
+        "id_estudo": 2,
+        "notification": "Diabetes"
     },
     {
         "id_doctor": "all",
         "id_patient": 2,
-        "notification": "Controle Colesterol"
+        "id_estudo": 8,
+        "notification": "Colesterol"
     },
     {
         "id_doctor": "all",
         "id_patient": 2,
-        "notification": "Coagulograma Anormal"
+        "id_estudo": 3,
+        "notification": "Anemia"
     }
 ]

@@ -189,4 +189,11 @@ patient_results <- function(patient_id,ymd_min=NULL,ymd_max=NULL) {
 }
 
 #' @export
+url_to_ref_cards <- function() "https://s3-sa-east-1.amazonaws.com/mvp-02-azor-diagnostics/img/marked/"
+
+#' @export
+url_to_jsons <- function() "https://s3-sa-east-1.amazonaws.com/mvp-02-azor-diagnostics/json/"
+
+
+#' @export
 test_df <- function() data_frame(x=c(1,2),y=c(3,NA),z=c(4,NA),w=c(5,NA))

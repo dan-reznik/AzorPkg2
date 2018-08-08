@@ -1,3 +1,7 @@
+curl https://dan-reznik.ocpu.io/AzorPkg2/R/url_to_jsons/json?auto_unbox=true -H "Content-Type: application/json" -d '{}'
+
+curl https://dan-reznik.ocpu.io/AzorPkg2/R/url_to_ref_cards/json?auto_unbox=true -H "Content-Type: application/json" -d '{}'
+
 # teste no reference
 
 curl https://dan-reznik.ocpu.io/AzorPkg2/R/validate_exams/json -H "Content-Type: application/json" -d '{"sex":"M","birth_ymd":"19670522","exam_ymd":"20180101","exam_id_vec":[18,19,38,44],"exam_value_vec":[10,2,3,10]}'

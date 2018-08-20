@@ -12,6 +12,7 @@
             "children": [
                 {
                     "name": "20170828_1001_Sangue",
+                    "node_icon": "icon_blood",
                     "name_to_print": "Sangue",
                     "children": [
                         {
@@ -281,6 +282,7 @@
                         },
                         {
                             "name": "20170828_1020_Bioquímica",
+                            "node_icon": "icon_biochemistry",
                             "name_to_print": "Bioquímica",
                             "children": [
                                 {
@@ -515,6 +517,7 @@
                 },
                 {
                     "name": "20170828_1024_Urina",
+                    "node_icon": "icon_urin",
                     "name_to_print": "Urina",
                     "children": [
                         {
@@ -744,6 +747,7 @@
             "children": [
                 {
                     "name": "20170119_1001_Sangue",
+                    "node_icon": "icon_blood",
                     "name_to_print": "Sangue",
                     "children": [
                         {
@@ -1049,6 +1053,7 @@
                         },
                         {
                             "name": "20170119_1020_Bioquímica",
+                            "node_icon": "icon_biochemistry",
                             "name_to_print": "Bioquímica",
                             "children": [
                                 {
@@ -1603,45 +1608,6 @@
                             ]
                         },
                         {
-                            "name": "20170119_1018_PSA Total e Livre",
-                            "name_to_print": "PSA Total e Livre",
-                            "children": [
-                                {
-                                    "name": "20170119_0064_Antígeno Prostático Especifico Total",
-                                    "name_to_print": "Antígeno Prostático Especifico Total: 0.77 ng/mL",
-                                    "id_valor": 64,
-                                    "valor": "0.77",
-                                    "name_abbrev": "psatotal",
-                                    "png_ref": "43a-psa-total.png",
-                                    "unidade": "ng/mL",
-                                    "metodo": "ensaio imunoenzimático por quimiluminescência",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20170119_0065_Ag. Prostático Especifico, Fração Livre",
-                                    "name_to_print": "Ag. Prostático Especifico, Fração Livre: 0.21 ng/mL",
-                                    "id_valor": 65,
-                                    "valor": "0.21",
-                                    "name_abbrev": "psalivre",
-                                    "png_ref": "43b-psa-livre.png",
-                                    "unidade": "ng/mL",
-                                    "metodo": "ensaio imunoenzimático por quimiluminescência",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20170119_0066_Relação PSA Livre/PSA Total",
-                                    "name_to_print": "Relação PSA Livre/PSA Total: 0.27",
-                                    "id_valor": 66,
-                                    "valor": "0.27",
-                                    "name_abbrev": "psarel",
-                                    "png_ref": "43c-psa-rel.png",
-                                    "unidade": "[Φ]",
-                                    "metodo": "ensaio imunoenzimático por quimiluminescência",
-                                    "tipo": "N"
-                                }
-                            ]
-                        },
-                        {
                             "name": "20170119_1031_T3 Total",
                             "name_to_print": "T3 Total",
                             "children": [
@@ -1738,6 +1704,7 @@
                 },
                 {
                     "name": "20170119_1024_Urina",
+                    "node_icon": "icon_urin",
                     "name_to_print": "Urina",
                     "children": [
                         {
@@ -1967,6 +1934,7 @@
             "children": [
                 {
                     "name": "20160622_1001_Sangue",
+                    "node_icon": "icon_blood",
                     "name_to_print": "Sangue",
                     "children": [
                         {
@@ -2236,6 +2204,7 @@
                         },
                         {
                             "name": "20160622_1020_Bioquímica",
+                            "node_icon": "icon_biochemistry",
                             "name_to_print": "Bioquímica",
                             "children": [
                                 {
@@ -2476,6 +2445,7 @@
             "children": [
                 {
                     "name": "20160621_1024_Urina",
+                    "node_icon": "icon_urin",
                     "name_to_print": "Urina",
                     "children": [
                         {
@@ -2705,6 +2675,7 @@
             "children": [
                 {
                     "name": "20150206_1001_Sangue",
+                    "node_icon": "icon_blood",
                     "name_to_print": "Sangue",
                     "children": [
                         {
@@ -2943,6 +2914,7 @@
                         },
                         {
                             "name": "20150206_1020_Bioquímica",
+                            "node_icon": "icon_biochemistry",
                             "name_to_print": "Bioquímica",
                             "children": [
                                 {
@@ -3481,6 +3453,7 @@
                 },
                 {
                     "name": "20150206_1024_Urina",
+                    "node_icon": "icon_urin",
                     "name_to_print": "Urina",
                     "children": [
                         {
@@ -3624,6 +3597,7 @@
             "children": [
                 {
                     "name": "20131028_1001_Sangue",
+                    "node_icon": "icon_blood",
                     "name_to_print": "Sangue",
                     "children": [
                         {
@@ -3893,6 +3867,7 @@
                         },
                         {
                             "name": "20131028_1020_Bioquímica",
+                            "node_icon": "icon_biochemistry",
                             "name_to_print": "Bioquímica",
                             "children": [
                                 {
@@ -4153,6 +4128,7 @@
                 },
                 {
                     "name": "20131028_1024_Urina",
+                    "node_icon": "icon_urin",
                     "name_to_print": "Urina",
                     "children": [
                         {

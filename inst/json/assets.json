@@ -1,0 +1,134 @@
+[
+    {
+        "asset_name": "icon_exam",
+        "type": "icon",
+        "registry_prefix": "path_node_icon",
+        "value": "exam.png"
+    },
+    {
+        "asset_name": "icon_blood",
+        "type": "icon",
+        "registry_prefix": "path_node_icon",
+        "value": "vial_blood.png"
+    },
+    {
+        "asset_name": "icon_biochemistry",
+        "type": "icon",
+        "registry_prefix": "path_node_icon",
+        "value": "vial_biochemistry.png"
+    },
+    {
+        "asset_name": "icon_spermatozoon",
+        "type": "icon",
+        "registry_prefix": "path_node_icon",
+        "value": "sperm.png"
+    },
+    {
+        "asset_name": "icon_vial_sperm",
+        "type": "icon",
+        "registry_prefix": "path_node_icon",
+        "value": "vial_sperm.png"
+    },
+    {
+        "asset_name": "icon_urin",
+        "type": "icon",
+        "registry_prefix": "path_node_icon",
+        "value": "vial_urin.png"
+    },
+    {
+        "asset_name": "icon_feces",
+        "type": "icon",
+        "registry_prefix": "path_node_icon",
+        "value": "vial_feces.png"
+    },
+    {
+        "asset_name": "icon_liver",
+        "type": "icon",
+        "registry_prefix": "path_node_icon",
+        "value": "liver.png"
+    },
+    {
+        "asset_name": "icon_virus",
+        "type": "icon",
+        "registry_prefix": "path_node_icon",
+        "value": "virus.png"
+    },
+    {
+        "asset_name": "icon_thyroid",
+        "type": "icon",
+        "registry_prefix": "path_node_icon",
+        "value": "thyroid.png"
+    },
+    {
+        "asset_name": "icon_pancreas",
+        "type": "icon",
+        "registry_prefix": "path_node_icon",
+        "value": "pancreas.png"
+    },
+    {
+        "asset_name": "icon_prostate",
+        "type": "icon",
+        "registry_prefix": "path_node_icon",
+        "value": "prostate.png"
+    },
+    {
+        "asset_name": "icon_testosterone",
+        "type": "icon",
+        "registry_prefix": "path_node_icon",
+        "value": "testosterone.png"
+    },
+    {
+        "asset_name": "icon_lipids",
+        "type": "icon",
+        "registry_prefix": "path_node_icon",
+        "value": "cholesterol.png"
+    },
+    {
+        "asset_name": "time_series",
+        "type": "icon",
+        "registry_prefix": "path_node_icon",
+        "value": "time_series.png"
+    },
+    {
+        "asset_name": "above_ref",
+        "type": "icon",
+        "registry_prefix": "path_node_icon",
+        "value": "triangle_up.png"
+    },
+    {
+        "asset_name": "below_ref",
+        "type": "icon",
+        "registry_prefix": "path_node_icon",
+        "value": "triangle_down.png"
+    },
+    {
+        "asset_name": "within_ref",
+        "type": "icon",
+        "registry_prefix": "path_node_icon",
+        "value": "ok_green.png"
+    },
+    {
+        "asset_name": "no_ref",
+        "type": "icon",
+        "registry_prefix": "path_node_icon",
+        "value": "question_mark.png"
+    },
+    {
+        "asset_name": "categorical",
+        "type": "icon",
+        "registry_prefix": "path_node_icon",
+        "value": "categorical.png"
+    },
+    {
+        "asset_name": "near_top",
+        "type": "icon",
+        "registry_prefix": "path_node_icon",
+        "value": "circle_just_below.png"
+    },
+    {
+        "asset_name": "near_bot",
+        "type": "icon",
+        "registry_prefix": "path_node_icon",
+        "value": "circle_just_above.png"
+    }
+]

@@ -9,8 +9,8 @@
             67
         ],
         "names": [
-            "Tiroxina Livre",
-            "Hormônio Estimulante da Tireoide",
+            "Tiroxina Livre (T4)",
+            "Hormônio Estimulante da Tireoide (TSH)",
             "Pesq. de Anticorpos Anti-Tireoglobulina",
             "Tireoglobulina"
         ]
@@ -68,9 +68,9 @@
             98
         ],
         "names": [
-            "Hormônio Estimulante da Tireoide",
-            "Tiroxina Livre",
-            "Triiodotironina Total"
+            "Hormônio Estimulante da Tireoide (TSH)",
+            "Tiroxina Livre (T4)",
+            "Triiodotironina Total (T3)"
         ]
     },
     {
@@ -82,8 +82,8 @@
             66
         ],
         "names": [
-            "Antígeno Prostático Especifico Total",
-            "Ag. Prostático Especifico, Fração Livre",
+            "Antígeno Prostático Específico (PSA) Total",
+            "Antígeno Prostático Específico (PSA) Livre",
             "Relação PSA Livre/PSA Total"
         ]
     },

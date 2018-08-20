@@ -8,6 +8,7 @@
     "children": [
         {
             "name": "1001_Sangue",
+            "node_icon": "icon_blood",
             "name_to_print": "Sangue",
             "children": [
                 {
@@ -21,6 +22,7 @@
                                 {
                                     "name": "0001_Contagem de Hemácias",
                                     "id_series": 1,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Contagem de Hemácias (milhoes/mm3)",
                                     "children": [
                                         {
@@ -103,6 +105,7 @@
                                 {
                                     "name": "0002_Dosagem da Hemoglobina",
                                     "id_series": 2,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Dosagem da Hemoglobina (g/dL)",
                                     "children": [
                                         {
@@ -185,6 +188,7 @@
                                 {
                                     "name": "0003_Avaliação do Hematócrito",
                                     "id_series": 3,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Avaliação do Hematócrito",
                                     "children": [
                                         {
@@ -267,6 +271,7 @@
                                 {
                                     "name": "0004_Volume Globular Médio",
                                     "id_series": 4,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Volume Globular Médio (fL)",
                                     "children": [
                                         {
@@ -349,6 +354,7 @@
                                 {
                                     "name": "0005_Hemoglobina Globular Media",
                                     "id_series": 5,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Hemoglobina Globular Media (pg)",
                                     "children": [
                                         {
@@ -431,6 +437,7 @@
                                 {
                                     "name": "0006_Concentração da Hemoglobina Glob. Media",
                                     "id_series": 6,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Concentração da Hemoglobina Glob. Media (g/dL)",
                                     "children": [
                                         {
@@ -513,6 +520,7 @@
                                 {
                                     "name": "0007_Índice de Anisocitose (Rdw)",
                                     "id_series": 7,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Índice de Anisocitose (Rdw)",
                                     "children": [
                                         {
@@ -601,6 +609,7 @@
                                 {
                                     "name": "0008_Contagem de Leucócitos",
                                     "id_series": 8,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Contagem de Leucócitos (mil/mm3)",
                                     "children": [
                                         {
@@ -683,6 +692,7 @@
                                 {
                                     "name": "0009_Basófilos",
                                     "id_series": 9,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Basófilos (0/mm3)",
                                     "children": [
                                         {
@@ -765,6 +775,7 @@
                                 {
                                     "name": "0010_Eosinófilos",
                                     "id_series": 10,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Eosinófilos (268/mm3)",
                                     "children": [
                                         {
@@ -847,6 +858,7 @@
                                 {
                                     "name": "0011_Neutrófilos Mielócitos",
                                     "id_series": 11,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Neutrófilos Mielócitos (0/mm3)",
                                     "children": [
                                         {
@@ -898,6 +910,7 @@
                                 {
                                     "name": "0012_Neutrofilos Metamielocitos",
                                     "id_series": 12,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Neutrofilos Metamielocitos (0/mm3)",
                                     "children": [
                                         {
@@ -949,6 +962,7 @@
                                 {
                                     "name": "0013_Bastões",
                                     "id_series": 13,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Bastões (67/mm3)",
                                     "children": [
                                         {
@@ -1016,6 +1030,7 @@
                                 {
                                     "name": "0014_Segmentados",
                                     "id_series": 14,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Segmentados (3.618/mm3)",
                                     "children": [
                                         {
@@ -1083,6 +1098,7 @@
                                 {
                                     "name": "0015_Linfócitos",
                                     "id_series": 15,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Linfócitos (2.077/mm3)",
                                     "children": [
                                         {
@@ -1165,6 +1181,7 @@
                                 {
                                     "name": "0016_Monócitos",
                                     "id_series": 16,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Monócitos (670/mm3)",
                                     "children": [
                                         {
@@ -1247,6 +1264,7 @@
                                 {
                                     "name": "0017_Contagem de Plaquetas",
                                     "id_series": 17,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Contagem de Plaquetas (mil/mm3)",
                                     "children": [
                                         {
@@ -1332,6 +1350,7 @@
                 },
                 {
                     "name": "1020_Bioquímica",
+                    "node_icon": "icon_biochemistry",
                     "name_to_print": "Bioquímica",
                     "children": [
                         {
@@ -1341,6 +1360,7 @@
                                 {
                                     "name": "0020_Glicose",
                                     "id_series": 20,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Glicose (mg/dL)",
                                     "children": [
                                         {
@@ -1423,6 +1443,7 @@
                                 {
                                     "name": "0021_Ureia",
                                     "id_series": 21,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Ureia (mg/dL)",
                                     "children": [
                                         {
@@ -1490,6 +1511,7 @@
                                 {
                                     "name": "0022_Creatinina",
                                     "id_series": 22,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Creatinina (mg/dL)",
                                     "children": [
                                         {
@@ -1557,6 +1579,7 @@
                                 {
                                     "name": "0026_Amilase",
                                     "id_series": 26,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Amilase (U/L)",
                                     "children": [
                                         {
@@ -1594,6 +1617,7 @@
                                 {
                                     "name": "0027_Lipase",
                                     "id_series": 27,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Lipase (U/L)",
                                     "children": [
                                         {
@@ -1631,6 +1655,7 @@
                                 {
                                     "name": "0058_Proteína C Reativa Ultrassensível",
                                     "id_series": 58,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Proteína C Reativa Ultrassensível (mg/dL)",
                                     "children": [
                                         {
@@ -1668,6 +1693,7 @@
                                 {
                                     "name": "0061_Ferritina",
                                     "id_series": 61,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Ferritina (ng/mL)",
                                     "children": [
                                         {
@@ -1705,6 +1731,7 @@
                                 {
                                     "name": "0097_Ácido Úrico",
                                     "id_series": 97,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Ácido Úrico (mg/dL)",
                                     "children": [
                                         {
@@ -1742,6 +1769,7 @@
                                 {
                                     "name": "0049_Creatino Quinase Total",
                                     "id_series": 49,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Creatino Quinase Total (U/L)",
                                     "children": [
                                         {
@@ -1770,6 +1798,7 @@
                                 {
                                     "name": "0030_Sódio",
                                     "id_series": 30,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Sódio (mEq/L)",
                                     "children": [
                                         {
@@ -1807,6 +1836,7 @@
                                 {
                                     "name": "0031_Potássio",
                                     "id_series": 31,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Potássio (mEq/L)",
                                     "children": [
                                         {
@@ -1874,6 +1904,7 @@
                                 {
                                     "name": "0023_Ferro",
                                     "id_series": 23,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Ferro (mcg/dL)",
                                     "children": [
                                         {
@@ -1911,6 +1942,7 @@
                                 {
                                     "name": "0028_Calcio",
                                     "id_series": 28,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Calcio (mg/dL)",
                                     "children": [
                                         {
@@ -1948,6 +1980,7 @@
                                 {
                                     "name": "0029_Fosforo Inorgânico",
                                     "id_series": 29,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Fosforo Inorgânico (mg/dL)",
                                     "children": [
                                         {
@@ -1985,6 +2018,7 @@
                                 {
                                     "name": "0032_Magnésio",
                                     "id_series": 32,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Magnésio (mg/dL)",
                                     "children": [
                                         {
@@ -2022,6 +2056,7 @@
                                 {
                                     "name": "0060_Acido Fólico",
                                     "id_series": 60,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Acido Fólico (ng/mL)",
                                     "children": [
                                         {
@@ -2065,6 +2100,7 @@
                                 {
                                     "name": "0059_Dosagem de Vitamina B12 (Cobalamina)",
                                     "id_series": 59,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Dosagem de Vitamina B12 (Cobalamina) (pg/mL)",
                                     "children": [
                                         {
@@ -2087,6 +2123,7 @@
                                 {
                                     "name": "0062_25-Hidroxi Vitamina D",
                                     "id_series": 62,
+                                    "node_icon": "time_series",
                                     "name_to_print": "25-Hidroxi Vitamina D (ng/mL)",
                                     "children": [
                                         {
@@ -2132,6 +2169,7 @@
                         {
                             "name": "0070_Tempo de Sangramento",
                             "id_series": 70,
+                            "node_icon": "time_series",
                             "name_to_print": "Tempo de Sangramento (Minutos)",
                             "children": [
                                 {
@@ -2184,6 +2222,7 @@
                         {
                             "name": "0071_Contagem de Plaquetas",
                             "id_series": 71,
+                            "node_icon": "time_series",
                             "name_to_print": "Contagem de Plaquetas (mil/mm3)",
                             "children": [
                                 {
@@ -2236,6 +2275,7 @@
                         {
                             "name": "0072_Protrombina (Padrão)",
                             "id_series": 72,
+                            "node_icon": "time_series",
                             "name_to_print": "Protrombina (Padrão) (Seg.)",
                             "children": [
                                 {
@@ -2276,6 +2316,7 @@
                         {
                             "name": "0073_Protrombina (Cliente)",
                             "id_series": 73,
+                            "node_icon": "time_series",
                             "name_to_print": "Protrombina (Cliente) (Seg.)",
                             "children": [
                                 {
@@ -2316,6 +2357,7 @@
                         {
                             "name": "0074_Atividade de Protrombina",
                             "id_series": 74,
+                            "node_icon": "time_series",
                             "name_to_print": "Atividade de Protrombina",
                             "children": [
                                 {
@@ -2368,6 +2410,7 @@
                         {
                             "name": "0075_Protrombina (Relação Cliente/Padrão)",
                             "id_series": 75,
+                            "node_icon": "time_series",
                             "name_to_print": "Protrombina (Relação Cliente/Padrão)",
                             "children": [
                                 {
@@ -2408,6 +2451,7 @@
                         {
                             "name": "0076_Relação Padrão Internacional (INR)",
                             "id_series": 76,
+                            "node_icon": "time_series",
                             "name_to_print": "Relação Padrão Internacional (INR)",
                             "children": [
                                 {
@@ -2448,6 +2492,7 @@
                         {
                             "name": "0077_Sensibilidade Internacional (ISI)",
                             "id_series": 77,
+                            "node_icon": "time_series",
                             "name_to_print": "Sensibilidade Internacional (ISI)",
                             "children": [
                                 {
@@ -2488,6 +2533,7 @@
                         {
                             "name": "0078_Tromboplastina Parcial Ativada (Padrão)",
                             "id_series": 78,
+                            "node_icon": "time_series",
                             "name_to_print": "Tromboplastina Parcial Ativada (Padrão) (Seg.)",
                             "children": [
                                 {
@@ -2528,6 +2574,7 @@
                         {
                             "name": "0079_Tromboplastina Parcial Ativada (Cliente)",
                             "id_series": 79,
+                            "node_icon": "time_series",
                             "name_to_print": "Tromboplastina Parcial Ativada (Cliente) (Seg.)",
                             "children": [
                                 {
@@ -2568,6 +2615,7 @@
                         {
                             "name": "0080_Tromboplastina (Relação Cliente/Padrão)",
                             "id_series": 80,
+                            "node_icon": "time_series",
                             "name_to_print": "Tromboplastina (Relação Cliente/Padrão)",
                             "children": [
                                 {
@@ -2614,6 +2662,7 @@
                         {
                             "name": "0018_Hemoglobina Glicada (Hba1c)",
                             "id_series": 18,
+                            "node_icon": "time_series",
                             "name_to_print": "Hemoglobina Glicada (Hba1c) (Hb)",
                             "children": [
                                 {
@@ -2651,6 +2700,7 @@
                         {
                             "name": "0019_Glicemia Media Estimada",
                             "id_series": 19,
+                            "node_icon": "time_series",
                             "name_to_print": "Glicemia Media Estimada (mg/dL)",
                             "children": [
                                 {
@@ -2679,6 +2729,7 @@
                         {
                             "name": "0034_Proteínas Totais",
                             "id_series": 34,
+                            "node_icon": "time_series",
                             "name_to_print": "Proteínas Totais (g/dL)",
                             "children": [
                                 {
@@ -2701,6 +2752,7 @@
                         {
                             "name": "0035_Transaminase Pirúvica (Alt)",
                             "id_series": 35,
+                            "node_icon": "time_series",
                             "name_to_print": "Transaminase Pirúvica (Alt) (U/L)",
                             "children": [
                                 {
@@ -2738,6 +2790,7 @@
                         {
                             "name": "0036_Transaminase Oxalacética (Ast)",
                             "id_series": 36,
+                            "node_icon": "time_series",
                             "name_to_print": "Transaminase Oxalacética (Ast) (U/L)",
                             "children": [
                                 {
@@ -2775,6 +2828,7 @@
                         {
                             "name": "0037_Fosfatase Alcalina",
                             "id_series": 37,
+                            "node_icon": "time_series",
                             "name_to_print": "Fosfatase Alcalina (U/L)",
                             "children": [
                                 {
@@ -2827,6 +2881,7 @@
                         {
                             "name": "0038_Gama Glutamil Transpeptidase",
                             "id_series": 38,
+                            "node_icon": "time_series",
                             "name_to_print": "Gama Glutamil Transpeptidase (U/L)",
                             "children": [
                                 {
@@ -2849,6 +2904,7 @@
                         {
                             "name": "0039_Bilirrubina Direta",
                             "id_series": 39,
+                            "node_icon": "time_series",
                             "name_to_print": "Bilirrubina Direta (mg/dL)",
                             "children": [
                                 {
@@ -2901,6 +2957,7 @@
                         {
                             "name": "0040_Bilirrubina Indireta",
                             "id_series": 40,
+                            "node_icon": "time_series",
                             "name_to_print": "Bilirrubina Indireta (mg/dL)",
                             "children": [
                                 {
@@ -2953,6 +3010,7 @@
                         {
                             "name": "0041_Bilirrubina Total",
                             "id_series": 41,
+                            "node_icon": "time_series",
                             "name_to_print": "Bilirrubina Total (mg/dL)",
                             "children": [
                                 {
@@ -3011,6 +3069,7 @@
                         {
                             "name": "0042_Colesterol",
                             "id_series": 42,
+                            "node_icon": "time_series",
                             "name_to_print": "Colesterol (mg/dL)",
                             "children": [
                                 {
@@ -3048,6 +3107,7 @@
                         {
                             "name": "0043_Colesterol - HDL",
                             "id_series": 43,
+                            "node_icon": "time_series",
                             "name_to_print": "Colesterol - HDL (mg/dL)",
                             "children": [
                                 {
@@ -3085,6 +3145,7 @@
                         {
                             "name": "0044_Triglicerídeos",
                             "id_series": 44,
+                            "node_icon": "time_series",
                             "name_to_print": "Triglicerídeos (mg/dL)",
                             "children": [
                                 {
@@ -3122,6 +3183,7 @@
                         {
                             "name": "0045_Colesterol - LDL",
                             "id_series": 45,
+                            "node_icon": "time_series",
                             "name_to_print": "Colesterol - LDL (mg/dL)",
                             "children": [
                                 {
@@ -3159,6 +3221,7 @@
                         {
                             "name": "0046_Colesterol - VLDL",
                             "id_series": 46,
+                            "node_icon": "time_series",
                             "name_to_print": "Colesterol - VLDL (mg/dL)",
                             "children": [
                                 {
@@ -3188,6 +3251,7 @@
                         {
                             "name": "0047_Colesterol - NHDL",
                             "id_series": 47,
+                            "node_icon": "time_series",
                             "name_to_print": "Colesterol - NHDL (mg/dL)",
                             "children": [
                                 {
@@ -3225,6 +3289,7 @@
                         {
                             "name": "0048_Aspecto do Soro",
                             "id_series": 48,
+                            "node_icon": "time_series",
                             "name_to_print": "Aspecto do Soro",
                             "children": [
                                 {
@@ -3248,6 +3313,7 @@
                         {
                             "name": "0051_Tiroxina Livre",
                             "id_series": 51,
+                            "node_icon": "time_series",
                             "name_to_print": "Tiroxina Livre (ng/dL)",
                             "children": [
                                 {
@@ -3291,6 +3357,7 @@
                         {
                             "name": "0052_Hormônio Estimulante da Tireoide",
                             "id_series": 52,
+                            "node_icon": "time_series",
                             "name_to_print": "Hormônio Estimulante da Tireoide (mcUI/mL)",
                             "children": [
                                 {
@@ -3334,6 +3401,7 @@
                         {
                             "name": "0063_Paratormônio (Molécula Inteira)",
                             "id_series": 63,
+                            "node_icon": "time_series",
                             "name_to_print": "Paratormônio (Molécula Inteira) (pg/mL)",
                             "children": [
                                 {
@@ -3377,6 +3445,7 @@
                         {
                             "name": "0064_Antígeno Prostático Especifico Total",
                             "id_series": 64,
+                            "node_icon": "time_series",
                             "name_to_print": "Antígeno Prostático Especifico Total (ng/mL)",
                             "children": [
                                 {
@@ -3399,6 +3468,7 @@
                         {
                             "name": "0065_Ag. Prostático Especifico, Fração Livre",
                             "id_series": 65,
+                            "node_icon": "time_series",
                             "name_to_print": "Ag. Prostático Especifico, Fração Livre (ng/mL)",
                             "children": [
                                 {
@@ -3417,6 +3487,7 @@
                         {
                             "name": "0066_Relação PSA Livre/PSA Total",
                             "id_series": 66,
+                            "node_icon": "time_series",
                             "name_to_print": "Relação PSA Livre/PSA Total",
                             "children": [
                                 {
@@ -3445,6 +3516,7 @@
                         {
                             "name": "0098_Triiodotironina Total",
                             "id_series": 98,
+                            "node_icon": "time_series",
                             "name_to_print": "Triiodotironina Total (ng/dL)",
                             "children": [
                                 {
@@ -3488,6 +3560,7 @@
                         {
                             "name": "0099_Testosterona",
                             "id_series": 99,
+                            "node_icon": "time_series",
                             "name_to_print": "Testosterona (ng/dL)",
                             "children": [
                                 {
@@ -3510,6 +3583,7 @@
                         {
                             "name": "0100_Testosterona Biodisponível",
                             "id_series": 100,
+                            "node_icon": "time_series",
                             "name_to_print": "Testosterona Biodisponível (ng/dL)",
                             "children": [
                                 {
@@ -3532,6 +3606,7 @@
                         {
                             "name": "0101_Testosterona Livre",
                             "id_series": 101,
+                            "node_icon": "time_series",
                             "name_to_print": "Testosterona Livre (pmol/L)",
                             "children": [
                                 {
@@ -3560,6 +3635,7 @@
                         {
                             "name": "0102_Globulina Ligadora do Hormônio Sexual",
                             "id_series": 102,
+                            "node_icon": "time_series",
                             "name_to_print": "Globulina Ligadora do Hormônio Sexual (nmol/L)",
                             "children": [
                                 {
@@ -3588,6 +3664,7 @@
                         {
                             "name": "0068_Grupo Sanguíneo",
                             "id_series": 68,
+                            "node_icon": "time_series",
                             "name_to_print": "Grupo Sanguíneo",
                             "children": [
                                 {
@@ -3605,6 +3682,7 @@
                         {
                             "name": "0069_Fator RH",
                             "id_series": 69,
+                            "node_icon": "time_series",
                             "name_to_print": "Fator RH",
                             "children": [
                                 {
@@ -3625,6 +3703,7 @@
         },
         {
             "name": "1024_Urina",
+            "node_icon": "icon_urin",
             "name_to_print": "Urina",
             "children": [
                 {
@@ -3634,6 +3713,7 @@
                         {
                             "name": "0081_Aspecto",
                             "id_series": 81,
+                            "node_icon": "time_series",
                             "name_to_print": "Aspecto",
                             "children": [
                                 {
@@ -3691,6 +3771,7 @@
                         {
                             "name": "0082_Cor",
                             "id_series": 82,
+                            "node_icon": "time_series",
                             "name_to_print": "Cor",
                             "children": [
                                 {
@@ -3748,6 +3829,7 @@
                         {
                             "name": "0083_Densidade",
                             "id_series": 83,
+                            "node_icon": "time_series",
                             "name_to_print": "Densidade",
                             "children": [
                                 {
@@ -3830,6 +3912,7 @@
                         {
                             "name": "0084_Determinação do pH",
                             "id_series": 84,
+                            "node_icon": "time_series",
                             "name_to_print": "Determinação do pH",
                             "children": [
                                 {
@@ -3912,6 +3995,7 @@
                         {
                             "name": "0085_Pesquisa de Nitrito",
                             "id_series": 85,
+                            "node_icon": "time_series",
                             "name_to_print": "Pesquisa de Nitrito",
                             "children": [
                                 {
@@ -3969,6 +4053,7 @@
                         {
                             "name": "0086_Pesquisa de Proteína",
                             "id_series": 86,
+                            "node_icon": "time_series",
                             "name_to_print": "Pesquisa de Proteína (g/L)",
                             "children": [
                                 {
@@ -4051,6 +4136,7 @@
                         {
                             "name": "0087_Pesquisa de Glicose",
                             "id_series": 87,
+                            "node_icon": "time_series",
                             "name_to_print": "Pesquisa de Glicose (g/L)",
                             "children": [
                                 {
@@ -4133,6 +4219,7 @@
                         {
                             "name": "0088_Pesquisa de Cetonas",
                             "id_series": 88,
+                            "node_icon": "time_series",
                             "name_to_print": "Pesquisa de Cetonas",
                             "children": [
                                 {
@@ -4190,6 +4277,7 @@
                         {
                             "name": "0089_Pesquisa de Urobilinogênio",
                             "id_series": 89,
+                            "node_icon": "time_series",
                             "name_to_print": "Pesquisa de Urobilinogênio (mg/dL)",
                             "children": [
                                 {
@@ -4272,6 +4360,7 @@
                         {
                             "name": "0090_Pesquisa de Bilirrubina",
                             "id_series": 90,
+                            "node_icon": "time_series",
                             "name_to_print": "Pesquisa de Bilirrubina",
                             "children": [
                                 {
@@ -4329,6 +4418,7 @@
                         {
                             "name": "0091_Pesquisa de Hemoglobina",
                             "id_series": 91,
+                            "node_icon": "time_series",
                             "name_to_print": "Pesquisa de Hemoglobina",
                             "children": [
                                 {
@@ -4380,6 +4470,7 @@
                                 {
                                     "name": "0092_Hemácias",
                                     "id_series": 92,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Hemácias (/mcL)",
                                     "children": [
                                         {
@@ -4447,6 +4538,7 @@
                                 {
                                     "name": "0093_Leucócitos",
                                     "id_series": 93,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Leucócitos (/mcL)",
                                     "children": [
                                         {
@@ -4514,6 +4606,7 @@
                                 {
                                     "name": "0094_Cristais",
                                     "id_series": 94,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Cristais",
                                     "children": [
                                         {
@@ -4561,6 +4654,7 @@
                                 {
                                     "name": "0095_Cilindros",
                                     "id_series": 95,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Cilindros (/mcL)",
                                     "children": [
                                         {
@@ -4628,6 +4722,7 @@
                                 {
                                     "name": "0096_Células Epiteliais",
                                     "id_series": 96,
+                                    "node_icon": "time_series",
                                     "name_to_print": "Células Epiteliais (/mcL)",
                                     "children": [
                                         {

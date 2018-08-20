@@ -1,0 +1,43 @@
+[
+    {
+        "name": "path_node_icon",
+        "type": "prefix",
+        "value": "https://s3-sa-east-1.amazonaws.com/mvp-02-azor-diagnostics/img/node_icons/"
+    },
+    {
+        "name": "icon_blood",
+        "type": "icon",
+        "prefix": "path_node_icon",
+        "value": "vial_blood.png"
+    },
+    {
+        "name": "icon_biochemistry",
+        "type": "icon",
+        "prefix": "path_node_icon",
+        "value": "vial_biochemistry.png"
+    },
+    {
+        "name": "icon_sperm",
+        "type": "icon",
+        "prefix": "path_node_icon",
+        "value": "vial_sperm.png"
+    },
+    {
+        "name": "icon_urin",
+        "type": "icon",
+        "prefix": "path_node_icon",
+        "value": "vial_urin.png"
+    },
+    {
+        "name": "icon_feces",
+        "type": "icon",
+        "prefix": "path_node_icon",
+        "value": "vial_feces.png"
+    },
+    {
+        "name": "time_series",
+        "type": "icon",
+        "prefix": "path_node_icon",
+        "value": "time_series.png"
+    }
+]

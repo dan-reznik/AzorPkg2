@@ -40,5 +40,29 @@
         "id_patient": 2,
         "id_estudo": 3,
         "notification": "Anemia"
+    },
+    {
+        "id_doctor": "all",
+        "id_patient": 5,
+        "id_estudo": 5,
+        "notification": "Tireoidite Hashimoto"
+    },
+    {
+        "id_doctor": "all",
+        "id_patient": 5,
+        "id_estudo": 1,
+        "notification": "Pós-Tireoidect"
+    },
+    {
+        "id_doctor": "all",
+        "id_patient": 5,
+        "id_estudo": 6,
+        "notification": "Próstata"
+    },
+    {
+        "id_doctor": "all",
+        "id_patient": 5,
+        "id_estudo": 7,
+        "notification": "Painel Metabolico"
     }
 ]

@@ -1,6 +1,6 @@
-curl https://dan-reznik.ocpu.io/AzorPkg2/R/url_to_jsons/json?auto_unbox=true -H "Content-Type: application/json" -d '{}'
+# get resource paths
 
-curl https://dan-reznik.ocpu.io/AzorPkg2/R/url_to_ref_cards/json?auto_unbox=true -H "Content-Type: application/json" -d '{}'
+curl https://dan-reznik.ocpu.io/AzorPkg2/R/resource_paths/json?auto_unbox=true -H "Content-Type: application/json" -d '{}'
 
 # teste no reference
 

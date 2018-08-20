@@ -12,6 +12,7 @@
             "children": [
                 {
                     "name": "20180401_1001_Sangue",
+                    "node_icon": "icon_blood",
                     "name_to_print": "Sangue",
                     "children": [
                         {
@@ -317,6 +318,7 @@
                         },
                         {
                             "name": "20180401_1020_Bioquímica",
+                            "node_icon": "icon_biochemistry",
                             "name_to_print": "Bioquímica",
                             "children": [
                                 {
@@ -1134,6 +1136,7 @@
             "children": [
                 {
                     "name": "20170729_1001_Sangue",
+                    "node_icon": "icon_blood",
                     "name_to_print": "Sangue",
                     "children": [
                         {
@@ -1439,6 +1442,7 @@
                         },
                         {
                             "name": "20170729_1020_Bioquímica",
+                            "node_icon": "icon_biochemistry",
                             "name_to_print": "Bioquímica",
                             "children": [
                                 {
@@ -2131,6 +2135,7 @@
             "children": [
                 {
                     "name": "20170509_1001_Sangue",
+                    "node_icon": "icon_blood",
                     "name_to_print": "Sangue",
                     "children": [
                         {
@@ -2436,6 +2441,7 @@
                         },
                         {
                             "name": "20170509_1020_Bioquímica",
+                            "node_icon": "icon_biochemistry",
                             "name_to_print": "Bioquímica",
                             "children": [
                                 {
@@ -2854,6 +2860,7 @@
             "children": [
                 {
                     "name": "20170224_1001_Sangue",
+                    "node_icon": "icon_blood",
                     "name_to_print": "Sangue",
                     "children": [
                         {
@@ -2950,6 +2957,7 @@
             "children": [
                 {
                     "name": "20170119_1001_Sangue",
+                    "node_icon": "icon_blood",
                     "name_to_print": "Sangue",
                     "children": [
                         {
@@ -3255,6 +3263,7 @@
                         },
                         {
                             "name": "20170119_1020_Bioquímica",
+                            "node_icon": "icon_biochemistry",
                             "name_to_print": "Bioquímica",
                             "children": [
                                 {

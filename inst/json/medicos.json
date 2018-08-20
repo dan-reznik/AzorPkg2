@@ -5,15 +5,19 @@
         "login": "g_campana",
         "estudos": "all",
         "patients": "1,2,3",
-        "CRM": "123456/SP"
+        "CRM": "123456/SP",
+        "phone": "(11) 2121-1111",
+        "email": "dan@azordiagnostics.com"
     },
     {
         "id_doctor": 2,
         "name_doctor": "Edgar Rizzatti",
         "login": "e_rizzatti",
-        "estudos": "1,2,3",
-        "patients": "none",
-        "CRM": "123456/SP"
+        "estudos": "all",
+        "patients": "all",
+        "CRM": "123456/SP",
+        "phone": "(11) 2121-2222",
+        "email": "dan@azordiagnostics.com"
     },
     {
         "id_doctor": 3,
@@ -21,7 +25,9 @@
         "login": "t_julio",
         "estudos": "all",
         "patients": "all",
-        "CRM": "123456/SP"
+        "CRM": "123456/SP",
+        "phone": "(11) 2121-3333",
+        "email": "dan@azordiagnostics.com"
     },
     {
         "id_doctor": 4,
@@ -29,22 +35,28 @@
         "login": "w_shcolnik",
         "estudos": "1,2,3",
         "patients": "1,2",
-        "CRM": "123456/RJ"
+        "CRM": "123456/RJ",
+        "phone": "(21) 2121-4444",
+        "email": "dan@azordiagnostics.com"
     },
     {
         "id_doctor": 5,
         "name_doctor": "Sergio Figueiredo",
         "login": "s_figueiredo",
         "estudos": "1,2,3",
-        "patients": "1,2,3",
-        "CRM": "123456/RJ"
+        "patients": "none",
+        "CRM": "123456/RJ",
+        "phone": "(21) 2121-5555",
+        "email": "dan@azordiagnostics.com"
     },
     {
         "id_doctor": 6,
         "name_doctor": "Gustavo Stuani",
         "login": "g_stuani",
-        "estudos": "1,2,3",
-        "patients": "1,2,3",
-        "CRM": "123456/SP"
+        "estudos": "all",
+        "patients": "all",
+        "CRM": "123456/SP",
+        "phone": "(11) 2121-6666",
+        "email": "dan@azordiagnostics.com"
     }
 ]

@@ -1,0 +1,22 @@
+[
+    {
+        "entry": "dirPkg",
+        "value": "../AzorPkg2/inst/json"
+    },
+    {
+        "entry": "base_refs",
+        "value": "https://dan-reznik.ocpu.io/AzorPkg2/marked/"
+    },
+    {
+        "entry": "path_node_icons",
+        "value": "https://s3-sa-east-1.amazonaws.com/mvp-02-azor-diagnostics/img/node_icons/"
+    },
+    {
+        "entry": "json_tree",
+        "value": "https://dan-reznik.ocpu.io/AzorPkg2/json/"
+    },
+    {
+        "entry": "path_json_tree",
+        "value": "https://s3-sa-east-1.amazonaws.com/mvp-02-azor-diagnostics/json/"
+    }
+]

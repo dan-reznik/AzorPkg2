@@ -12,6 +12,7 @@
             "children": [
                 {
                     "name": "20180401_1001_Sangue",
+                    "node_icon": "icon_blood",
                     "name_to_print": "Sangue",
                     "children": [
                         {
@@ -317,6 +318,7 @@
                         },
                         {
                             "name": "20180401_1020_Bioquímica",
+                            "node_icon": "icon_biochemistry",
                             "name_to_print": "Bioquímica",
                             "children": [
                                 {
@@ -1126,6 +1128,7 @@
             "children": [
                 {
                     "name": "20170729_1001_Sangue",
+                    "node_icon": "icon_blood",
                     "name_to_print": "Sangue",
                     "children": [
                         {
@@ -1431,6 +1434,7 @@
                         },
                         {
                             "name": "20170729_1020_Bioquímica",
+                            "node_icon": "icon_biochemistry",
                             "name_to_print": "Bioquímica",
                             "children": [
                                 {
@@ -2123,6 +2127,7 @@
             "children": [
                 {
                     "name": "20170509_1001_Sangue",
+                    "node_icon": "icon_blood",
                     "name_to_print": "Sangue",
                     "children": [
                         {
@@ -2428,6 +2433,7 @@
                         },
                         {
                             "name": "20170509_1020_Bioquímica",
+                            "node_icon": "icon_biochemistry",
                             "name_to_print": "Bioquímica",
                             "children": [
                                 {
@@ -2788,45 +2794,6 @@
                                     "tipo": "Nu"
                                 }
                             ]
-                        },
-                        {
-                            "name": "20170509_1018_PSA Total e Livre",
-                            "name_to_print": "PSA Total e Livre",
-                            "children": [
-                                {
-                                    "name": "20170509_0064_Antígeno Prostático Especifico Total",
-                                    "name_to_print": "Antígeno Prostático Especifico Total: 2.22 ng/mL",
-                                    "id_valor": 64,
-                                    "valor": "2.22",
-                                    "name_abbrev": "psatotal",
-                                    "png_ref": "43a-psa-total.png",
-                                    "unidade": "ng/mL",
-                                    "metodo": "ensaio imunoenzimático por quimiluminescência",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20170509_0065_Ag. Prostático Especifico, Fração Livre",
-                                    "name_to_print": "Ag. Prostático Especifico, Fração Livre: 0.54 ng/mL",
-                                    "id_valor": 65,
-                                    "valor": "0.54",
-                                    "name_abbrev": "psalivre",
-                                    "png_ref": "43b-psa-livre.png",
-                                    "unidade": "ng/mL",
-                                    "metodo": "ensaio imunoenzimático por quimiluminescência",
-                                    "tipo": "Nu"
-                                },
-                                {
-                                    "name": "20170509_0066_Relação PSA Livre/PSA Total",
-                                    "name_to_print": "Relação PSA Livre/PSA Total: 0.24",
-                                    "id_valor": 66,
-                                    "valor": "0.24",
-                                    "name_abbrev": "psarel",
-                                    "png_ref": "43c-psa-rel.png",
-                                    "unidade": "[Φ]",
-                                    "metodo": "ensaio imunoenzimático por quimiluminescência",
-                                    "tipo": "N"
-                                }
-                            ]
                         }
                     ]
                 }
@@ -2838,6 +2805,7 @@
             "children": [
                 {
                     "name": "20170224_1001_Sangue",
+                    "node_icon": "icon_blood",
                     "name_to_print": "Sangue",
                     "children": [
                         {
@@ -2934,6 +2902,7 @@
             "children": [
                 {
                     "name": "20170119_1001_Sangue",
+                    "node_icon": "icon_blood",
                     "name_to_print": "Sangue",
                     "children": [
                         {
@@ -3239,6 +3208,7 @@
                         },
                         {
                             "name": "20170119_1020_Bioquímica",
+                            "node_icon": "icon_biochemistry",
                             "name_to_print": "Bioquímica",
                             "children": [
                                 {
